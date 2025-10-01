@@ -1,0 +1,7763 @@
+JORNADA PRIMERA
+Sale la princesa de Bretaña, vestida de corto, de caza, en brazos de dos caballeros, haciendo ruido dentro, y voces.
+[DENTRO]
+0001
+Poned delante las espadas.
+OTRO
+¡Tente
+0002
+indómito caballo!
+OTRO
+Cosa extraña,
+0003
+apenas el feroz bocado siente,
+0004
+que más que espuma argenta sangre baña.
+OTRO
+0005
+Ataje entre esos árboles la gente.
+OTRO
+0006
+cayó la gran princesa de Bretaña.
+ROSAURA
+0007
+¡Ay triste!
+ARNALDO
+Aquí, señores.
+LEONICIO
+¿Ya qué importa?
+0008
+Entrambos pies le desjarreta y corta.
+Sacan a la Princesa en brazos.
+ARNALDO
+0009
+¡Oh, maldito caballo!
+LEONICIO
+¡Oh, gran tragedia!
+FELICIANO
+0010
+¡Desdichado suceso!
+ARNALDO
+¡Fiero caso!
+LEONICIO
+0011
+Habladla.
+FELICIANO
+¿De qué sirve?
+ARNALDO
+¿Qué remedia?
+Sale Pinabelo.
+PINABELO
+0012
+Pasó el caballo el peligroso paso.
+ARNALDO
+0013
+¿Matástele?
+PINABELO
+Bien creo que la media
+0014
+lanza le atravesé, que a ser Pegaso,
+0015
+no me fuera por correr con alas.
+ARNALDO
+0016
+Mi pensamiento a la venganza igualas.
+0017
+¿Sentís, bella Rosaura?
+ROSAURA
+Estoy sin vida.
+0018
+Echadme un poco en esa hierba.
+ARNALDO
+Echadla.
+ROSAURA
+0019
+Dejadme descansar.
+ARNALDO
+Nadie la impida.
+FELICIANO
+0020
+Cubridla.
+ROSAURA
+Apartaos todos.
+ARNALDO
+Pues dejadla,
+0021
+que a fatiga y dolor estar rendida.
+Desvíanse.
+PINABELO
+0022
+Pasé con la cerviz la fuerte espalda
+0023
+y entre las crines tremolando el asta;
+0024
+quiso correr, probó.
+ARNALDO
+¡Soberbia casta!
+PINABELO
+0025
+Pero a seis pasos quebrantó las tiernas
+0026
+flores del prado con el cuerpo altivo,
+0027
+debilitadas las nerviosas piernas.
+LEONICIO
+0028
+Y el hierro pareció por el estribo.
+0029
+Ya parece imposible que disciernas
+0030
+adónde hice el golpe ejecutivo,
+0031
+porque desde el codón hasta el copete
+0032
+en pelo y sangre se revuelca y mete.
+ARNALDO
+0033
+La Princesa parece que descansa.
+FELICIANO
+0034
+Descanse, pues el sueño la ha vencido.
+PINABELO
+0035
+Clara señal que el accidente amansa.
+ARNALDO
+0036
+Que la dejemos este rato os pido.
+LEONICIO
+0037
+Allí convida aquella fuente mansa
+0038
+al apacible son de su rüido,
+0039
+con los cristales que en las peñas cuelga.
+FELICIANO
+0040
+Por llegar a estas flores se descuelga.
+ARNALDO
+0041
+Sentémonos allí mientras que llama;
+0042
+tú la gente recoge, Pinabelo.
+PINABELO
+0043
+Siguiendo fueron la ligera gama
+0044
+por quien nuestra Princesa mide el suelo.
+ARNALDO
+0045
+No falta causa a quien la caza infama.
+LEONICIO
+0046
+¿Qué ejercicio más noble tiene el suelo?
+FELICIANO
+0047
+Cuando sirve de bien, gran bien encierra.
+ARNALDO
+0048
+Bástale ser imagen de la guerra.
+Entran don Juan de Haro con tres caballeros españoles, y de camino.
+DON JUAN
+0049
+Aquí podéis descansar,
+0050
+que es insufrible la siesta.
+CABALLERO 1º
+0051
+Convida el fresco lugar.
+CABALLERO 2º
+0052
+Agradable fuente es esta.
+CABALLERO 3º
+0053
+Siempre lo fue el murmurar.
+CABALLERO 1º
+0054
+Bien dices, que murmurando
+0055
+con acento dulce y blando
+0056
+busca su primero dueño.
+DON JUAN
+0057
+Aunque no respondo al sueño,
+0058
+yo sé que me está llamando.
+CABALLERO 2º
+0059
+Duerme un poco, por tu vida,
+0060
+que has madrugado, y es corta
+0061
+la jornada, y la comida
+0062
+fue larga.
+DON JUAN
+Pienso que importa
+0063
+que sueño y descanso impida
+0064
+hasta besalla la mano
+0065
+a Rosaura.
+CABALLERO 2º
+Hasta la corte
+0066
+hay dos leguas.
+DON JUAN
+¿Monte o llano?
+CABALLERO 2º
+0067
+¿Qué puede haber que importe
+0068
+en llegar tarde o temprano?
+0069
+Demás que se ha de leer
+0070
+la carta del Rey aquí
+0071
+de lo que habemos de hacer.
+DON JUAN
+0072
+La instrucción se me dio a mí
+0073
+primero tengo de ver.
+[Saca un papel y léele.]
+“Lo que ha de hacer don Juan de Haro en esta jornada es lo siguiente: Primeramente, caminar desde León a Vizcaya, sin decir su nombre ni el de los caballeros que le acompañan; entrar en Francia, por San Juan de Luz, y caminar a Bretaña con el mismo secreto. Dos leguas antes de la corte de la princesa Rosaura, leer la carta que lleva Armindo, delante de Honorio y Taúlfo, los cuales, obedeciendo lo que en ella viene, sin exceder un punto de lo que mando, volver a León con el mismo secreto.”
+0074
+Esto dice en la instrucción;
+0075
+y si dos leguas estamos
+0076
+de la corte, aquí es razón
+0077
+que vuestra carta leamos.
+CABALLERO 2º
+0078
+Tomad.
+DON JUAN
+Casamientos son.
+CABALLERO 1º
+0079
+Así lo tengo pensado,
+0080
+que el Rey le había enviado
+0081
+por embajador.
+CABALLERO 2º
+Yo leo.
+DON JUAN
+0082
+Lee, que saber deseo
+0083
+si en esto vengo engañado.
+CABALLERO 2º
+0084
+Ya rompo el señor real.
+0085
+¡Caso extraño y desigual
+0086
+de nuestra imaginación!
+DON JUAN
+0087
+¿Cómo?
+CABALLERO 2º
+No hay más de un renglón,
+0088
+y es del Rey.
+DON JUAN
+Temo algún mal.
+[Lea.]
+CABALLERO 2º
+0089
+“Matad a don Juan de Haro.”
+DON JUAN
+0090
+¿Qué dices?
+CABALLERO 2º
+Lo que has oído.
+DON JUAN
+0091
+¡Caballeros!
+CABALLERO 3º
+No hay reparo.
+Meten mano todos.
+CABALLERO 2º
+0092
+Sea el Rey obedecido.
+DON JUAN
+0093
+Que he de defenderme es claro.
+0094
+La defensa es natural,
+0095
+y aunque esa firma es real,
+0096
+no le debéis obediencia,
+0097
+porque es traición a inocencia,
+0098
+y yo le he sido leal.
+CABALLERO 2º
+0099
+Que te defiendas o no
+0100
+hoy has de morir, don Juan.
+DON JUAN
+0101
+¡Que el Rey mi muerte escribió!
+0102
+Celos forzado le han,
+0103
+que no el servirle yo.
+0104
+Mirad que sois castellanos,
+0105
+y que ensangrentar las manos
+0106
+en mi lealtad es traición
+0107
+que infama nuestra nación.
+CABALLERO 1º
+0108
+Deja advertimientos vanos;
+0109
+encomiéndate a quien puede
+0110
+darte otra vida.
+Levántase la Princesa.
+ROSAURA
+¡Ay de mí!
+0111
+¿Qué es aquesto?
+DON JUAN
+Si él concede
+0112
+vida a mi inocencia, aquí
+0113
+con esta es justo que quede.
+Toma la Princesa un venablo que está allí.
+ROSAURA
+0114
+¡Oh, villanos extranjeros!
+0115
+¿Sois salteadores?
+CABALLERO 3º
+¿No ves
+0116
+tres caballeros fieros?
+ROSAURA
+¡Oh, fieros!,
+0117
+no fuérades uno a tres
+0118
+si fuérades caballeros.
+0119
+¡Aquí, favor, gente, hola!
+0120
+¿En la nación española
+0121
+tan gran traición ha cabido?
+Entra Arnaldo.
+ARNALDO
+0122
+¿Qué es esto?
+ROSAURA
+Seas bien venido,
+0123
+aunque yo bastaba sola.
+CABALLERO 2º
+0124
+Huyamos.
+ROSAURA
+Eso os conviene.
+HONORIO
+0125
+¡Qué gran padrino en el cielo
+0126
+siempre la inocencia tiene!
+ROSAURA
+0127
+Síguelos, Arnaldo.
+ARNALDO
+Harelo.
+CABALLERO 3º
+0128
+Tal defensa de allá viene.
+Va tras ellos Arnaldo.
+DON JUAN
+0129
+Si merezco que me des,
+0130
+señora, a besar tus pies,
+0131
+mi humildad y obligación
+0132
+dicen que es justa razón.
+ROSAURA
+0133
+¿Quién eres?
+DON JUAN
+Quien tuyo es.
+ROSAURA
+0134
+Dime despacio, extranjero,
+0135
+tu calidad, patria y nombre.
+DON JUAN
+0136
+Sabré la tuya primero,
+0137
+para que después te asombre
+0138
+lo que referirte espero.
+ROSAURA
+0139
+La princesa de Bretaña
+0140
+soy.
+DON JUAN
+El alma nunca se engaña,
+0141
+que es sol que pasa el cristal.
+0142
+Oiga tu Alteza real
+0143
+a un caballero de España.
+0144
+Vizcaya me dio principio
+0145
+de su generosa sangre
+0146
+en lo mejor y más noble
+0147
+de sus antiguos solares.
+0148
+Pidiome el rey de León,
+0149
+siendo muchacho, a mis padres.
+0150
+Fui de la Reina menino
+0151
+y fui del Príncipe paje.
+0152
+Crieme con él, creciendo
+0153
+con la edad las amistades,
+0154
+que la crianza en los hombres
+0155
+es quien mejores los hace,
+0156
+desde las espadas negras
+0157
+hasta que, en años iguales,
+0158
+blancas las ceñimos juntos,
+0159
+para mi desdicha, un martes.
+0160
+Que ese día, de unos ojos,
+0161
+por cuyo oriente el sol sale,
+0162
+fui mirado atentamente,
+0163
+no porque yo los mirase,
+0164
+que sabe Dios que no di,
+0165
+o que si miento él me falte,
+0166
+más ocasión que mis galas,
+0167
+con más brío que buen talle.
+0168
+La bella Infanta Armesinda,
+0169
+que ya parece que nacen
+0170
+las infantas de León
+0171
+con desdichas semejantes,
+0172
+fue quien digo, y desde entonces,
+0173
+ciega, procura cegarme,
+0174
+que Amor, como está desnudo,
+0175
+huye que le mire nadie.
+0176
+No tuve yo atrevimiento
+0177
+para igualarme a sus partes,
+0178
+que Amor no quiere más honra
+0179
+que vivir con sus iguales.
+0180
+Honestamente me opuse
+0181
+a sus ojos celestiales
+0182
+para que no se perdiesen
+0183
+por alto mis humildades.
+0184
+Agradecí sus favores
+0185
+como a quien le dan que guarde
+0186
+alguna cosa preciada,
+0187
+que no es bien que la maltrate,
+0188
+para que cuando Armesinda
+0189
+con su dueño se casase,
+0190
+sus favores le pudiese
+0191
+volver tan buenos y tales.
+0192
+Bordé cifras de su nombre
+0193
+en diversidad de trajes,
+0194
+y medallas y cadenas
+0195
+con el blanco y rojo esmalte.
+0196
+Saqué en fiestas sus colores,
+0197
+cintas, bandas y plumajes,
+0198
+que prendas sin posesión
+0199
+todas se las lleva el aire.
+0200
+Mas como envidia y amor
+0201
+tan mal se encubran y callen,
+0202
+mi amor descubrió la envidia
+0203
+y yo a la envidia mis males.
+0204
+Heredó el Príncipe el reino;
+0205
+dijéronle que quitase
+0206
+la ocasión de un mal suceso,
+0207
+contándole ejemplos grandes.
+0208
+Amábame el Rey entonces,
+0209
+y para no disgustarme
+0210
+enviome a la frontera
+0211
+de Navarra contra Tarfe.
+0212
+Conocí los envidiosos,
+0213
+y en pajizos tafetanes,
+0214
+entre dos manos asidas,
+0215
+puse por la envidia un áspid.
+0216
+Tomé licencia y partí
+0217
+de la ciudad una tarde,
+0218
+llevando mil bendiciones
+0219
+y mil suspiros de un ángel.
+0220
+Apenas dio por su esfera
+0221
+vuelta el sol del Pez al Aries,
+0222
+cuando por León entré
+0223
+con un victorioso alarde.
+0224
+Dobló su amor Armesinda
+0225
+obligada de mirarme
+0226
+o como a Escipión en Roma
+0227
+o como en Grecia Alejandre.
+0228
+Dobló la envidia su fuerza,
+0229
+y las personas más graves
+0230
+le aconsejaron al Rey
+0231
+que me prendiese o matase.
+0232
+Él, por no perder honor
+0233
+en pública muerte o cárcel,
+0234
+aparte me llama un día
+0235
+y, alegre, me dice aparte
+0236
+que quiere tomar estado
+0237
+y está dispuesto a casarse,
+0238
+que es gran desdicha en los reyes
+0239
+que la sucesión les falte.
+0240
+Que parta luego a Bretaña,
+0241
+y para que me acompañen,
+0242
+me dio aquellos tres que viste,
+0243
+traidores y principales.
+0244
+No me dio licencia el Rey
+0245
+para que luego le hablase,
+0246
+mas una carta a los tres
+0247
+que abriesen dos leguas antes
+0248
+que llegasen a tu corte,
+0249
+porque luego ejecutasen
+0250
+lo que hallasen por su firma.
+ROSAURA
+0251
+¿Y qué escribió?
+DON JUAN
+Que me maten.
+0252
+Obedecieron al Rey,
+0253
+siendo a la traición leales,
+0254
+hasta que tú, gran señora,
+0255
+con tu venablo llegaste
+0256
+porque te deba la vida
+0257
+y porque es justo que guarde
+0258
+un ángel a un inocente.
+0259
+Mi historia es esta.
+ROSAURA
+Es notable.
+Entra Arnaldo con Hernandillo, lacayo gracioso de don Juan, atado.
+ARNALDO
+0260
+Huyeron de manera aquellos hombres
+0261
+que se me han escondido entre los árboles,
+0262
+que no ha sido posible dar con ellos,
+0263
+pero saliendo hasta el real camino,
+0264
+este traidor hallé, que traigo atado,
+0265
+porque pienso que es de ellos.
+ROSAURA
+Bien has hecho.
+DON JUAN
+0266
+¿Hernandillo?
+HERNANDILLO
+Señor de mis entrañas,
+0267
+dame esos pies y para que te abrace,
+0268
+manda que me desaten estas manos.
+DON JUAN
+0269
+Dé licencia, señora, vuestra Alteza,
+0270
+que Hernando es mi criado y es honrado.
+ROSAURA
+0271
+Arnaldo, desatadle.
+ARNALDO
+Y yo le fío,
+0272
+que es como un César.
+DON JUAN
+Es de la Montaña,
+0273
+criele yo en mi casa desde niño.
+HERNANDILLO
+0274
+No me atara las manos Aristóteles,
+0275
+con todo su poder, a no decirme:
+0276
+“Ríndete a la princesa de Bretaña.”
+0277
+Rendime, porque vienes a decirla
+0278
+que venga a ser nuestra ama si ella quiere,
+0279
+que si no, por el hijo de mi padre,
+0280
+que apretara la espada en estos puños
+0281
+como cuando la carta san Alejo.
+DON JUAN
+0282
+Mira que estás delante de su Alteza.
+HERNANDILLO
+0283
+¡Oh, seráfica Reina, oh reina intrínseca,
+0284
+perdona este lacayo inadvertido
+0285
+y dale a Hernando, aunque se juzga indigno,
+0286
+para besar tus mantecosas manos,
+0287
+que yo las volveré luego que toquen
+0288
+esta boca obligada a tu alabanza!
+ROSAURA
+0289
+estimo tu donaire.
+HERNANDILLO
+Favor súbito;
+0290
+digo que tal palabra, y de tal Reina,
+0291
+mi blasón ha de ser de aquí adelante,
+0292
+y así en el campo raso de tu boca,
+0293
+de hoy más serán mis armas tus donaires.
+DON JUAN
+0294
+No puedo, aunque delante de su Alteza,
+0295
+dejar, Arnaldo noble, de abrazaros;
+0296
+déboos la vida, y si jurar es lícito,
+0297
+por la de la Princesa, mi señora,
+0298
+juro de ser hasta la muerte vuestro;
+0299
+ayudaros en todo caso de armas,
+0300
+ser enemigo de quien vos lo fuéredes
+0301
+y de los vuestros solamente amigo.
+ARNALDO
+0302
+Decidme vuestro nombre.
+DON JUAN
+Don Juan de Haro,
+0303
+noble español, que basta vizcaíno.
+ARNALDO
+0304
+Don Juan, vuestra persona y vuestra pena
+0305
+me han obligado a amaros y a serviros,
+0306
+y así, os suplico que aceptéis mi casa
+0307
+el tiempo que viváis en nuestra corte,
+0308
+donde sabré despacio este suceso
+0309
+y os serviré cuanto mi amor me pide,
+0310
+y en fe de esta verdad vuelvo a abrazaros.
+ROSAURA
+0311
+Id, Arnaldo, juntando vuestra gente;
+0312
+dad orden de que parta y dadle luego
+0313
+a don Juan un caballo de los míos.
+DON JUAN
+0314
+Beso tus pies.
+HERNANDILLO
+Señor, ¿qué ha sido esto?
+DON JUAN
+0315
+Presto sabrás, Hernando, mis desdichas;
+0316
+matadme manda el Rey y lo ejecutan
+0317
+mis deudos.
+HERNANDILLO
+¡Ah traidores!
+DON JUAN
+Y lo hicieran
+0318
+si Rosaura y Arnaldo no vinieran.
+Vanse, y quedan Rosaura sola.
+ROSAURA
+0319
+Mucho parece este español sirena,
+0320
+pues hablando me mueve los sentidos,
+0321
+cuya agradable voz a mis oídos
+0322
+con dulce y regalado acento suena.
+0323
+Así tiene a sus quejas Filomena
+0324
+los árboles y el viento suspendidos,
+0325
+y están los ojos del pastor dormidos,
+0326
+que de Mercurio al agua el curso enfrena.
+0327
+Guardarme debo, amor, de tus enojos
+0328
+y pues tan cerca el enemigo veo,
+0329
+seré griega huyendo y venciendo palma.
+0330
+No sea este español para mis ojos
+0331
+sirena, ruiseñor, Mercurio, Orfeo,
+0332
+que un dulce hablar es piedra imán del alma.
+Vase. Y salen los tres caballeros que vinieron con don Juan.
+HONORIO
+0333
+En fin, ¿fue Rosaura aquella?
+CABALLERO 2º
+0334
+Sí, que de cazar cansada
+0335
+tenía el sueño eclipsada
+0336
+de sus ojos la luz bella,
+0337
+que es mujer tan varonil
+0338
+que nunca del monte sale
+0339
+siguiendo al ciervo, aunque iguale
+0340
+su curso al viento sutil.
+0341
+O con el caballo fuerte
+0342
+hiriendo al fiero animal,
+0343
+por quien Venus celestial
+0344
+llora de Adonis la muerte.
+CABALLERO 3º
+0345
+Tal nueva se tiene allá
+0346
+de su famoso valor.
+HONORIO
+0347
+Del Rey fue notable error
+0348
+querer castigarle acá.
+CABALLERO 2º
+0349
+No fue si saliera bien
+0350
+su empresa y nuestro cuidado.
+CABALLERO 3º
+0351
+Su ventura le ha guardado.
+HONORIO
+0352
+Y su inocencia también.
+CABALLERO 3º
+0353
+Yo engañado vine aquí;
+0354
+nunca tal imaginé,
+0355
+que a saberlo allá, no sé
+0356
+si el Rey me obligara así.
+0357
+Creí que estaba tratado
+0358
+de Rosaura el casamiento.
+CABALLERO 2º
+0359
+Que todos perdamos siento
+0360
+un amigo tan honrado,
+0361
+tan noble, tan valeroso,
+0362
+tan amado, tan bienquisto.
+HONORIO
+0363
+¡Oh, envidia, cómo se ha visto
+0364
+tu proceder cauteloso!
+0365
+Impides bienes ajenos;
+0366
+siempre humillas levantados,
+0367
+difamas muchos honrados
+0368
+y eclipsas cielos serenos.
+0369
+Alteras los quietos mares,
+0370
+inquietas buenas conciencias,
+0371
+sacrificas inocencias
+0372
+en tus sangrientos altares.
+0373
+Siempre a lo mejor te atreves,
+0374
+deshaces honestas famas,
+0375
+seguros lechos infamas,
+0376
+sangre de tu sangre bebes.
+0377
+No hay traición que no encamines,
+0378
+no hay deslealtad que no esfuerces,
+0379
+reyes ciegas, cetros tuerces,
+0380
+mil nobles haces Caínes.
+0381
+Nuestro deudo era don Juan,
+0382
+mas pues vive y se ha servido
+0383
+al Rey, más ventura ha sido,
+0384
+pues hoy entrambos lo están.
+0385
+el Rey con la ejecución
+0386
+y don Juan con tal hazaña.
+CABALLERO 2º
+0387
+Volvamos, Honorio, a España
+0388
+y sepa el Rey la ocasión
+0389
+de haber quedado con vida.
+CABALLERO 3º
+0390
+El cielo vuelve por él.
+CABALLERO 2º
+0391
+Clamó la sangre de Abel
+0392
+antes que fuese vertida.
+Vanse. Entra Feliciano y Doriclea, dama de la Princesa.
+DORICLEA
+0393
+¿Venís bueno?
+FELICIANO
+A tu servicio.
+DORICLEA
+0394
+¿Dónde queda la Princesa?
+FELICIANO
+0395
+Cerca.
+DORICLEA
+¿Cómo?
+FELICIANO
+Porque hoy cesa,
+0396
+de la caza, el ejercicio.
+DORICLEA
+0397
+¿Hay alguna novedad?
+FELICIANO
+0398
+De un español, un suceso
+0399
+que trajo a este monte espeso
+0400
+la envidia y la deslealtad.
+0401
+Quisiéronle dar la muerte
+0402
+sus amigos, y restaura
+0403
+su noble vida Rosaura,
+0404
+varonil, piadosa y fuerte.
+0405
+Y admitiéndole a su amparo,
+0406
+consigo le trae.
+DORICLEA
+¿Es hombre
+0407
+de valor?
+FELICIANO
+¿Pues no?
+DORICLEA
+¿Qué nombre?
+FELICIANO
+0408
+Dijo que don Juan de Haro.
+0409
+Esto es lo que pasa allá,
+0410
+dame tu cuenta de ti.
+DORICLEA
+0411
+¿Qué cuenta dará de sí
+0412
+quien tan rematada está?
+0413
+Es la cuenta que he de darte
+0414
+que cuentan mis pensamientos
+0415
+de tu ausencia los momentos,
+0416
+que amor los momentos parte.
+0417
+Y que del primer recibo
+0418
+tanto después he pagado,
+0419
+que si no estás obligado,
+0420
+en notable engaño vivo.
+FELICIANO
+0421
+Pienso, mi bien, que te pago,
+0422
+puesto que siempre te debo,
+0423
+pero oblígasme de nuevo
+0424
+a las locuras que hago.
+0425
+De mi primera pasión
+0426
+fue la causa tu hermosura,
+0427
+pero mi mayor locura
+0428
+nació de tu obligación.
+0429
+Un pájaro me retrato
+0430
+preso en tu amor, y así pruebo
+0431
+que fue tu hermosura el cebo
+0432
+y mi prisión el buen trato.
+0433
+Fueron tus ojos la liga,
+0434
+la jaula tu acogimiento,
+0435
+donde preso estoy contento
+0436
+y amor a cantar me obliga.
+0437
+Así, los amantes son,
+0438
+ya contentos con sus grillos,
+0439
+retratos de pajarillos
+0440
+que cantan en la prisión.
+DORICLEA
+0441
+Si como sabes decir,
+0442
+sabes sentir, Feliciano,
+0443
+serás mi pájaro en mano
+0444
+y yo quien te puedo asir.
+0445
+No hayas miedo que te deje
+0446
+por las águilas más altas,
+0447
+si no es que a quien eres faltas
+0448
+para que de ti me queje.
+0449
+Y porque sepas mi celo
+0450
+y cuanto en mi pecho cabe,
+0451
+sabe que Rosaura sabe
+0452
+nuestro amor.
+FELICIANO
+¡Válgame el cielo!
+0453
+¿Hás selo dicho?
+DORICLEA
+Es mi dueño;
+0454
+preguntome la razón
+0455
+de mi desvelo a ocasión
+0456
+que me vio falta de sueño.
+0457
+No se lo pude encubrir.
+FELICIANO
+0458
+¿Sábelo todo?
+DORICLEA
+Es mujer;
+0459
+todo lo quiso saber.
+FELICIANO
+0460
+Y tú, mujer en decir.
+0461
+¿Qué dirá?
+DORICLEA
+No dirá nada.
+0462
+Y yo la vi tan curiosa,
+0463
+que casi estuve celosa
+0464
+de una pregunta excusada.
+0465
+No le dio el caso disgusto;
+0466
+antes anduvo tan clara,
+0467
+que me dijo que ella amara
+0468
+si hallara igual a su gusto.
+0469
+Y que como pretendía
+0470
+tener marido a contento,
+0471
+dilataba el casamiento
+0472
+que su reino le pedía.
+FELICIANO
+0473
+Que nos cause daño espero.
+DORICLEA
+0474
+Calla, que quiere mirar,
+0475
+ya que no puede jugar,
+0476
+como tahúr son dinero.
+0477
+Yo pienso en casos terribles
+0478
+valerme de su favor,
+0479
+porque solo enoja amor
+0480
+a ignorantes y a insensibles.
+FELICIANO
+0481
+Quiera el cielo, Doriclea,
+0482
+que todo suceda así.
+DORICLEA
+0483
+¿Si viene?
+FELICIANO
+Pienso que sí,
+0484
+que grande gente se apea.
+Entran Leonicio, Pinabelo, Arnaldo, don Juan, Hernandillo, y otra gente, y la Princesa detrás; llega Doriclea a besarle las manos, y arrímanse todos al lienzo del vestuario, descubiertos.
+DORICLEA
+0485
+Venga tu Alteza con bien,
+0486
+señora mía.
+ROSAURA
+¡Oh, amiga!
+DORICLEA
+0487
+¿Traes salud?
+ROSAURA
+Eso te diga
+0488
+mi rostro airado.
+DORICLEA
+¿Con quién?
+ROSAURA
+0489
+Conmigo.
+DORICLEA
+¿No vienes buena,
+0490
+pues que contigo estás mal?
+ROSAURA
+0491
+Poco menos que mortal
+0492
+traigo en el alma una pena.
+DORICLEA
+0493
+Descanse tu Alteza un poco.
+ROSAURA
+0494
+Ya no pienso descansar.
+DORICLEA
+0495
+¿Cómo?
+ROSAURA
+Quiérenme matar.
+DORICLEA
+0496
+¿Quién?
+ROSAURA
+Un pensamiento loco.
+DORICLEA
+0497
+Siendo tuyo, ¿cómo en él
+0498
+pudo caber tal locura,
+0499
+si no es querer tu hermosura
+0500
+hurtar la fama a Luzbel?
+ROSAURA
+0501
+Cuando hablaba el otro día
+0502
+en las cosas, Doriclea,
+0503
+de tu amor…
+DORICLEA
+Cosa que sea,
+0504
+señora, la culpa mía.
+ROSAURA
+0505
+Como es peste, y me tocaba
+0506
+tu anhélito con los ojos,
+0507
+o quien más de sus enojos,
+0508
+que es el alma, libre estaba
+0509
+ha tocado de tal suerte,
+0510
+que en una blanda herida
+0511
+hizo una treta a mi vida
+0512
+con que la puso a la muerte.
+0513
+No sé yo quién el ser niega
+0514
+a amor, Doriclea hermosa,
+0515
+enfermedad contagiosa,
+0516
+pues de visitar se pega.
+0517
+Nunca me hablaras en él,
+0518
+pues tan mal agüero ha sido
+0519
+que lo menos que he perdido
+0520
+es toda el alma por él.
+DORICLEA
+0521
+¿Adónde, cómo o por quién
+0522
+así dices tanto mal?
+0523
+¿Dónde halló tu Alteza igual?
+0524
+¿Cómo y a quién quieres bien?
+0525
+¿No salió libre de aquí,
+0526
+no fue a un monte y a una sierre
+0527
+adonde solo se encierra
+0528
+el oso y el jabalí?
+0529
+La aspereza de las piedras,
+0530
+¿la ha podido enternecer?
+ROSAURA
+0531
+¿Y entre ellas no pudo haber
+0532
+algunos olmos y yedras?
+0533
+Vuelve al descuido los ojos
+0534
+a los que en la sala se están
+0535
+y luego entre ellos verán
+0536
+la causa de mis enojos,
+0537
+porque es valor sin igual.
+0538
+Y, por tu vida, que sea
+0539
+con discreción, Doriclea,
+0540
+no des a entender mi mal.
+0541
+Vuelve poco a poco y velos;
+0542
+no te detenga el volver,
+0543
+que te morirás de ver
+0544
+y me matarás de celos.
+DORICLEA
+0545
+Entre los que allí se ven,
+0546
+el conde Arnaldo es persona
+0547
+que tu pensamiento abona.
+0548
+¿Él es a quien quieres bien?
+ROSAURA
+0549
+Gracia tienes.
+DORICLEA
+No te enfades,
+0550
+que el Conde tiene valor
+0551
+para merecer tu amor.
+ROSAURA
+0552
+Más quiere amor humildades.
+DORICLEA
+0553
+¿Es Leonicio, por ventura?
+ROSAURA
+0554
+Ciega estás.
+DORICLEA
+Mándasme ver
+0555
+al descuido.
+ROSAURA
+¿Puede ser
+0556
+que se esconda luz tan pura?
+DORICLEA
+0557
+Allí queda Pinabelo…
+0558
+Pues no será Feliciano,
+0559
+siendo ya caso tan llano
+0560
+que por su amor me desvelo.
+ROSAURA
+0561
+¿No hay un forastero allí?
+0562
+¿No dice allí un español
+0563
+a voces: “Yo soy el sol
+0564
+que abrasé un alma que vi”?
+0565
+¡Cómo estás ciega! ¿En qué dudas?
+0566
+¿Qué reparas? ¿Qué porfías?
+0567
+O negabas lo que vías
+0568
+o mi pensamiento anudas,
+0569
+o miras al español
+0570
+con los ojos deslumbrados,
+0571
+o viendo tantos nublados,
+0572
+se te ha escondido mi sol.
+DORICLEA
+0573
+Buena presencia.
+ROSAURA
+¡Y qué buena!
+DORICLEA
+0574
+Perdida estás.
+ROSAURA
+No lo niego;
+0575
+fui mariposa en su fuego,
+0576
+perdime en su luz serena.
+0577
+Más daño tengo que ves,
+0578
+más dolor que significo.
+DORICLEA
+0579
+Ya, señora, no replico,
+0580
+que cuerda o que loca estás.
+0581
+Solo obedecerte quiero.
+0582
+¿Mas cómo quieres querer
+0583
+un sol que se ha de poner
+0584
+siendo en tu cielo extranjero?
+ROSAURA
+0585
+Su Rey le mandó matar
+0586
+por celos que tuvo de él,
+0587
+de cuya muerte cruel
+0588
+le pude entonces librar,
+0589
+que fue una crueldad sin ley,
+0590
+y así, es fuerza que aquí viva
+0591
+y que mi amparo reciba
+0592
+contra el poder de su Rey.
+0593
+Pues habiendo de vivir
+0594
+en mi tierra, algún remedio
+0595
+me dará amor.
+DORICLEA
+Solo el medio
+0596
+de ser Tántalo en morir.
+0597
+Que este hombre es desigual
+0598
+de quien eres, y es ser loca
+0599
+morir el agua a la boca
+0600
+y ver corriendo el cristal.
+ROSAURA
+0601
+Ya he pensado entretener
+0602
+mi pena con un engaño
+0603
+que mi honor encubre el daño
+0604
+que de amar puedo tener,
+0605
+y es que...
+DORICLEA
+¿De qué te suspendes?
+ROSAURA
+0606
+Has de jurar, Doriclea,
+0607
+que cuando tu alma sea
+0608
+ese tu amor que pretendes,
+0609
+no le has de decir jamás
+0610
+lo que te quiero decir.
+DORICLEA
+0611
+De callar hasta morir,
+0612
+juro tu vida, que es más.
+0613
+Fuera de que ¿quién osara
+0614
+perder tu gracia, señora?
+ROSAURA
+0615
+Pues oye mi intento ahora,
+0616
+verás una invención rara.
+0617
+Tú has de fingirte perdida
+0618
+por don Juan, que este es su nombre.
+DORICLEA
+0619
+¿Cómo, si soy de otro hombre
+0620
+para mujer pretendida?
+ROSAURA
+0621
+¿Y no sabe una mujer
+0622
+engañar a un tiempo a dos?
+0623
+No te enfades que, por Dios,
+0624
+que lo has de hacer y ha de ser.
+DORICLEA
+0625
+Mujer habrá que a dos quiera,
+0626
+supuesto que al uno engañe,
+0627
+mas no quieras tú que extrañe
+0628
+lo que siendo baja hiciera.
+ROSAURA
+0629
+No, que lo haces por mí
+0630
+y es a cuenta de mi honor.
+DORICLEA
+0631
+¿No diré a quien tengo amor
+0632
+que me lo has mandado así?
+ROSAURA
+0633
+Quitarete yo la vida
+0634
+cuando sepa que lo has hecho.
+DORICLEA
+0635
+Señora, rompe este pecho
+0636
+de quien has de ser servida.
+0637
+Verás el alma obligada
+0638
+no solo a tenerte amor,
+0639
+pero a guardar a tu honor
+0640
+la justa lealtad jurada.
+0641
+Piérdase mi loco gusto
+0642
+y aventure su remedio,
+0643
+porque estando de por medio
+0644
+el tuyo, solo ese es justo.
+0645
+Digo que me fingiré
+0646
+enamorada de este hombre.
+ROSAURA
+0647
+Don Juan, Doriclea, es su nombre.
+DORICLEA
+0648
+Digo que a don Juan querré,
+0649
+que le hablaré tiernamente,
+0650
+que estaré siempre celosa,
+0651
+blanda, alegre, temerosa
+0652
+y firme ausente y presente.
+0653
+Que daré cien mil suspiros,
+0654
+que fingiré mil desmayos,
+0655
+los ojos que fueron rayos
+0656
+haré blanco de sus tiros.
+0657
+Que le daré mil favores
+0658
+desde la mano al cabello,
+0659
+que traeré su banda al cuello
+0660
+y que él traerá mis colores.
+0661
+Que le enviaré mil papeles
+0662
+por un renglón que me escriba,
+0663
+firmándome su cautiva
+0664
+por ver sus ojos crueles.
+0665
+Que andará un paje tras él
+0666
+que me cuente si pasea,
+0667
+a quién habla, a quién desea
+0668
+o quién estuvo con él.
+0669
+Y que, al fin, desharé en llanto...
+ROSAURA
+0670
+Paso, deja esas quimeras,
+0671
+que bien quiero que le quieras,
+0672
+mas no que le quieras tanto.
+0673
+Esto ha de ser fingimiento.
+DORICLEA
+0674
+¿Pues todo ha de ser fingido?
+ROSAURA
+0675
+Escríbele que hoy ha sido
+0676
+dueño de tu pensamiento;
+0677
+que estás de él enamorada
+0678
+desde que en palacio entró,
+0679
+y que te hable esta noche, y yo
+0680
+sola estaré disfrazada
+0681
+adonde le pueda hablar
+0682
+pensando que habla contigo;
+0683
+mas dile que si hay testigo
+0684
+de ese amor, le han de matar.
+0685
+Él, con el cebo y engaño
+0686
+de que eres tú, vendrá a verte,
+0687
+y con temor de su muerte
+0688
+pondré la vista en su daño.
+DORICLEA
+0689
+¿Gozarasle?
+ROSAURA
+¿Eso preguntas,
+0690
+necia, sabiendo quién soy?
+DORICLEA
+0691
+Nunca yo segura estoy
+0692
+de dos personas muy juntas.
+0693
+Grande amor luego tropieza.
+ROSAURA
+0694
+Mi amor quiero entretener;
+0695
+mujer soy, hablo a mujer;
+0696
+tú sabes nuestra flaqueza.
+0697
+Ven conmigo, escribirás
+0698
+y yo te diré el papel;
+0699
+al pasar pondrás en él
+0700
+los ojos. Mírale más.
+0701
+Haz reverencia, detente.
+0702
+Mira otra vez desde aquí.
+DORICLEA
+0703
+¿Dices así?
+ROSAURA
+Bien, así.
+0704
+Ya él te mira tiernamente.
+0705
+Cuando yo vuelva la espalda,
+0706
+torna a volver y mirar.
+DORICLEA
+0707
+Daré mucho que notar.
+Ellos van haciendo sus reverencias, y ellas pasando.
+DON JUAN
+0708
+¡Bella dama!
+ARNALDO
+Pues miradla
+0709
+con ojos de que es famoso
+0710
+su entendimiento en Bretaña.
+DON JUAN
+0711
+No he visto, Conde, en España
+0712
+rostro más bello y hermoso.
+0713
+Tiene un no sé qué atractivo.
+ARNALDO
+0714
+Estos señores se van.
+LEONICIO
+0715
+Vos quedáis, señor don Juan,
+0716
+ya con el Conde.
+DON JUAN
+Recibo
+0717
+merced de su señoría.
+0718
+Sois su huésped.
+FELICIANO
+Y envidiado
+0719
+de todos.
+DON JUAN
+Muy obligado
+0720
+quedo a vuestra cortesía.
+PINABELO
+0721
+Después os queremos ver.
+DON JUAN
+0722
+Cuando fuéredes servido.
+Vanse. Y queda don Juan, Arnaldo y Hernandillo.
+ARNALDO
+0723
+Algo han andado atrevidos
+0724
+los ojos de esta mujer.
+DON JUAN
+0725
+¿En ella volvéis a hablar?
+ARNALDO
+0726
+Hablo por si gusto os doy.
+DON JUAN
+0727
+Algo, por fe de quien soy,
+0728
+me queréis, Conde, sacar.
+0729
+Mirad que los vizcaínos
+0730
+somos cortos. Si son celos,
+0731
+decidme vuestros desvelos
+0732
+por más fáciles caminos.
+0733
+Que si mientras la Princesa
+0734
+con ella en secreto habló
+0735
+que era hermosa os dije yo,
+0736
+de lo dicho no me pesa.
+0737
+Que no porque yo la alabe
+0738
+mi gusto os puede ofender.
+ARNALDO
+0739
+¿En efecto, esta mujer
+0740
+os agrada?
+DON JUAN
+Es bella, es grave.
+ARNALDO
+0741
+¿Más, en fin, os apasiona
+0742
+que la Princesa?
+DON JUAN
+Eso es
+0743
+más claro que el día.
+ARNALDO
+Tus pies
+0744
+me da, don Juan, y perdona.
+0745
+Que a más el gusto me obliga
+0746
+de que la Princesa sea
+0747
+para con tu gusto fea.
+0748
+¿Qué quieres más que te diga?
+0749
+Amo, pretendo, es tan alta
+0750
+como sabes la ocasión;
+0751
+temí a este rey de León,
+0752
+que solo este león me falta
+0753
+por vencer de mis contrarios;
+0754
+aspiro a este reino y quiero
+0755
+a esta mujer, por quien muero
+0756
+entre pensamientos varios.
+0757
+Que se inclina a tu valor,
+0758
+o mis celos me engañaron,
+0759
+que siempre celos gustaron
+0760
+de ser los duendes de amor.
+0761
+Allí dan una palmada,
+0762
+allí asoman, allí están;
+0763
+y así los celos, don Juan,
+0764
+dan golpes y todo es nada.
+0765
+Si te agrada Doriclea,
+0766
+que así esta dama se llama,
+0767
+sea en Bretaña esta dama
+0768
+la que tu gusto desea.
+0769
+Ya no temo en esta tierra
+0770
+rubios galanes hermosos;
+0771
+no están mis ojos celosos
+0772
+de su paz ni de su guerra.
+0773
+No temo de ningún modo
+0774
+compitiendo al mismo sol;
+0775
+solo temo a un español,
+0776
+que tiene en el alma el todo.
+0777
+Si van a pie, está en los pies
+0778
+el alma; si alzan la mano,
+0779
+allí hay alma; si el lozano
+0780
+cuerpo mueven, alma es.
+0781
+Si hablan, alma es el brío;
+0782
+si miran, alma es los ojos;
+0783
+alma tienen sus enojos
+0784
+en el mayor desvarío.
+0785
+Cuando el caballo obedece
+0786
+al freno en aquellos van,
+0787
+llevan alma, que le dan,
+0788
+que todo un cuerpo parece.
+0789
+Alma le dan a la espada
+0790
+si la ejercitan y juegan;
+0791
+cual Midas, a cuanto llegan,
+0792
+es oro el alma dorada.
+0793
+Pues si su donaire aspira
+0794
+brío y gusto, y almas llueven,
+0795
+¿qué milagro que se lleven
+0796
+el alma de quien los mira?
+DON JUAN
+0797
+Atento al discurso tuyo,
+0798
+conde Arnaldo, estoy contento
+0799
+de que esté mi pensamiento
+0800
+tanta distancia del tuyo.
+0801
+Y así, palabra te doy
+0802
+de que si vengo a querer,
+0803
+solo será a la mujer
+0804
+que has visto en mis ojos hoy.
+0805
+Que se me ha entrado por ellos,
+0806
+si es que te digo verdad,
+0807
+y lleva mi voluntad
+0808
+forzada de los cabellos.
+ARNALDO
+0809
+Tomo esa palabra honrada.
+DON JUAN
+0810
+La mano te doy.
+ARNALDO
+Yo quiero
+0811
+ser de este tu amor tercero.
+HERNANDILLO
+0812
+¿Hemos de ir a esta posada,
+0813
+o hemos de andar sin comer
+0814
+todo el día, hechos gigantes?
+DON JUAN
+0815
+¿Aquí estás?
+HERNANDILLO
+Cuando te espantes,
+0816
+bien tienes por qué lo hacer.
+0817
+Y en justa razón lo fundo,
+0818
+que un hombre que no ha comido
+0819
+desde ayer, milagro ha sido
+0820
+que no esté en el otro mundo.
+DON JUAN
+0821
+Oye, Hernando, por tu vida,
+0822
+no entiendan esas razones
+0823
+estos señores bretones.
+HERNANDILLO
+0824
+¿Bretones? Linda comida.
+0825
+Ya, señor, no te importuno,
+0826
+que luego mis tripas vieron,
+0827
+FF
+0828
+fue Cuaresma, y día de ayuno.
+0829
+Si es que has de ser Lanzarote
+0830
+“cuando de Bretaña vino”
+0831
+hazme, por Dios, tu rocino,
+0832
+pues siempre me traes al trote.
+0833
+Y envíame alguna dueña
+0834
+que cuide también de mí.
+DON JUAN
+0835
+¿No callas?
+HERNANDILLO
+Habla por mí
+0836
+la hambre.
+En lo alto, la Princesa y Doriclea.
+ROSAURA
+Hazle una seña.
+DORICLEA
+0837
+Está el Conde allí.
+ROSAURA
+Eso temo,
+0838
+pero ves allí un criado
+0839
+que ya está de él apartado
+0840
+y es agudo por extremo.
+0841
+Llámale.
+DORICLEA
+Medrosa estoy.
+0842
+¡Ah, paje!
+HERNANDILLO
+¿Llaman?
+DORICLEA
+Sí.
+HERNANDILLO
+¿A quién?
+DORICLEA
+0843
+A vos.
+HERNANDILLO
+No soy paje.
+ROSAURA
+¿Qué sois?
+HERNANDILLO
+0844
+Punto menos soy.
+DORICLEA
+¿Quién?
+HERNANDILLO
+0845
+Un gentilhombre al trote,
+0846
+sin otras gracias que callo,
+0847
+de la boca del caballo
+0848
+de mi señor Lanzarote.
+0849
+Si hay por allá un panecillo
+0850
+o algo que desvanecer,
+0851
+merced me pueden hacer,
+0852
+sí, por vida de Hernandillo.
+0853
+Que desde ayer no sabemos
+0854
+si las tripas se han mudado
+0855
+a otra casa.
+DORICLEA
+Buen criado.
+HERNANDILLO
+0856
+Muy buena vida traemos.
+0857
+Como historia de pastores,
+0858
+que en todo un libro jamás
+0859
+duermen, ni comen, ni hay más
+0860
+que hablar de celos y amores.
+ROSAURA
+0861
+¿Tan pobre es este señor?
+HERNANDILLO
+0862
+En su tierra es hombre honrado;
+0863
+mas trajéronle engañado
+0864
+a ser vuestro embajador
+0865
+y lleváronse el dinero;
+0866
+y como este es vizcaíno,
+0867
+que se morirá adivino
+0868
+por no decir “esto quiero”.
+ROSAURA
+0869
+Vete esas joyas quitando,
+0870
+que ya a quitarme comienzo
+0871
+las mías, y en este lienzo
+0872
+las irás, amiga, atando,
+0873
+mientras otra industria doy
+0874
+con que tenga qué gastar.
+DORICLEA
+0875
+Primero le quiero dar
+0876
+el papel. Da a tu señor,
+0877
+Hernando, aqueste papel.
+HERNANDILLO
+0878
+A ser en esta ocasión
+0879
+libranza en un bodegón,
+0880
+el cielo bajara en él.
+ROSAURA
+0881
+Ten estas joyas, y di
+0882
+a tu señor que las venda,
+0883
+y adiós.
+DORICLEA
+Oyes, nadie entienda
+0884
+esto que ha pasado aquí.
+HERNANDILLO
+0885
+Transformación espantosa,
+0886
+temerario encantamiento,
+0887
+¿es verdad o es fingimiento?
+0888
+Ce, que digo, dama hermosa,
+0889
+¿cómo os llamáis?
+DORICLEA
+Doriclea.
+HERNANDILLO
+0890
+Adiós.
+DORICLEA
+Adiós.
+HERNANDILLO
+¡Ah, señor!
+DON JUAN
+0891
+¿Llamas?
+HERNANDILLO
+Oiga, que hay amor,
+0892
+y de moza que no es fea.
+DON JUAN
+0893
+¿Qué dices, loco?
+HERNANDILLO
+Oye aparte.
+0894
+Este papel para ti
+0895
+me arrojaron desde allí.
+ARNALDO
+0896
+Dadme, por mi vida, parte
+0897
+de lo que dice el papel.
+HERNANDILLO
+0898
+Lo primero que encomienda
+0899
+su dueño es que no se entienda.
+DON JUAN
+0900
+Mas ¿que tiene celos de él?
+ARNALDO
+0901
+Abrásome en vuestro fuego.
+DON JUAN
+0902
+Pues mira si ingrato soy.
+0903
+Cerrado el papel os doy,
+0904
+y que vos le abráis os ruego.
+ARNALDO
+0905
+No excuso el ser descortés;
+0906
+habéisme de perdonar.
+DON JUAN
+0907
+Leed, que os pienso obligar;
+0908
+Hablarte quiero después.
+[Lee el papel.]
+ARNALDO
+“Para saber si tratado haces el efecto que en ti he visto, te suplico por lo que debes a español, vengas esta noche a la puerta del parque de palacio, donde podrás hablarme y entretenerte. Pero advierte que en sabiendo alguno de tu boca o por tu desgracia este secreto, te ha de costar no menos que la vida. –Doriclea.”
+0909
+¡Fuerte determinación!
+DON JUAN
+0910
+Ya estarás menos celoso.
+ARNALDO
+0911
+Ya solo estoy temeroso.
+DON JUAN
+0912
+¿Temes?
+ARNALDO
+Sí.
+DON JUAN
+¿Por qué razón?
+ARNALDO
+0913
+Estoy como el que en la guerra
+0914
+del arcabuz se espantó
+0915
+cuando el plomo ardiente dio
+0916
+con el compañero en tierra.
+0917
+Vivo de sentido ajeno
+0918
+mirándole derribado,
+0919
+no porque el golpe me ha dado,
+0920
+mas porque he sentido el trueno.
+0921
+¡Ay, don Juan, pues Doriclea
+0922
+te quiere y se arroja así,
+0923
+quien me ha de matar a mí
+0924
+deja que Rosaura sea!
+0925
+Hame dado este papel
+0926
+mil vidas, mil esperanzas;
+0927
+mil difuntas confianzas
+0928
+hoy resucitan por él.
+0929
+Aunque te encarga el secreto,
+0930
+ya ves no le puede haber,
+0931
+que amor no lo puede ser,
+0932
+y más si es amor perfecto.
+0933
+Déjame a cargo tu vida,
+0934
+que yo te he de acompañar
+0935
+a este secreto lugar
+0936
+donde su amor te convida.
+0937
+Tú no has de ser rey aquí;
+0938
+yo soy tu sangre, yo emprendo
+0939
+esta conquista, y entiendo
+0940
+que se emplea bien en mí.
+0941
+Con casamiento o sin él,
+0942
+tuya será Doriclea;
+0943
+deja que Rosaura sea
+0944
+de Arnaldo, pues vive en él.
+DON JUAN
+0945
+Cuando yo no te debiera
+0946
+la vida, el tenerte amor
+0947
+me obligara a tu favor;
+0948
+sigue, conquista, ama, espera.
+0949
+Yo he de ser parte que goces
+0950
+la Princesa.
+ARNALDO
+Y yo que sea
+0951
+tu mujer.
+DON JUAN
+¿Quién?
+ARNALDO
+Doriclea.
+HERNANDILLO
+0952
+Hablad bajo y no deis voces,
+0953
+que andan por el corredor.
+DON JUAN
+0954
+Quiérola esta noche hablar,
+0955
+y tú me has de acompañar.
+ARNALDO
+0956
+Tienes, español, valor;
+0957
+mis celos tendrán secreto.
+DON JUAN
+0958
+Guarda secreto.
+ARNALDO
+Sí haré,
+0959
+que mientras secreto esté,
+0960
+tendrá mi esperanza efecto.
+ARNALDO
+0961
+Ven a comer.
+DON JUAN
+Voy.
+HERNANDILLO
+Escucha:
+0962
+he tomado aquestas joyas,
+0963
+que ya vences a mil Troyas.
+DON JUAN
+0964
+¿Es grande cantidad?
+HERNANDILLO
+Mucha.
+DON JUAN
+0965
+¿Quién te las dio?
+HERNANDILLO
+Aquella dama
+0966
+que aqueste papel me dio.
+DON JUAN
+0967
+¿Sabe ya lo que pasó
+0968
+y que Alfonso me desama?
+HERNANDILLO
+0969
+Rosaura se lo ha contado.
+0970
+Díjome que las vendieses,
+0971
+porque con ellas vivieses
+0972
+mientras estás desterrado.
+0973
+Hay diamante que es locura.
+DON JUAN
+0974
+A lo menos no hay amante
+0975
+que en ocasión semejante
+0976
+tenga tan alta ventura.
+0977
+Ven, que si el Rey riguroso,
+0978
+de su tierra, me destierra,
+0979
+el desdichado en su tierra
+0980
+es en la ajena dichoso.
+
+JORNADA SEGUNDA
+Entra el rey de León, y los tres caballeros que quisieron matar a don Juan.
+REY
+0981
+Admirable mujer.
+CABALLERO 1º
+No te contara,
+0982
+invicto Rey, lo que de verdad no fuera
+0983
+ni con menos razón me disculpara.
+0984
+Cansada de matar alguna fiera
+0985
+de las que el monte que te dije cría,
+0986
+a quien más fuerte que Atlante espera,
+0987
+entre unos verdes árboles dormía
+0988
+Rosaura bella, dando envidia al cielo,
+0989
+vista al amor y claridad al día;
+0990
+cruzaban sendas el ameno suelo,
+0991
+por una de las cuales los tres fuimos,
+0992
+llamándonos el agua vuelta en hielo.
+0993
+Mas como en vez de descansar, leímos
+0994
+la carta en que mandabas dar la muerte,
+0995
+al pecho las espadas le pusimos.
+0996
+Apareció Rosaura, armada y fuerte,
+0997
+de un venablo blandiendo la cuchilla
+0998
+con que la sangre de las fieras vierte.
+0999
+Nunca Diana en la rosa orilla
+1000
+al Erimanto se mostró más bella
+1001
+o cuando Luna a Endimión humilla.
+1002
+Y no solo pudimos ofendella,
+1003
+que puesto que su gente no llegara,
+1004
+vimos todo el valor de Marte en ella.
+1005
+Apartaba las hebras de la cara
+1006
+para matar con los serenos ojos;
+1007
+¿pues de rayos de amor quién se guardaba?
+1008
+Corto el vestido, que causara antojos
+1009
+al más helado pecho, el pie sacaba
+1010
+pequeño, y grande para dar enojos.
+1011
+Así Venus lasciva se mostraba
+1012
+cuando con ocasión de caza y monte
+1013
+al rapacillo Adonis enseñaba.
+1014
+En fin, de todo el valle y su horizonte
+1015
+tanta gente bajó, que huyendo fuimos;
+1016
+si fue peligro, a imaginarlo ponte.
+REY
+1017
+¿Que tan bella es Rosaura?
+CABALLERO 2º
+No tuvimos
+1018
+mayor contrario que su rostro hermoso;
+1019
+como quien mira al sol, la luz perdimos.
+REY
+1020
+¿No fuisteis conocidos?
+CABALLERO 3º
+Fue forzoso
+1021
+huir tan presto, que ni vernos pudo.
+REY
+1022
+¡Oh valor de mujer maravilloso!
+1023
+Halló don Juan el cristalino escudo
+1024
+de Medusa, volviendo en piedra a Atlante.
+1025
+Estoy de oír sus alabanzas mudo.
+1026
+De don Juan ¿qué supiste?
+CABALLERO 1º
+Que adelante
+1027
+pasó, tuvimos nueva.
+CABALLERO 2º
+A París iba
+1028
+por vengarse de ti.
+REY
+Modo arrogante.
+1029
+Ver tengo, Honorio, esa Princesa altiva
+1030
+si perdiese mi reino.
+CABALLERO 3º
+¿De qué suerte,
+1031
+si a tantos reyes se ha mostrado esquiva?
+REY
+1032
+Verela disfrazado.
+CABALLERO 2º
+Rey, advierte...
+REY
+1033
+De mí mismo diré que llevo carta
+1034
+y qué tratar con ella.
+CABALLERO 3º
+Es loca y fuerte;
+1035
+y no tengo por bien que solo partas.
+REY
+1036
+Llevaré alguna gente de servicio.
+HONORIO
+1037
+Y alguna de secreto que repartas.
+REY
+1038
+Diré en León que al gran Patrón, propicio
+1039
+a la española gente en la campaña,
+1040
+por dar de agradecido justo indicio
+1041
+vamos a visitar, y por Bretaña
+1042
+con nombre de embajada entrar podremos,
+1043
+que siempre enoja la arrogante España.
+HONORIO
+1044
+Ya me pesa de haberte los extremos
+1045
+de la bella Rosaura referido
+1046
+con que a tanto peligro te ofrecemos.
+REY
+1047
+La culpa de este daño habéis tenido,
+1048
+porque suelen entrar con mayor fuerza
+1049
+las flechas del amor por el oído.
+1050
+Pero pues ya la voluntad me fuerza,
+1051
+que es la fuerza mayor un ciego engaño,
+1052
+a verla, a hablarla o a engañarla es fuerza.
+1053
+Iré, sin duda, aunque me ponga al daño
+1054
+de descubrir quién soy, siendo forzoso,
+1055
+pues ha de ser alegre el desengaño.
+1056
+Y últimamente yo seré su esposo,
+1057
+y no habrá industria en el ingenio humano
+1058
+ni valor en un Rey tan poderoso.
+1059
+Así cuenta Virgilio que el troyano
+1060
+vio la hermosura y la beldad de Dido.
+1061
+Apréstete la gente, que es en vano
+1062
+poner freno a la mar, ni a amor olvido.
+Salen Arnaldo, don Juan de Haro, Hernandillo, con hábito de noche.
+DON JUAN
+1063
+No querría que os sintiese.
+ARNALDO
+1064
+¿Cómo me puede sentir?
+DON JUAN
+1065
+Porque es veloz en oír
+1066
+quien teme, aunque el viento cese.
+1067
+Y como apenas menea
+1068
+las hojas de este jardín
+1069
+y llega la noche, al fin,
+1070
+de la amistad que desea,
+1071
+con el silencio, ¿quién duda
+1072
+que conozca que hay más gente?
+ARNALDO
+1073
+¡Bravo amador!
+DON JUAN
+Obediente.
+ARNALDO
+1074
+¿No es peor que gente acuda
+1075
+y que os hagan mil pedazos?
+DON JUAN
+1076
+¿Cómo me han de echar de ver
+1077
+o me podrán ofender,
+1078
+Conde, sus villanos brazos?
+ARNALDO
+1079
+Si es la guarda, ¿no podrá?
+DON JUAN
+1080
+Yo estoy seguro de mí.
+ARNALDO
+1081
+Yo bien os dejara aquí,
+1082
+por lo que seguro está
+1083
+mi temor de vuestra espada;
+1084
+pero amistad tan estrecha
+1085
+no cumple bien, si sospecha,
+1086
+con la obligación jurada.
+1087
+Sospecho que os viene mal,
+1088
+voyme, y aunque mal os viene,
+1089
+quien se va y sospecha tiene
+1090
+es amigo desleal.
+1091
+De suerte que estoy aquí
+1092
+no porque soy menester,
+1093
+sino por no me ofender
+1094
+con que sospechéis me fui.
+DON JUAN
+1095
+¿De qué sirven los rodeos,
+1096
+las quimeras e invenciones,
+1097
+Arnaldo, de esas razones,
+1098
+si entiendo vuestros deseos?
+1099
+No procuréis desvelarme,
+1100
+que todos vuestros desvelos
+1101
+nacen de que tenéis celos
+1102
+mejor que de acompañarme.
+1103
+¿Pensáis con su ardiente llama,
+1104
+si no estáis conmigo junto
+1105
+un punto, que en ese punto
+1106
+he de gozar vuestra dama?
+1107
+Yo, Conde, ha dos meses ya
+1108
+que todas las noches vengo
+1109
+a este punto, donde tengo
+1110
+mil favores que me da
+1111
+mi adorada Doriclea,
+1112
+con cuya rara hermosura
+1113
+del mismo sol la luz pura
+1114
+me parece oscura y fea.
+1115
+Estoy tan bien empleado,
+1116
+que no digo yo que os puedo
+1117
+asegurar de ese miedo,
+1118
+a fe de español honrado;
+1119
+pero que cuando quisiera
+1120
+Rosaura su dueño hacerme,
+1121
+rey de este reino, y ponerme
+1122
+del mismo sol en su esfera,
+1123
+despreciara su valor,
+1124
+puesto que tan alto es,
+1125
+porque el mayor interés
+1126
+desprecia un desnudo amor.
+ARNALDO
+1127
+Yo estoy de vos satisfecho
+1128
+y de la Princesa tanto
+1129
+que de mí penséis, me espanto,
+1130
+que de su Alteza sospecho
+1131
+cosa indigna de quien es;
+1132
+ni estoy conmigo tan mal
+1133
+que me juzgue desigual.
+DON JUAN
+1134
+Pues volveos, que después
+1135
+os contaré en el estado
+1136
+que traigo mi pensamiento.
+1137
+Pues sabed, Conde, que intento
+1138
+encubrir este criado,
+1139
+que me trae esta rodela
+1140
+y que con señas me avisa
+1141
+si alguno esta senda pisa
+1142
+de los que mi amor desvela.
+ARNALDO
+1143
+¿Por qué con tanto secreto
+1144
+os habla aquesta mujer?
+DON JUAN
+1145
+Porque debe de tener
+1146
+de españoles mal conceto,
+1147
+y porque Rosaura acaso
+1148
+no sienta que esto es flaqueza.
+ARNALDO
+1149
+Sí, que es un ángel su Alteza.
+DON JUAN
+1150
+Alargad, Arnaldo, el paso,
+1151
+que me muero ya por ver
+1152
+aquella hermosa señora
+1153
+por quien de envidia el aurora
+1154
+se da prisa a amanecer.
+1155
+Mirad que en estos jardines
+1156
+presto el sol es aclarado,
+1157
+resplandece coronado
+1158
+de violetas y jazmines.
+1159
+No me estorbéis mi ventura.
+ARNALDO
+1160
+El cielo os la dé.
+Vase Arnaldo.
+DON JUAN
+Ya espero.
+1161
+Fuese.
+HERNANDILLO
+Lindo majadero.
+DON JUAN
+1162
+A espacio.
+HERNANDILLO
+La noche oscura...
+DON JUAN
+1163
+Todo mi bien me concede.
+1164
+Adoro la oscuridad,
+1165
+que si hay luna o claridad,
+1166
+ni sale mi sol ni puede.
+HERNANDILLO
+1167
+¿Es lechuza esa mujer?
+1168
+¿Es búho? ¿Acaso es mochuelo?
+1169
+Que apenas quiere que el cielo
+1170
+pueda nuestros ojos ver.
+DON JUAN
+1171
+¡Ay, Hernando!, porque había
+1172
+la otra noche seis estrellas
+1173
+entre mil nubes, que entre ellas
+1174
+apenas su luz se vía,
+1175
+con una toca me habló
+1176
+cubierto el rostro.
+HERNANDILLO
+Está loca
+1177
+esta mujer que con toca
+1178
+te habla, mas pienso yo
+1179
+que quiere que la destoques.
+1180
+Tú eres un lindo cobarde;
+1181
+mira que amor cuando arde
+1182
+ni teme reyes ni Roques.
+1183
+Es la más grave mujer,
+1184
+más melindrosa y divina
+1185
+pintura, con su cortina,
+1186
+para quien la llega a ver.
+1187
+Y así al que verla permite,
+1188
+pueden echarle un albarda
+1189
+cuando a la imagen aguarda
+1190
+que la cortina se quite.
+1191
+A la que es más recatada,
+1192
+que se descubra no esperes;
+1193
+álzale el velo si quieres
+1194
+saber si es viva o pintada.
+DON JUAN
+1195
+Ya lo intento, mas después
+1196
+temo, tiemblo, y si porfío,
+1197
+luego me da un sudor frío
+1198
+de la cabeza a los pies.
+HERNANDILLO
+1199
+¿Temblando sudas?
+DON JUAN
+¿Pues dudas
+1200
+que eso sabe amor pintallo?
+HERNANDILLO
+1201
+Tú eres el primer caballo
+1202
+que antes de correr te sudas.
+1203
+Él es un gran desatino
+1204
+muy conforme a tu nación.
+DON JUAN
+1205
+¿Cómo?
+HERNANDILLO
+Querer en bretón
+1206
+y gozar en vizcaíno.
+1207
+Deja tanta cortedad.
+DON JUAN
+1208
+Tenme, Hernando, esta rodela,
+1209
+mira que el tiempo que vuela
+1210
+con tanta velocidad
+1211
+no pase, sin que me avises
+1212
+con la seña que he trazado.
+HERNANDILLO
+1213
+Habla, yo callo.
+DON JUAN
+Ten cuidado,
+1214
+mira que muy quedo pises.
+La Princesa, detrás de un muro bajo, y dentro se vea como jardín.
+ROSAURA
+1215
+¿Es don Juan?
+DON JUAN
+Yo soy, mi bien.
+ROSAURA
+1216
+Paréceme que he sentido
+1217
+ruido fuera.
+DON JUAN
+Es dentro el ruido,
+1218
+porque fuera no hay de quién.
+ROSAURA
+1219
+No, que todo está muy quieto
+1220
+y Rosaura está acostada.
+DON JUAN
+1221
+Yo que tropecé en mi espada
+1222
+fue la causa de este efeto
+1223
+o el viento es, rosa querida,
+1224
+que les pide a mis congojas
+1225
+albricias entre esas hojas
+1226
+de tu dichosa venida.
+ROSAURA
+1227
+Y vos, por tanto contento,
+1228
+¿habéiselas dado?
+DON JUAN
+Sí,
+1229
+mis esperanzas le di,
+1230
+que es bien que las goce el viento.
+1231
+¡Ay, hermosa Doriclea,
+1232
+que aunque es cielo ese valor,
+1233
+aguardáis a que mi amor
+1234
+más alto gigante sea!
+1235
+¿Qué pruebas queréis mayores
+1236
+o qué prendas más seguras
+1237
+que sirven noches oscuras
+1238
+para tan castos amores?
+1239
+Si no merezco una mano,
+1240
+¿qué importa que las estrellas
+1241
+miren esas manos bellas
+1242
+ni la luna alumbre en vano?
+1243
+¿Qué importa disimular
+1244
+de día cuando me veis
+1245
+si de noche aún no queréis
+1246
+amorosamente hablar?
+1247
+Abrid, mi bien, el jardín
+1248
+donde ya el agua y las flores
+1249
+murmuran nuestros amores
+1250
+hasta el más casto jazmín.
+1251
+Dame esas manos hermosas,
+1252
+tanto de mi boca amadas,
+1253
+que no estarán coloradas
+1254
+de su vergüenza las rosa.
+1255
+Yo soy aquel español
+1256
+que va de una en otra esfera,
+1257
+aunque con alas de cera,
+1258
+de vuestra grandeza al sol.
+1259
+Y pues he llegado a tanto
+1260
+que he visto nacer su aurora,
+1261
+no me derribéis, señora,
+1262
+a mayor mal que mi llanto.
+ROSAURA
+1263
+Aunque yo, amor, os amé
+1264
+y de amarme causa os di,
+1265
+no por eso el ser perdí
+1266
+que de quien soy heredé.
+1267
+Procedo en mi justo amor
+1268
+con el debido recato,
+1269
+porque amor, si crece el trato,
+1270
+pierde el respeto al honor.
+1271
+Amad vos con advertencia,
+1272
+que no hay conquista de fama
+1273
+cuando faltan en quien ama
+1274
+la esperanza y la paciencia.
+1275
+Tened, don Juan, confianza
+1276
+de que muy vuestra seré,
+1277
+porque no es buena la fe
+1278
+donde falta la esperanza.
+HERNANDILLO
+1279
+[Aparte](¿Habrá algún hombre discreto
+1280
+que este amor no llame loco
+1281
+o quien se tenga en tan poco
+1282
+que quiere amar sin efecto?
+1283
+De esperanza y de paciencia
+1284
+hablan en todo rigor,
+1285
+basta que ya al negro amor
+1286
+hacen casos de conciencia.
+1287
+Quien mete al amor con fe,
+1288
+con paciencia y esperanza,
+1289
+no hay cosa si el viento alcanza
+1290
+que en más desatino dé.
+1291
+Que gran bachiller parece
+1292
+amor en su pretensión,
+1293
+y en tomando posesión,
+1294
+como una piedra enmudece.
+1295
+¡Oh, amantes llenos de enredos,
+1296
+de mentiras, de locuras,
+1297
+de penas, de desventuras,
+1298
+de confusiones y miedos!
+1299
+Dicen que sin alma están
+1300
+con los sentidos en calma,
+1301
+y mienten, que tienen alma,
+1302
+que de palabra la dan.
+1303
+¡Ah, vida de los lacayos!
+1304
+Nuestro amor sí que es amor,
+1305
+sin interés del honor,
+1306
+sin traiciones, sin desmayos.
+1307
+No hay más de que a mediodía
+1308
+mi dama está en su fregado,
+1309
+y dígole por un lado:
+1310
+“Vente a la noche, Lucía.”
+1311
+Trae dos hermosas lonjas
+1312
+en vez de esperanza y fe
+1313
+y vuélvese su mercé
+1314
+con más obras que lisonjas.
+1315
+Lleve el diablo estos amantes
+1316
+con su gusto de alfeñique;
+1317
+ahora bien, pique o no pique,
+1318
+arrimemos los gigantes.
+1319
+Sueño me aflige: ¡por Dios,
+1320
+que ha de servir la rodela
+1321
+de almohada!)
+Échase a dormir.
+DON JUAN
+Solo apela
+1322
+mi amor de este agravio a vos,
+1323
+que sois la suprema sala.
+ROSAURA
+1324
+Digo que mañana quiero
+1325
+que veáis que por vos muero,
+1326
+y mi amor al vuestro iguala.
+1327
+Si la noche fuera oscura,
+1328
+de aqueste jardín saldré
+1329
+y en este campo estaré
+1330
+con vos, como esté segura
+1331
+de que me habéis de cumplir
+1332
+lo prometido, don Juan.
+DON JUAN
+1333
+Mis deseos os dirán
+1334
+lo que es amar y sufrir.
+Entra Feliciano.
+FELICIANO
+1335
+Pasos que mi loco amor
+1336
+con tal desafío guía,
+1337
+¿cómo la que niega el día
+1338
+dará la noche mejor?
+1339
+¿Cómo veré en estas rejas
+1340
+la que apenas da lugar
+1341
+para que puedan pasar
+1342
+entre sus hierros mis quejas?
+1343
+Parece que ya se enoja,
+1344
+dulce señora, mi amor,
+1345
+pues tal esperanza en flor
+1346
+él la marchita y despoja.
+1347
+De noche hablarte solía
+1348
+detrás de aquestas paredes,
+1349
+¡qué de regalo y mercedes
+1350
+que de tu boca sentía!
+1351
+¿Quién te ha trocado así
+1352
+y me fuerza que yo venga
+1353
+donde solo el aire tenga
+1354
+que me responda por ti?
+DON JUAN
+1355
+Gente suena; espera un poco,
+1356
+mi vida, y veré quién es.
+1357
+No he visto gente después
+1358
+que estas soledades toco.
+1359
+(Mas ¿de qué son los recelos?
+1360
+Que no habiéndome avisado
+1361
+Hernandillo, en su cuidado,
+1362
+Arnaldo ha envuelto sus celos.
+1363
+Y como él le ha conocido,
+1364
+no me ha querido llamar.)
+FELICIANO
+1365
+¿Hombre en aqueste lugar?
+DON JUAN
+1366
+Seáis, Arnaldo, bien venido.
+1367
+Descubríos, no os cubráis;
+1368
+estaréis muy vergonzoso
+1369
+de que os vea tan celoso;
+1370
+tened celos, pues amáis.
+1371
+Que es dulce la sal de amor
+1372
+con que se comen mil gustos,
+1373
+que no hay placer sin disgustos
+1374
+ni sin contrario sabor.
+1375
+Pero, por Dios, que venís
+1376
+sin razón desconfiado,
+1377
+que estoy más enamorado
+1378
+de lo que vos presumís.
+1379
+Hame dicho Doriclea
+1380
+que saldrá mañana aquí;
+1381
+si ella sale, fiad de mí
+1382
+que yo la goce y posea.
+1383
+Está ya muy declarada,
+1384
+llámame su vida y bien.
+1385
+Díjome, Arnaldo, también
+1386
+que está Rosaura acostada.
+1387
+No tenéis qué hacer aquí;
+1388
+guardadme, Arnaldo, secreto,
+1389
+que si lo sabe, os prometo
+1390
+que no hará cosa por mí.
+1391
+Iros podéis a acostar,
+1392
+y si esperarme queréis,
+1393
+entre esos olmos podréis.
+1394
+Adiós, que la vuelvo a hablar.
+Vuélvese.
+FELICIANO
+1395
+¿Soy yo, por dicha, cielos, el que ahora
+1396
+oigo decir a un hombre estas razones?
+1397
+¿Cómo es que Doriclea a otro hombre adora,
+1398
+en medio de mis justas pretensiones?
+1399
+¡Ah, pecho desleal, mujer traidora,
+1400
+que en ocasión de tanto mal me pones!
+1401
+Este es el español recién venido
+1402
+y yo quien te ha adorado y te ha servido.
+1403
+¿Tan presto tanto amor? mañana quieres
+1404
+rendir el fruto que esperé seis años.
+1405
+¿Qué mucho que no tengan las mujeres
+1406
+crédito, si en los hombres hay engaños?
+1407
+Aquí puedes ahora ver quién eres,
+1408
+pues quiere Dios que tales desengaños
+1409
+me muestren que don Juan tu gusto ha sido
+1410
+y yo quien te ha adorado y te ha servido.
+1411
+¿A un español tal pobre que no tiene
+1412
+más que la espada, tu grandeza humillas?
+1413
+¿A un hombre que en desgracia de un rey viene,
+1414
+contando a lo español las maravillas?
+1415
+De un pobre que de huésped se mantiene
+1416
+prefieres a un barón de tantas villas;
+1417
+haraslo por mostrar cuán loca has sido
+1418
+y yo quien te ha adorado y te ha servido.
+1419
+¿Qué me podrás negar si él me lo cuenta,
+1420
+pensando que soy el traidor Conde,
+1421
+que es de mi sangre y consintió mi afrenta?
+1422
+¿Qué secreto jamás la tierra esconde?
+1423
+Quiero matarle, pues mi muerte intenta.
+ROSAURA
+1424
+Don Juan, mil voces dan.
+DON JUAN
+Ya siento adónde.
+FELICIANO
+1425
+El Conde ha sido, al fin, quien me ha vencido
+1426
+y yo quien te ha adorado y te ha servido.
+DON JUAN
+1427
+Irelo a ver; entrad, señora mía.
+ROSAURA
+1428
+Mi bien, adiós; escríbeme mañana
+1429
+y ruega a Dios que pase presto el día.
+DON JUAN
+1430
+Arnaldo, condición tenéis villana;
+1431
+poca nobleza arguye quien no fía
+1432
+de su amigo una cosa que es tan llama.
+1433
+Dé celos sin porqué, voces al viento,
+1434
+loco, aunque enamorado pensamiento.
+1435
+Ya os digo que yo adoro a Doriclea,
+1436
+que es luz de aquestos ojos, vista y aura
+1437
+de mi aliento vital, y quien desea
+1438
+el alma que la suya me restaura.
+1439
+Sea Rosaura cuanto hermosa fea,
+1440
+¿qué importa? Si no quiero yo a Rosaura,
+1441
+Doriclea me quiere, y si ya os dije
+1442
+que mañana la gozo, ¿qué os aflige?
+1443
+¿Qué cansáis las estrellas y los cielos
+1444
+si veis a Doriclea tan perdida?
+1445
+¿De qué os matáis? ¿De qué tenéis desvelos?
+1446
+Yo soy solo su bien y ella es mi vida.
+1447
+Dejad, Arnaldo, los injustos celos,
+1448
+que sois con vuestras manos homicida,
+1449
+porque no tiene luz el sol que sea
+1450
+hermosa como el pie de Doriclea.
+FELICIANO
+1451
+(¿Responderé? ¿Dime quién soy? ¿Podía
+1452
+serme de más provecho la paciencia?
+1453
+Sí, pues me queda término de un día
+1454
+que ponga a todo daño resistencia.
+1455
+Esto conviene a la nobleza mía;
+1456
+no quiero aventurar con insolencia
+1457
+lo que puedo ganar sabiendo claro
+1458
+que es aqueste español don Juan de Haro.)
+Vase.
+DON JUAN
+1459
+¿Cómo, Arnaldo se va sin responderme?
+1460
+¡Qué celos tan villanos y tan viles!
+1461
+¿No basta, Conde, entre sus brazos verme?
+1462
+¿Aún queréis ver las cosas más sutiles?
+1463
+Huésped soy, y si pensáis prenderme,
+1464
+cuando por ser de España me aniquiles,
+1465
+presume que he nacido vizcaíno,
+1466
+que aprisa va y se sale del camino.
+1467
+Cosa que me engañase y que no fuese
+1468
+Arnaldo este hombre. ¡Ay triste, ay noche oscura!
+1469
+¡Oh, lengua! ¡Ah, quién amando enmudeciese,
+1470
+que es hija del hablar la desventura!
+1471
+¿Pero cómo es posible que no hiciese
+1472
+señas Hernando en esta coyuntura,
+1473
+siendo en discursos de mi historia largos,
+1474
+en los pies grulla y en los ojos Argos?
+1475
+¡Ah, Hernando! ¡Hernando, no parece!
+1476
+¡Válame Dios! Aquí quedó arrimado,
+1477
+la oscura noche apenas me le ofrece;
+1478
+topé los pies, los ojos me han turbado.
+1479
+Tendido está, mi mal se aumenta y crece.
+1480
+Sin duda que aquel hombre rebozado
+1481
+me lo mató, tan presto que no pudo
+1482
+hacerme señas. ¿Qué lo miro y dudo?
+1483
+¡Ah, pobre mozo! Aquí murió en Bretaña
+1484
+el mejor montañés que vio Tineo.
+1485
+¡Pobre Hernandillo!
+HERNANDILLO
+¡Señor!
+DON JUAN
+¿Hay cosa extraña?
+1486
+¿No estás herido?
+HERNANDILLO
+¿Yo? Ni aun lo deseo.
+DON JUAN
+1487
+¿Pues qué es aquesto?
+HERNANDILLO
+¡Estaba la campaña
+1488
+tan libre de enemigos…!
+DON JUAN
+Caso feo,
+1489
+¿haste dormido acaso?
+HERNANDILLO
+Siempre he sido
+1490
+a quien me convidase agradecido.
+1491
+Convidome el pradillo, el sueño, el vino,
+1492
+y por Dios, que confieso mi pecado.
+DON JUAN
+1493
+Más te quisiera muerto.
+HERNANDILLO
+Y lo imagino
+1494
+del grande amor que siempre me has mostrado.
+1495
+Cuanto a mí, yo estoy bien.
+DON JUAN
+¡Qué desatino
+1496
+venir de un hombre bajo acompañado!
+1497
+¡Un borracho tras mí!
+HERNANDILLO
+¿Pues quién hubiera
+1498
+que tu requiebro y necedad sufriera?
+1499
+Estás tañendo gaitas zamoranas;
+1500
+estaste aficionando con tu diosa
+1501
+con más frío y calor que unas cuartanas
+1502
+y ella muy mentecata y melindrosa:
+1503
+y quieres, madrugando las mañanas,
+1504
+que sufra vuestra plática amorosa.
+1505
+Antes sufriera un tiro de crujía.
+DON JUAN
+1506
+Sin duda, que os perdí, señora mía.
+1507
+¡Oh, traidor, hombre vil!
+HERNANDILLO
+¿De qué te asombras?
+1508
+¿Qué ha sucedido?
+DON JUAN
+Un hombre me ha escuchado
+1509
+por dormirte, traidor.
+HERNANDILLO
+Serán sombras
+1510
+de aquestos altos árboles del prado.
+DON JUAN
+1511
+¿Sombras, los hombres que se mueven, nombras?
+1512
+Ven y calla, traidor.
+HERNANDILLO
+Estoy cansado
+1513
+de venir cada noche a necedades,
+1514
+que no es curar caballos voluntades.
+1515
+Estaste bobeando, que no hubiera
+1516
+quien ya no hubiera este portillo roto,
+1517
+¿y lloras que se duerma el que te espera?
+DON JUAN
+1518
+Paso, señor, con menos alboroto.
+HERNANDILLO
+1519
+Poca prosa gastara si yo fuera,
+1520
+pero siempre fue cierto de mi voto
+1521
+que el soldado y amante no hacen nada
+1522
+cuando tienen la pólvora mojada.
+Vanse. Y entra el rey de León y sus caballeros, con Pinabelo.
+REY
+1523
+Esto dirás a su Alteza.
+PINABELO
+1524
+Al fin sois embajador.
+REY
+1525
+A lo que digo, señor,
+1526
+mi venida se endereza.
+1527
+Este intento tiene el Rey.
+PINABELO
+1528
+No seréis mal admitido.
+REY
+1529
+Fuera el ser mal recibido
+1530
+contra la exención y ley,
+1531
+preeminencia de este oficio.
+PINABELO
+1532
+¿Qué mueve al rey de León
+1533
+dar en aquesta ocasión
+1534
+de tanta afición indicio?
+REY
+1535
+La fama de su valor,
+1536
+de quien el mundo es teatro,
+1537
+corriendo de Tile a Batro,
+1538
+lo más cerca hirió mejor.
+1539
+Y como a tomar estado
+1540
+le importune, obligue y fuerce
+1541
+su reino y también le esfuerce
+1542
+cierto pesar que le ha dado
+1543
+Armesinda, hermana suya,
+1544
+todo junto le obligó.
+Entra Doriclea.
+DORICLEA
+1545
+Ya Rosaura se vistió
+1546
+por ver la embajada tuya.
+1547
+Espera un poco, español,
+1548
+en esa sala primera.
+REY
+1549
+Seré noche cuando espera
+1550
+la luz al alba del sol.
+DORICLEA
+1551
+Ve, Pinabelo, con él.
+REY
+1552
+¿Es más bella que esta dama
+1553
+Rosaura?
+PINABELO
+Tal es su fama;
+1554
+es un sol.
+REY
+Yo adoro en él.
+HONORIO
+1555
+A mucho te has atrevido.
+REY
+1556
+A no haber de amor victorias,
+1557
+no hubiera en el mundo historias,
+1558
+ni fama contra el olvido.
+Vanse, y queda Doriclea.
+DORICLEA
+1559
+¡Oh, si se doliese el cielo
+1560
+del estado de mi mal,
+1561
+pues apenas tiene igual
+1562
+de cuantos conoce el cielo!
+1563
+¡Oh, si Rosaura, casada,
+1564
+dejase en esta ocasión
+1565
+de don Juan la pretensión
+1566
+sobre los vientos fundada!
+1567
+Que temo alguna flaqueza
+1568
+contra mi honor, pues en vano
+1569
+quiere tener en la mano
+1570
+el amor y la grandeza.
+1571
+Que como es blanco mi honra
+1572
+de su loco amor injusto,
+1573
+ella ha de tener el gusto
+1574
+y yo pasar la deshonra.
+1575
+Háblale por el jardín,
+1576
+y él piensa que habla conmigo;
+1577
+de día le escribo y digo
+1578
+mil amores a este fin,
+1579
+perdiendo las ocasiones
+1580
+de mi Feliciano, y ella
+1581
+de noche confirma y sella
+1582
+con sus obras mis razones.
+1583
+Pierdo mi bien, y deseo
+1584
+librarme de tanto daño;
+1585
+pero si le desengaño,
+1586
+en más peligro me veo,
+1587
+que nos mandará matar
+1588
+para asegurar su honor.
+1589
+Bien parece nuestro amor
+1590
+que es fuego y nació en la mar.
+Entra Feliciano, de camino.
+FELICIANO
+1591
+¿Es levantada su Alteza?
+DORICLEA
+1592
+¿Dónde bueno vas así?
+1593
+¿Caminas?
+FELICIANO
+Señora, sí.
+DORICLEA
+1594
+¡Qué confusión, qué tristeza,
+1595
+qué mudanza! El viento igualas.
+1596
+¿Tú, espuelas?
+FELICIANO
+Por tus cautelas.
+1597
+Y es poco llevar espuelas;
+1598
+plegue a Dios que basten alas.
+DORICLEA
+1599
+¿Adónde?
+FELICIANO
+Huyendo de ti.
+1600
+Y aunque es sin causa esta ausencia,
+1601
+pido a Rosaura licencia,
+1602
+si se levanta, de mí.
+1603
+Que no quiera Dios, ¡cruel!,
+1604
+que yo esté donde te goce
+1605
+un español.
+DORICLEA
+¿Quién conoce
+1606
+mi honor tan mal habla de él?
+1607
+¿Qué español me ha de gozar?
+FELICIANO
+1608
+Don Juan, vil, baja mujer.
+DORICLEA
+1609
+Oye.
+FELICIANO
+¿Qué quieres hacer?
+1610
+¿Qué disculpa puedes dar?
+1611
+Yo lo he visto, yo lo oí,
+1612
+yo sé que se concertó.
+1613
+Tan presente estuve yo
+1614
+como estoy, villana, aquí.
+1615
+Bien sé por dónde os habláis,
+1616
+ya sé el campo y el jardín,
+1617
+ya sé que intentáis mi fin
+1618
+y que a vuestro honor le dais.
+1619
+Bien pudiera con su muerte
+1620
+sosegar mi vida injusta,
+1621
+pero mi propio amor gusta
+1622
+que te goce de esa suerte.
+1623
+Porque ¿cuál mayor venganza
+1624
+puedo yo tomar de ti
+1625
+que ver que te goce así,
+1626
+por premio de tu mudanza,
+1627
+quien mañana ha de dejarte
+1628
+y ha de alabarse en su tierra
+1629
+de la bajeza que encierra
+1630
+la nuestra con infamarte?
+DORICLEA
+1631
+¿Pues no me dejas hablar?
+FELICIANO
+1632
+¿Qué me puedes tú decir,
+1633
+pues, como el ver y el oír?
+1634
+¿Aún me quieres engañar?
+1635
+Ya que me engañaste el gusto,
+1636
+déjame estos dos sentidos.
+DORICLEA
+1637
+Tus ojos y tus oídos
+1638
+mienten, Feliciano injusto.
+1639
+¡Ay!, que no te puedo hablar
+1640
+ni darte satisfacción.
+FELICIANO
+1641
+Yo he de buscar ocasión
+1642
+con que me pueda vengar.
+DORICLEA
+1643
+Llévame, mi bien, de aquí
+1644
+si temes eso.
+FELICIANO
+¡Oh, qué bien!
+1645
+A un tiempo quieres también
+1646
+que dos gocemos de ti.
+1647
+¿Tienes seso? ¿Eres aquella
+1648
+que con tu boca fingida
+1649
+ayer me llamó su vida
+1650
+y me dio el alma con ella?
+1651
+¿Eres la misma, cruel,
+1652
+que vi llorando en mis brazos
+1653
+con más enredos y lazos
+1654
+que una yedra en un laurel?
+1655
+¿Eres tú aquella de quien
+1656
+tengo mil firmas traidoras?
+1657
+¿Cómo a un extranjero adoras?
+1658
+¿A un español quieres bien?
+DORICLEA
+1659
+Voces das.
+FELICIANO
+¿Pues no he de dallas
+1660
+antes que con él te goces,
+1661
+y no es justo que dé voces,
+1662
+pues tú las oyes y callas?
+DORICLEA
+1663
+Déjame entrar a pedir
+1664
+licencia de responderte.
+FELICIANO
+1665
+¿A quién? ¿Cómo? ¿De qué suerte?
+1666
+¿Qué has de hacer? ¿Qué has de decir?
+1667
+Piedad bañada en desdén,
+1668
+que me matas y me lloras,
+1669
+¿cómo a un extranjero adoras?
+1670
+¿A un español quieres bien?
+DORICLEA
+1671
+Dame palabra que aquí
+1672
+me esperarás, Feliciano.
+FELICIANO
+1673
+Quien tanto ha esperado en vano,
+1674
+¿qué puede esperar de ti?
+DORICLEA
+1675
+Ya vuelvo, espérate un poco;
+1676
+solo a Rosaura hablaré.
+Vase.
+FELICIANO
+1677
+Doriclea, yo estaré
+1678
+cuando vuelvas muerto o loco.
+1679
+Dejadme, dulces engaños
+1680
+de amor; mirad que soy noble,
+1681
+y es vergüenza que se doble
+1682
+su fuerza con dos engaños.
+1683
+Temblando estoy, y en los labios
+1684
+el alma entre voces tiernas;
+1685
+no pueden tener las piernas
+1686
+el peso de los agravios.
+1687
+No más confianza loca.
+1688
+Irme tengo.
+Entre don Juan.
+DON JUAN
+En confusión
+1689
+me ha puesto aquella visión;
+1690
+a gran pena me provoca.
+1691
+Niega Arnaldo, y si él no fue,
+1692
+alguien mi secreto sabe
+1693
+para que mi vida acabe
+1694
+adonde mi vida hallé.
+1695
+¡Oh, Feliciano!
+FELICIANO
+¡Oh, don Juan!
+1696
+Verte por agüero tomo.
+DON JUAN
+1697
+¿Vaste?
+FELICIANO
+Voyme.
+DON JUAN
+¿Adónde y cómo?
+FELICIANO
+1698
+Unos vienen y otros van.
+1699
+Voy a un negocio secreto;
+1700
+y pues a tiempo has llegado,
+1701
+verás, español honrado,
+1702
+de esta verdad el efeto.
+1703
+Cierta cosa has de guardarme
+1704
+en tanto que ausente estoy.
+DON JUAN
+1705
+Esa palabra te doy,
+1706
+seguro puedes mandarme.
+FELICIANO
+1707
+Es prenda que es menester
+1708
+que a la defensa se acuda,
+1709
+porque es prenda que se muda.
+DON JUAN
+1710
+¿Pues quién es?
+FELICIANO
+Una mujer.
+DON JUAN
+1711
+Mujer y mudable, ¿quieres
+1712
+que la guarde?
+FELICIANO
+Bien podrás.
+DON JUAN
+1713
+Ellas se guardan no más,
+1714
+que no hay guarda en las mujeres.
+FELICIANO
+1715
+Creo que estará segura.
+DON JUAN
+1716
+¿Hasla gozado?
+FELICIANO
+He tenido
+1717
+favores que he merecido,
+1718
+no por valor, por ventura.
+1719
+Los cuales dejarte quiero,
+1720
+que en aquesta caja van,
+1721
+porque ausente aumentarán
+1722
+el mal de que ahora muero.
+1723
+Aquí hay papeles fingidos
+1724
+llenos de merecimientos,
+1725
+que amor todo es fingimientos,
+1726
+o gozados o leídos.
+1727
+Cintas verás, y cabellos,
+1728
+donde quisiera algún día
+1729
+fueran mil almas la mía
+1730
+para ocuparlas en ellos.
+1731
+Que como amor me dio palma
+1732
+de tan verdadero amante,
+1733
+el menor era bastante
+1734
+para suspenderme el alma.
+1735
+Lee, don Juan, sus engaños,
+1736
+advirtiendo bien que son
+1737
+procesos de mi afición
+1738
+en un pleito de seis años.
+1739
+Y porque sepas quién es
+1740
+el dueño de aquestas prendas,
+1741
+también quiero que lo entiendas
+1742
+de este retrato que ves.
+1743
+Toma y quédate con Dios,
+1744
+y dirasle a Doriclea
+1745
+que por muchos años sea
+1746
+el gozaros hoy los dos.
+Vase.
+DON JUAN
+1747
+¿Ha llegado en el mundo de improviso
+1748
+a tal sazón tan fuerte desengaño?
+1749
+Detente, espera, vuelve. Fuese. Quiso
+1750
+con esta industria reparar su daño.
+1751
+¡Con qué facilidad me ha dado aviso
+1752
+de su desdicha y de mi loco engaño!
+1753
+¡Ay, justos celos! ¡Ay, mujer fingida!
+1754
+La pena es cierta y La ocasión perdida.
+1755
+Este es el hombre que siguió mis pasos
+1756
+y por el Conde hablé junto a la huerta.
+1757
+¡Oh, bella luz que por los cielos rasos
+1758
+eras del mal descubridora cierta!
+1759
+¡Oh, noche, capa vil de infames casos,
+1760
+por ti todo mi bien se desconcierta,
+1761
+que estando tanta gloria prevenida,
+1762
+la pena es cierta y La ocasión perdida!
+1763
+¡Oh, malditos papeles! ¡Oh, cabellos,
+1764
+lazos de mil enredos! ¡Oh, retrato
+1765
+de dueño más mudable y fácil que ellos!
+1766
+¿En tal bajeza cabe tan mal trato?
+1767
+Ojos fingidos, por milagro bellos,
+1768
+¿por qué me diste galardón ingrato?
+1769
+Si os he perdido, perderé la vida;
+1770
+la pena es cierta y La ocasión perdida.
+Entra Doriclea.
+DORICLEA
+1771
+Aunque me niega licencia
+1772
+de poderte hablar Rosaura,
+1773
+Feliciano…
+DON JUAN
+¿En mi presencia
+1774
+le nombras? ¡Qué bien restaura
+1775
+tu libertad mi paciencia!
+1776
+¿Tan ciega estás que no ves
+1777
+que soy un hombre que engañas?
+DORICLEA
+1778
+¿Qué dices?
+DON JUAN
+Que cuando estés
+1779
+gloriosa de tus hazañas,
+1780
+te miras, pavón, los pies;
+1781
+desvanecerás la rueda
+1782
+de esa tu loca hermosura,
+1783
+que con tanta infamia queda,
+1784
+viendo que de tanta altura
+1785
+bajar a este abismo pueda.
+DORICLEA
+1786
+¿No estaba aquí Feliciano?
+DON JUAN
+1787
+Aquí estaba y me dejó
+1788
+estas prendas en la mano,
+1789
+con que sin causa me dio
+1790
+veneno como a tirano.
+1791
+Si le amabas, si tenías
+1792
+amor secreto con él,
+1793
+¿por qué conmigo fingías,
+1794
+porqué quisiste, cruel,
+1795
+doblar las desdichas mías?
+1796
+Cuando de España llegué
+1797
+los ojos pusiste en mí,
+1798
+por tu culpa mi amor fue,
+1799
+ni con el alma te vi
+1800
+ni con los ojos te hablé.
+1801
+Tú, con papeles fingidos,
+1802
+y de noche, con engaños,
+1803
+me has robado los sentidos,
+1804
+dándole a beber mil daños
+1805
+al alma por los oídos.
+1806
+Tú por la secreta puerta
+1807
+de tu huerta hiciste en mí
+1808
+esta locura encubierta;
+1809
+bien puedo decir de ti
+1810
+que me metiste en la huerta.
+1811
+¿Qué pensamiento fue el tuyo
+1812
+de hacer hazaña tan fea?
+1813
+Pero con esto concluyo;
+1814
+eres mujer, Doriclea;
+1815
+a liviandad lo atribuyo.
+DORICLEA
+1816
+[Aparte](¿Cómo podré responder?
+1817
+Porque si le desengaño,
+1818
+el amor se ha de saber
+1819
+de la Princesa, en mi daño.
+1820
+¿Qué no intenta una mujer?
+1821
+¡Que Rosaura su flaqueza
+1822
+quiera conmigo encubrir
+1823
+por no ofender su grandeza!
+1824
+¡Qué ingenio para fingir
+1825
+nos dio la naturaleza!
+1826
+Ahora bien, pues es forzoso,
+1827
+quiero dar fuerza a su enredo,
+1828
+que yo cobraré mi esposo,
+1829
+pues libre y segura quedo
+1830
+y él engañado y quejoso.)
+1831
+Mi bien, mi español querido,
+1832
+yo os confieso que he tenido
+1833
+a este Feliciano amor,
+1834
+pero tratando mi honor
+1835
+con el respeto debido.
+1836
+Vinistes, y cuando os vi,
+1837
+fue amor pintor, lienzo fui,
+1838
+a Feliciano quitó
+1839
+y en su lugar os pintó
+1840
+para que viváis en mí.
+1841
+Ni ha sido el pincel liviano;
+1842
+por más perfección le dejo;
+1843
+de suerte que Feliciano
+1844
+fue de este lienzo el bosquejo
+1845
+y vos la postrera mano.
+1846
+Prendas son que di primero
+1847
+que os viese, español famoso;
+1848
+mas solo advertiros quiero
+1849
+que os las doy como celoso
+1850
+y no como caballero.
+1851
+Después que os vi y os amé,
+1852
+nunca más, mi bien, le hablé,
+1853
+bien lo dice el desengaño;
+1854
+mas ¿cómo os puede hacer daño
+1855
+si en vuestro tiempo no fue?
+1856
+Id esta noche a la huerta
+1857
+y no perdáis ocasión,
+1858
+que si vuestra dicha acierta
+1859
+a que toméis posesión,
+1860
+hay grande gloria encubierta.
+1861
+Mi dulce amor, ¿qué es aquesto?
+1862
+Alzad los ojos, mi vida,
+1863
+no estéis tan triste y compuesto,
+1864
+que no es La ocasión perdida
+1865
+ni se acaba amor tan presto.
+1866
+No haya más, si me queréis,
+1867
+que aquesta noche veréis
+1868
+en qué obligación me estáis.
+1869
+Queréis hablar y no habléis;
+1870
+pues hablad, que bien podéis.
+DON JUAN
+1871
+¿Qué no podrás, Doriclea,
+1872
+siendo ya tirano en mí?
+1873
+Lo que tú quisieres sea,
+1874
+porque se conozca en ti
+1875
+cuánto sufre quien desea.
+1876
+Y quiérote confesar
+1877
+que estas prendas con furor
+1878
+pueden, amando, obligar;
+1879
+más me han doblado el amor
+1880
+que me han podido enojar.
+1881
+Mira en qué puesto me veo,
+1882
+pues cuanto me dices creo,
+1883
+aunque más celos me den,
+1884
+que el competidor del bien
+1885
+aumenta siempre el deseo.
+1886
+Fuera en mí temeridad
+1887
+no creer tu celo honesto
+1888
+y de tu amor la verdad,
+1889
+pues me prometes tan presto
+1890
+la mayor seguridad.
+1891
+Seguro quedo y contento.
+1892
+De aquestas prendas, ¿qué haré?
+DORICLEA
+1893
+Darlas al fuego.
+DON JUAN
+No siento
+1894
+que las ofenda, aunque esté
+1895
+dentro de su mismo elemento;
+1896
+y gran sacrificio fuera
+1897
+que a tus pensamientos diera
+1898
+tan mal pago siendo ingrato,
+1899
+y era quemar tu retrato
+1900
+quemar al sol en su esfera.
+1901
+Y fuera ponerle en él
+1902
+hacer su figura bella,
+1903
+hermosura de Luzbel,
+1904
+a quien su loca hermosura
+1905
+puso en fuego tan cruel.
+1906
+Viva tu retrato y vivan
+1907
+estos papeles, que privan
+1908
+de fuerza al fuego y sus hielos,
+1909
+y como estampa de cielos
+1910
+dentro del alma se escriban.
+1911
+Seguro viva en ausencia
+1912
+el dueño de aquesta joya,
+1913
+y aunque tú das la sentencia,
+1914
+yo los sacaré de Troya
+1915
+en hombros de mi paciencia.
+1916
+Por lo cual te ruego y pido
+1917
+que me abraces en señal
+1918
+que has de hacer lo prometido.
+DORICLEA
+1919
+(¿Quién ha visto amor igual
+1920
+ni enredo tan bien fingido?
+1921
+Con estos falsos amores
+1922
+poder Rosaura me ha dado
+1923
+para cintas, para flores,
+1924
+para escribir recatado
+1925
+y para honestos favores.
+1926
+Pero no hay cláusula en él
+1927
+en que diga que le abrace.
+1928
+¿Pero qué haré yo por él
+1929
+si muere por mí y si nace
+1930
+de mí su pena cruel?
+1931
+Que no soy piedra tan dura
+1932
+que no sienta y agradezca
+1933
+tan grande amor, fe tan pura;
+1934
+que el ver que por mí padezca
+1935
+me va obligando a blandura.
+1936
+¡Oh, cómo merecería
+1937
+Rosaura un engaño ahora!
+1938
+Mucho os temo, lealtad mía,
+1939
+que el ver que un hombre la adora
+1940
+mueve la mujer más fría.
+1941
+¡Qué bien dice lo que siente,
+1942
+qué verdad, qué proceder!
+1943
+Pero, pensamiento, tente,
+1944
+que imagino soy mujer
+1945
+y no habrá mal que no intente.
+1946
+Pero de abrazarle aquí,
+1947
+¿qué ofensa el poder recibe?)
+Abrázanse, y sale la Princesa.
+DON JUAN
+1948
+¿Haslo consultado?
+DORICLEA
+Sí.
+1949
+Esta es prenda donde escribe
+1950
+mi amor. Detente, ¡ay de mí!
+1951
+Vístonos ha la Princesa;
+1952
+salte de la sala apriesa.
+DON JUAN
+1953
+Turbado estoy.
+DORICLEA
+Vete.
+DON JUAN
+Adiós.
+Vase.
+ROSAURA
+1954
+¿Ya tan amigos los dos?
+1955
+¡Oh, qué bien!
+DORICLEA
+¿De esto te pesa?
+1956
+¿Tú no me tienes mandado
+1957
+que esto finja?
+ROSAURA
+A fe que has dado
+1958
+indicios de bien mandada.
+1959
+¿Cómo sabes que me agrada
+1960
+que te abrace?
+DORICLEA
+Si en cuidado
+1961
+te pone ya mi intención,
+1962
+no me mandes.
+ROSAURA
+Que es razón
+1963
+que me obedezcas es justo,
+1964
+pero tampoco no gusto
+1965
+que excedas la comisión.
+1966
+¿Qué te tengo yo encargado?
+DORICLEA
+1967
+Responder, favorecer,
+1968
+escribir, mostrar cuidado.
+ROSAURA
+1969
+¿Pues por qué tienes de hacer
+1970
+más de lo que te han mandado?
+DORICLEA
+1971
+Pidiome que le abrazase.
+1972
+¿Qué respuesta darle pude
+1973
+para que no se enojase?
+1974
+Pero si quieres que mude
+1975
+de intento, este abrazo pase,
+1976
+que no le abrazaré más.
+ROSAURA
+1977
+¡Ah, infame, cómo me engaña
+1978
+tu lengua! ¿Abrazo le das?
+1979
+¿Venciote el brío de España?
+1980
+Perdida por él estás.
+1981
+Pero ¿qué milagro ha sido
+1982
+que quieras quien te ha querido,
+1983
+pues quien no me quiere quiero?
+1984
+Tú gozas el verdadero,
+1985
+y yo gozo amor fingido.
+1986
+Sabes que te adora y quiere,
+1987
+¿qué mucho que tú le quieras
+1988
+cuando su amor te refiere
+1989
+y que por un hombre mueras
+1990
+que por tus amores muere?
+1991
+Loca he sido, fui mujer;
+1992
+por no desdorar mi honor
+1993
+ni dar mi amor a entender
+1994
+quise gozar sin amor.
+1995
+¿Quién me lo pudo tener?
+1996
+Mis gustos fueron de ciego,
+1997
+que no vio lo que gozó;
+1998
+al mejor sentido niego
+1999
+el bien de que se privó;
+2000
+soy al fin ciego que juego.
+2001
+Dasme cartas por burlarme;
+2002
+si no me dices verdad,
+2003
+¿qué importaba el juego darme,
+2004
+que es tuya mi libertad
+2005
+y está en tu mano ganarme?
+2006
+Mas yo lo remediaré.
+2007
+No estés delante de mí.
+DORICLEA
+2008
+Apriétasme sin porqué.
+2009
+[Aparte](Basta, que voy por aquí
+2010
+a donde jamás pensé.
+2011
+Temiendo voy que don Juan
+2012
+se me va en el alma entrando.
+2013
+Si celos y amor están
+2014
+a la voluntad llamando,
+2015
+aunque no quiera, entrarán.)
+Vanse. Y entra Arnaldo con el Rey, y Honorio.
+ARNALDO
+2016
+Aquí el embajador de España viene.
+REY
+2017
+Dadme esos pies.
+ROSAURA
+Como es razón estimo
+2018
+el amor que me muestra el rey Alfonso;
+2019
+lee esas cartas y daré respuesta.
+Dale unas cartas.
+REY
+2020
+(Bellísima mujer, Honorio.
+HONORIO
+Es grande
+2021
+la fama de su ingenio y hermosura.
+REY
+2022
+Casareme con ella, no lo dudes.)
+ARNALDO
+2023
+El español te mira. Mas ¿quién duda
+2024
+que su Rey le ha mandado que mirase
+2025
+desde las partes de tu hermoso cuerpo
+2026
+hasta los dones de tu alma? ¡Oh, cielos,
+2027
+que me abraso de celos! Si supiera
+2028
+que aqueste embajador venía a la corte,
+2029
+le quitara la vida en el camino.
+REY
+2030
+Antes de ahora, gran Princesa, había
+2031
+el rey Alfonso escrito a vuestra Alteza.
+2032
+Trajo las cartas u don Juan de Haro,
+2033
+a quien dicen que ciertos caballeros
+2034
+pretendieron matar, y no ha faltado
+2035
+quien diga que de vos fue socorrido.
+ROSAURA
+2036
+(Aquí puedo saber lo que deseo)
+2037
+¿Quién es don Juan de Haro allá en España?
+REY
+2038
+Es, señora, un honrado caballero,
+2039
+de los señores de Vizcaya nobles,
+2040
+gallardo en paz y tan valiente en guerra
+2041
+que tiemblan de él los castellanos moros
+2042
+del Duero al Tajo y desde el Tajo al Betis.
+ROSAURA
+2043
+¿Qué desgracia ha tenido con Alfonso?
+REY
+2044
+Amó a su hermana y pretendió gozalla,
+2045
+que si se la pidiera en casamiento,
+2046
+pienso que se la diera el Rey, que estima
+2047
+de don Juan el valor.
+ROSAURA
+Aguarda afuera,
+2048
+que ya salgo, español, a responderte.
+REY
+2049
+(¡Ay, Honorio! Sin duda que responde
+2050
+que acepta el casamiento.
+HONORIO
+¿Y si le acepta?
+REY
+2051
+Descubrireme y casareme luego,
+2052
+que el amor que me entró por los oídos
+2053
+se ha confirmado por los ojos.
+HONORIO
+Entra,
+2054
+que no te engañas.
+REY
+¿No es muy bella?
+HONORIO
+Es ángel.)
+Vase el Rey, y Honorio.
+ROSAURA
+2055
+Arnaldo, a no haber sido de mis padres
+2056
+la mayor encomienda el estimarte
+2057
+y tener tu consejo por espejo
+2058
+de todas mis pasiones, me obligara
+2059
+el amor que te tengo a descubrirte
+2060
+lo que apenas pensé que imaginara.
+2061
+Yo he puesto en el valor de un caballero
+2062
+los ojos; la Reina soy. ¿Reyes que importan?
+2063
+No quiero reinos; gusto quiero, Arnaldo.
+2064
+Casarme tengo con mi propio gusto.
+ARNALDO
+2065
+[Aparte](¡Ay recelos, hoy sin duda mis deseos
+2066
+hallan el fin que mi temor les niega!
+2067
+Yo apostaré que soy a quien elige,
+2068
+yo apostaré que soy el que prefiere
+2069
+a todas las grandezas de estos príncipes.
+2070
+Soy natural, crieme en su palacio,
+2071
+conóceme, experiencia tiene en todo
+2072
+lo que para el gobierno de su reino
+2073
+puede querer del que por dueño escoge.)
+2074
+Señora, gran valor tu pecho muestra
+2075
+en despreciar los extranjeros reyes
+2076
+y en elegir un caballero pobre.
+2077
+Tú tienes reinos.
+ROSAURA
+¿Luego acierto?
+ARNALDO
+Aciertas.
+2078
+¿Pero no me dirás el venturoso
+2079
+que mereció tus altos pensamientos?
+ROSAURA
+2080
+¡Ay, Arnaldo, no sé cómo lo diga!
+ARNALDO
+2081
+Que bien podrás, que nunca amor espanta,
+2082
+aunque en desigualdades ponga el gusto.
+ROSAURA
+2083
+Este noble español, este gallardo
+2084
+español, conde Arnaldo, este famoso
+2085
+español.
+ARNALDO
+¿Qué me dices?
+ROSAURA
+Este ha sido
+2086
+en quien puse los ojos.
+ARNALDO
+No prosigas,
+2087
+que es desatino y de tu reino afrenta.
+ROSAURA
+2088
+¿De qué manera?
+ARNALDO
+¿Cómo un hombre bajo
+2089
+nos ha de gobernar?
+ROSAURA
+¿Bajo es un hombre
+2090
+que desprecia de un Rey la hermana, Conde,
+2091
+y que si la quisiera, se la dieran?
+ARNALDO
+2092
+En su tierra será lo que él quisiere,
+2093
+pero en la nuestra...
+ROSAURA
+Calla, que estás loco.
+2094
+Luego el oro, las perlas, los diamantes,
+2095
+solo tienen valor a donde nacen.
+2096
+Tú me has aconsejado que procure
+2097
+mi gusto: este es mi gusto.
+ARNALDO
+Es gusto injusto,
+2098
+y si lo intentas, caballeros tiene
+2099
+Bretaña que sabrán quitar la vida
+2100
+al español y al Rey que te pretende.
+ROSAURA
+2101
+¡Oh, villano! ¡Prendedle! ¡Ah, gente! ¡Ah, guarda!
+2102
+¡Matadle! ¿Cómo, si en mi pecho vive
+2103
+don Juan, ha de tener dueño Bretaña?
+2104
+Muera la envidia infame, ¡viva España!
+
+JORNADA TERCERA
+Salen tres alabarderos que traen preso a Hernandillo.
+HERNANDILLO
+2105
+¿Preso a mí? ¿Por qué razón?
+ALABARDERO 1º
+2106
+Villano, ¿qué te defiendes?
+HERNANDILLO
+2107
+Cosas de Rosaura son.
+2108
+Creo, don Juan, que pretendes
+2109
+la tuya y mi perdición.
+2110
+Díjele que hablase y viese
+2111
+es este embajador de España
+2112
+y que no se le escondiese,
+2113
+pues al venir a Bretaña
+2114
+no es posible que no fuese
+2115
+sino a informar contra él
+2116
+a la Princesa, y no quiso
+2117
+verse un momento con él
+2118
+para que tomase aviso
+2119
+de su fortuna cruel.
+2120
+Hombre incapaz de consejo,
+2121
+matarale su porfía,
+2122
+que el más sabio y el más viejo
+2123
+se han de mirar cada día
+2124
+a su amigo y a su espejo.
+ALABARDERO 2º
+2125
+A él no le prenden, no;
+2126
+a ti solo nos mandó
+2127
+prender a Rosaura.
+HERNANDILLO
+¡Ay de mí!
+2128
+Si es porque a la huerta fui,
+2129
+¿qué culpa le tengo yo?
+2130
+Hame criado don Juan,
+2131
+que yo era un pobre asturiano;
+2132
+debo conocer el pan.
+ALABARDERO 3º
+2133
+Acaba, necio villano.
+HERNANDILLO
+2134
+Señores, ¿adónde van?
+ALABARDERO 1º
+2135
+A palacio te llevamos.
+HERNANDILLO
+2136
+A la horca imaginé.
+ALABARDERO 2º
+2137
+Cuando su intención sepamos
+2138
+y tal sentencia se dé,
+2139
+sobran almenas y ramos
+2140
+en el campo que se ve.
+HERNANDILLO
+2141
+Si ramo hubiere de ser,
+2142
+saúco, por Dios, no sea.
+2143
+¿Quién me mandaba entender
+2144
+en cosas de Doriclea?
+2145
+¿Qué mal no causa mujer?
+2146
+Pues, por Dios, que no la vi,
+2147
+aunque allí me puse en verla,
+2148
+y él sabe que me dormí
+2149
+encima de la rodela
+2150
+hasta que su voz sentí.
+2151
+Mejor allá, con mis bueyes,
+2152
+buscaba a mi vida trazas.
+2153
+Mas ya que vine a tus leyes,
+2154
+¿quién metió a mis almohazas
+2155
+en los cetros de los reyes?
+ALABARDERO 3º
+2156
+Consuélate, español bravo,
+2157
+no muestres esa flaqueza,
+2158
+que de vosotros alabo
+2159
+la vida y la fortaleza.
+HERNANDILLO
+2160
+Estoy de la vida al cabo.
+2161
+Quien se puede consolar
+2162
+de morir de esta manera
+2163
+no es hombre, es bestia, pues dar
+2164
+pasos para una escalera
+2165
+más lo quisiere rodar.
+2166
+¡Ay, miserable Hernandillo!
+2167
+¿Privabas tú con el rey
+2168
+de León? Quiero decillo:
+2169
+hidalgo soy, y la ley
+2170
+me ha condenado a cuchillo.
+2171
+No he de morir en cordel,
+2172
+que yo no he sido ladrón,
+2173
+antes muero por ser fiel.
+ALABARDERO 1º
+2174
+Calla, español fanfarrón,
+2175
+no temas morir en él.
+ALABARDERO 2º
+2176
+La Princesa sale.
+ALABARDERO 3º
+Aquí
+2177
+el español traemos.
+Sale Rosaura.
+ROSAURA
+2178
+¿Es Hernandillo?
+HERNANDILLO
+Yo fui.
+2179
+Dame esos pies.
+ROSAURA
+Sin extremos.
+HERNANDILLO
+2180
+¿Cómo faltarán en mí?
+2181
+De un rosario de coral
+2182
+son los extremos la muerte,
+2183
+pues que llego a tiempo tal
+2184
+que me la das, Reina, advierte
+2185
+los extremos de mi mal.
+2186
+El diablo me trajo aquí.
+2187
+¡Pero si estoy sentenciado!
+2188
+Y pues, Reina, ¿cómo, di,
+2189
+he de morir ahorcado
+2190
+habiéndote visto a ti?
+2191
+Mas ya lo debo de estar,
+2192
+pues, viéndote, un ángel veo.
+ROSAURA
+2193
+Deja, Hernando, de llorar.
+HERNANDILLO
+2194
+Mi inocencia te deseo
+2195
+con este llanto abonar.
+ROSAURA
+2196
+Pues de ti quieres que digan,
+2197
+español, que puede ser
+2198
+que lágrimas te fatigan.
+HERNANDILLO
+2199
+Lloro porque eres mujer,
+2200
+que lágrimas tanto obligan.
+ROSAURA
+2201
+Salíos todos allá fuera
+2202
+y aguardad en esa sala.
+HERNANDILLO
+2203
+¡Oh, gran Reina, considera
+2204
+que amor cielo y tierra iguala!
+2205
+¡Don Juan viva, Hernando muera!
+2206
+Mátame a mí, que yo he sido
+2207
+el que la culpa he tenido;
+2208
+no mates a mi señor
+2209
+que es hombre de más valor
+2210
+que en toda España ha nacido.
+2211
+Doriclea me mandaba
+2212
+ir a la huerta, señora,
+2213
+que el triste seguro estaba.
+ROSAURA
+2214
+Más que yo te preguntaba
+2215
+me estás confesando ahora.
+2216
+¡Ay, Hernando, y cuán distinto
+2217
+es mi mal y tu temor!
+2218
+Si mis agravios te pinto,
+2219
+verás que me ha puesto amor
+2220
+en más ciego laberinto.
+2221
+Llégate acá; y pues el cielo
+2222
+te dotó, para consuelo
+2223
+de mi locura y pasión,
+2224
+de pobreza y discreción...
+HERNANDILLO
+2225
+Prosigue.
+ROSAURA
+(Cúbreme un hielo.)
+2226
+Advierte lo que es mujer.
+2227
+Ni a Semíramis, ni a Dido,
+2228
+ni a Mesalina has de ver;
+2229
+toda en mí se ha producido
+2230
+la flaqueza de su ser.
+2231
+¿Quieres ejemplo? Pues mira
+2232
+que quien su amor ha encubierto
+2233
+a hombre que a ser rey aspira
+2234
+a un criado ha descubierto
+2235
+lo que a su bajeza admira.
+2236
+Mira qué puede fiarse
+2237
+de este nuevo entendimiento,
+2238
+pues quien, por no sujetarse,
+2239
+calló a tu señor su intento
+2240
+y a ti viene a declararse.
+2241
+Reiraste de mi flaqueza,
+2242
+burlarás de nuestro ser,
+2243
+la loca naturaleza;
+2244
+mas no después de saber
+2245
+que esto importa a mi grandeza.
+HERNANDILLO
+2246
+¿Que no me mandas matar
+2247
+por haber ido a la huerta
+2248
+ni la rodela llevar?
+ROSAURA
+2249
+¡Ay, amigo, que estoy muerta
+2250
+de diferente pesar!
+HERNANDILLO
+2251
+Dame setecientas veces
+2252
+tus pies, quiébrame esta boca
+2253
+con ellos.
+ROSAURA
+Si tú me ofreces,
+2254
+pues como a hidalgo te toca
+2255
+servirme, como encareces,
+2256
+de decirme una verdad,
+2257
+en tu baja calidad
+2258
+pondré un título.
+HERNANDILLO
+Señora,
+2259
+un Trajano seré ahora.
+ROSAURA
+2260
+(Cielos, mi amor perdonad.)
+2261
+Yo, Hernando, después que vi
+2262
+a don Juan, perdí mi ser.
+2263
+No pienses más de que fui,
+2264
+naturalmente, mujer;
+2265
+como mujer me rendí,
+2266
+porque su conversación
+2267
+fue, sin que él lo entendiese,
+2268
+conforme a mi obligación.
+2269
+Que Doriclea fingiese
+2270
+quererle fue mi intención;
+2271
+fingió, escribió que le amaba,
+2272
+que a Feliciano adoraba
+2273
+y amar a don Juan fingía.
+2274
+Al fin, le hablaba de día
+2275
+y yo de noche le hablaba,
+2276
+que no ha sido Doriclea,
+2277
+sino yo. Mas ya que entiendo
+2278
+que el rey de León desea
+2279
+darle su hermana, pretendo
+2280
+que mayor prenda posea.
+2281
+Que de aqueste embajador
+2282
+he sabido su valor,
+2283
+y viendo que me merece,
+2284
+quiero ofrecer lo que ofrece
+2285
+siempre un verdadero amor.
+2286
+Rey ha de ser de Bretaña
+2287
+don Juan, y será mi esposo;
+2288
+solo impedirá la hazaña
+2289
+con que ha de ser tan dichoso
+2290
+estar casado en España.
+2291
+Y así, te mandé traer
+2292
+porque tu lealtad me diga
+2293
+si es la Infanta su mujer.
+2294
+Mira, Hernando, que te obliga
+2295
+la grandeza de mi ser.
+2296
+Que yo, por justo temor
+2297
+de vasallos –envidioso
+2298
+de don Juan y su valor,
+2299
+tiene a mis Grandes celosos,
+2300
+aunque es más grande mi amor–,
+2301
+quiero casarme en secreto,
+2302
+y aun esta noche ha de ser;
+2303
+mas si después del efeto
+2304
+tuviese don Juan mujer
+2305
+y a un rey perdiese el respeto,
+2306
+buena, ¡por Dios!, quedaría
+2307
+la princesa de Bretaña;
+2308
+pues cuando la injuria mía
+2309
+quisiese hacer guerra a España,
+2310
+mayor deshonra sería.
+2311
+Dime verdad, y responde,
+2312
+como hidalgo, a toda ley,
+2313
+si es casado, cómo y dónde,
+2314
+que quien hace a don Juan rey
+2315
+a ti, Hernando, te hará conde.
+HERNANDILLO
+2316
+¡Mire por dónde ha venido
+2317
+Hernandillo a tal grandeza!
+2318
+Nadie, aunque esté más perdido,
+2319
+desconfíe. Y vuestra Alteza
+2320
+me dé los pies, los pies pido,
+2321
+pues siendo cierto este día,
+2322
+que está segura la traza,
+2323
+con que gozarle confía,
+2324
+desde mi humilde almohaza
+2325
+me sube a tal señoría.
+2326
+Nunca se casó don Juan
+2327
+con Armesinda, ¡por Dios!
+ROSAURA
+2328
+¿Y también sabes que están
+2329
+desobligados los dos?
+HERNANDILLO
+2330
+Rosaura, escrito se han,
+2331
+pero tomado una mano,
+2332
+de ningún modo, ni fuera
+2333
+posible estando su hermano
+2334
+advertido; de manera
+2335
+que fuera su intento vano.
+2336
+Ni le mandara matar
+2337
+de ninguna suerte cuando
+2338
+él la pudiera gozar.
+ROSAURA
+¿Cierto?
+HERNANDILLO
+2339
+¡Por vida de Hernando,
+2340
+que los mandara casar!
+2341
+Vuestra Alteza esté segura;
+2342
+haga rey al mejor hombre
+2343
+que tiene España.
+ROSAURA
+Ventura
+2344
+tiene don Juan.
+HERNANDILLO
+No te asombre
+2345
+lo que tu reino procura,
+2346
+que le das un rey de oro,
+2347
+gloria del honor cristiano,
+2348
+temor del orgullo moro;
+2349
+y a mí, que me ves tan llano,
+2350
+soy hombre de buen decoro.
+2351
+No hay en mi linaje ofensa;
+2352
+los envidiosos lo digan;
+2353
+la almohaza es mi defensa,
+2354
+que los trabajos obligan
+2355
+a lo que el hombre no piensa.
+2356
+Mil con rojos y amarillos
+2357
+hábitos haces corrillos
+2358
+contra el lacayo que ves,
+2359
+que puede honrar un pavés
+2360
+con diez y nueve castillos.
+2361
+Cuando yo vuelva a León,
+2362
+¿qué dirán los mal nacidos
+2363
+de verme conde bretón?
+ROSAURA
+2364
+(¿Qué dudan ya mis sentidos?
+2365
+Falsas mis sospechas son.)
+2366
+¡Ah de la guarda!
+Salen los tres alabarderos.
+ALABARDERO 1º
+Señora.
+ROSAURA
+2367
+¡Cerrad en este aposento
+2368
+a este español!
+HERNANDILLO
+¿Pues ahora
+2369
+sales con eso?
+ROSAURA
+¡Al momento!
+HERNANDILLO
+2370
+Esta mudanza os desdora.
+2371
+Con esto, ¿quién ha de haber
+2372
+que de vuestro flaco ser
+2373
+tenga jamás buen conceto?
+ROSAURA
+2374
+Esto importa a mi secreto.
+HERNANDILLO
+2375
+¡Brava industria!
+ROSAURA
+Soy mujer.
+2376
+Advertid que esté cerrado
+2377
+y veladle con cuidado
+2378
+toda esta noche hasta el día.
+HERNANDILLO
+2379
+Que poco fui señoría
+2380
+por subir de establo a Estado.
+Meten a Hernando los alabarderos, y sale Pinabelo.
+PINABELO
+2381
+Celio me fue a decir que me llamaba,
+2382
+gran señora, su Alteza.
+ROSAURA
+¡Oh, Pinabelo!,
+2383
+a que hoy vinieses aguardando estaba.
+2384
+Aguarda un poco. (Hoy me promete el cielo
+2385
+un grande bien casándome a mi gusto;
+2386
+la noche oscura tiende el negro velo.
+2387
+Tales celos me ha dado y tal disgusto,
+2388
+ardiéndose en el fuego Doriclea
+2389
+y queriendo a don Juan más de lo justo,
+2390
+que ya no quiero que tercera sea
+2391
+ni que a don Juan escriba, que es locura
+2392
+que adore a una mujer y otra posea.
+2393
+Llegada es de mi bien la coyuntura;
+2394
+rindo mi honor, mi pensamiento allano;
+2395
+goce de la ocasión, de su ventura.
+2396
+Este papel le escribo de mi mano,
+2397
+en que para esta noche le prometo
+2398
+la posesión que le defiendo en vano.)
+2399
+¡Pinabelo!
+PINABELO
+¿Señora?
+ROSAURA
+Con secreto
+2400
+darás al español que ya conoces,
+2401
+este papel; no más, tú eres discreto.
+PINABELO
+2402
+Mil años, Reina, de tu esposo goces,
+2403
+que por la sucesión que en ti desea
+2404
+tu verde edad tu reino daba voces.
+Vase Rosaura. Y sale el Rey y Honorio.
+REY
+2405
+¿Por qué culpas, Honorio, lo que hice?
+HONORIO
+2406
+Porque no te conozcan, y Rosaura
+2407
+de verte en traje vil se escandalice.
+REY
+2408
+Enciende, convertido en sutil aura,
+2409
+mi fuego con sus alas un deseo
+2410
+donde amor el fénix se restaura.
+2411
+Este sale a los ojos con que veo,
+2412
+es dueño de la lengua con que digo
+2413
+mil cosas que yo mismo no las creo.
+2414
+Mas no por eso a imaginar me obligo,
+2415
+que soy quien soy, que lo que no se espera
+2416
+deslumbra la verdad, Honorio amigo.
+HONORIO
+2417
+¿Y qué aguardamos ya?
+REY
+Que ella me quiera,
+2418
+respondiendo a mis cartas, por esposo.
+HONORIO
+2419
+Sí hará, si tu grandeza considera.
+Llega Pinabelo al Rey, y dice.
+PINABELO
+2420
+¿Puédote hablar, embajador famoso?
+REY
+2421
+¡Oh, Pinabelo!, ¿hay novedad alguna
+2422
+que a mis cosas prometa fin dichoso?
+PINABELO
+2423
+Hoy está de tu parte la fortuna;
+2424
+sin duda que tu Rey goza esta diosa
+2425
+que el mundo con suspiros importuna.
+2426
+Despacha un caballero a la famosa
+2427
+corte de España, que este papel creo
+2428
+que firma que es del rey de León esposa.
+REY
+2429
+El cielo escuche nuestro buen deseo;
+2430
+solo ser papel suyo basta ahora
+2431
+y que sin duda lo que dices creo.
+PINABELO
+2432
+A España llevaréis una señora
+2433
+que no la ve más generosa y bella
+2434
+la lámpara del sol en cuanto dora.
+REY
+2435
+No dudes de que goce también ella
+2436
+un hombre igual a su valor y partes.
+PINABELO
+2437
+Siempre tengan favorable estrella.
+2438
+Para leerle quiero que te apartes
+2439
+aun de mí mismo; adiós te queda.
+REY
+Espera.
+2440
+¿Sin prenda de mi amor de mí te partes?
+2441
+Toma aqueste diamante, que quisiera
+2442
+que fuera el sol, en luz; en precio, el mundo,
+2443
+y el fino engaste, el oro de su esfera.
+PINABELO
+2444
+Prendas de amor tienen valor profundo;
+2445
+para señal de tuyo, el don aceto.
+Vase Pinabelo solo.
+REY
+2446
+Qué bien aquí mis esperanzas fundo.
+2447
+Allega Honorio; veremos el efeto
+2448
+que ha hecho mi venida en esta dama,
+2449
+que para tu privanza no hay secreto.
+HONORIO
+2450
+¿Eso dudas de tu buena fama?
+REY
+2451
+“Al español” el sobrecito dice.
+HONORIO
+2452
+Lo que tienes mejor, eso te llama.
+2453
+Léele, porque tu gusto solemnice,
+Abre el Rey la carta y léela, diciendo:
+REY
+Habiendo hecho información de quién eres, y certificada de tu valor, no quiero que entre los dos haya amor que sea secreto, Ven esta noche a la huerta, que para que tus envidioso no estorben que seas rey de Bretaña y mi marido, te daré posesión de lo que es menos respecto del alma, que desde aquí te he dado. –Rosaura.”
+HONORIO
+2454
+¡Notable caso!
+REY
+¡Espantoso!
+HONORIO
+2455
+Informole de quien eras
+2456
+algún español quejoso
+2457
+de que a peligro pusieras
+2458
+la vida, el reino, el reposo.
+2459
+Que eras el Rey le han contado.
+2460
+Ella, viendo que has dejado
+2461
+por verla tu patria así,
+2462
+enamorada de ti,
+2463
+reino y posesión te ha dado.
+2464
+Y es buen medio, que en Bretaña
+2465
+tendrán esta pretensión
+2466
+muchos, que ella desengaña,
+2467
+o a lo menos a traición,
+2468
+que la goce el rey de España.
+2469
+Y por eso en esa huerta
+2470
+verse contigo concierta,
+2471
+porque posesión tomada,
+2472
+queda por fuerza casada
+2473
+y su pretensión incierta.
+2474
+Bien ha hecho, y ha impedido
+2475
+que la envidia nos impida
+2476
+lo que habemos pretendido.
+REY
+2477
+Noche de estrellas vestida,
+2478
+favor a tus luces pido.
+2479
+Baja de tu negro ocaso,
+2480
+saca el carro al cielo raso,
+2481
+sientan tus caballos dueño,
+2482
+pica al olvido y al sueño
+2483
+para que alarguen el paso.
+2484
+No porque quiero que antes
+2485
+que aqueste engaño ejecutes
+2486
+le entoldes de tus diamantes,
+2487
+antes quiero que le enlutes
+2488
+de tinieblas semejantes.
+2489
+Bella Andrómeda, Ariadna,
+2490
+Calixto y cuantas estrellas
+2491
+ya tuvistes forma humana;
+2492
+y vos la mejor entre ellas,
+2493
+de la triforme Diana,
+2494
+pues amaste a Perseo,
+2495
+a Júpiter, a Teseo
+2496
+y al pastor Endimión,
+2497
+cubrid en esta ocasión
+2498
+vuestro resplandor febeo.
+2499
+Goce yo tanta ventura;
+2500
+saca tu cabeza oscura,
+2501
+dulce noche, destocada
+2502
+así del alba rosada
+2503
+goces el ambrosía pura.
+HONORIO
+2504
+¡Poética exclamación!
+2505
+No hay duda sino que baje
+2506
+a tanta conjuración.
+REY
+2507
+Vamos a mudar de traje.
+2508
+¿Son las seis?
+HONORIO
+Las cinco son.
+REY
+2509
+Mira que dieron denantes
+2510
+y que ha mil siglos que espero.
+HONORIO
+2511
+No me espanto.
+REY
+No te espantes,
+2512
+que anda siempre delantero
+2513
+el reloj de los amantes.
+Vanse. Y salen Feliciano y el conde Arnaldo.
+FELICIANO
+2514
+Hame vuelto del camino,
+2515
+Arnaldo, el mismo furor;
+2516
+no puedo lo que imagino
+2517
+porque residiendo amor
+2518
+se convierte en desatino.
+2519
+No tiene mi honor poder
+2520
+para poder resistir
+2521
+la injuria de una mujer,
+2522
+que agravios hacen huir
+2523
+y celos hacer volver.
+2524
+Salí con mil desatinos,
+2525
+Arnaldo, de la ciudad;
+2526
+mas estos celos indinos
+2527
+son varas de la Hermandad
+2528
+que prenden por los caminos.
+2529
+Son soga, aunque de cabellos,
+2530
+que tira un hombre con ellos
+2531
+la ingrata que tiene el cabo;
+2532
+hierros en rostro de esclavo,
+2533
+que le conocen por ellos.
+2534
+Son como joya olvidada
+2535
+que al caminante forzó
+2536
+a volver a la posada,
+2537
+por cuya causa perdió
+2538
+la mitad de la jornada.
+2539
+Son agua o sol que detiene
+2540
+la brevedad del camino,
+2541
+que quien huye y celos tiene,
+2542
+agua que a los ojos vino,
+2543
+fuego que del alma viene.
+2544
+En fin, que pude volver
+2545
+del camino comenzado
+2546
+solo, Arnaldo, con saber
+2547
+de don Juan imaginado
+2548
+que hoy goza de esta mujer.
+ARNALDO
+2549
+¡Ay, Feliciano, cuán lejos
+2550
+vas de aquel cierto dolor
+2551
+que tiene a los dos perplejos!
+2552
+Celos no es el sol de amor,
+2553
+pero es de su luz reflejos.
+2554
+Arde amor, y reverbera
+2555
+en celos su rayo ardiente;
+2556
+mi mal como el vuestro fuera,
+2557
+pero mi mal no consiente
+2558
+ni que olvide ni que quiera.
+2559
+Así fuera yo querido
+2560
+como vos de Doriclea;
+2561
+ya el encanto se ha sabido.
+FELICIANO
+2562
+¿Qué me decís?
+ARNALDO
+Que os desea,
+2563
+perdida, y estáis perdido.
+2564
+Ama Rosaura a don Juan,
+2565
+Doriclea le entretiene;
+2566
+si en la huerta hablando están,
+2567
+es porque Rosaura viene
+2568
+y ella y las damas se van.
+2569
+Afeite es de este arrebol
+2570
+su flaqueza, y atropella
+2571
+su honor, y así el español
+2572
+piensa que goza la estrella
+2573
+y está en los brazos del sol.
+FELICIANO
+2574
+¿Es posible o me engañáis
+2575
+con los celos que tenéis?
+ARNALDO
+2576
+Para que más lo creáis
+2577
+quiero que os desengañéis,
+2578
+que hay mayor mal que pensáis.
+FELICIANO
+2579
+¿De qué suerte?
+ARNALDO
+Hoy me llamó,
+2580
+y como, en fin, se informó
+2581
+de que era don Juan de Haro
+2582
+de linaje ilustre y claro,
+2583
+conmigo se declaró;
+2584
+que casarse pretendía
+2585
+con él, me dijo.
+FELICIANO
+¡Ah, liviana!
+ARNALDO
+2586
+Y que hombre que merecía
+2587
+de un rey de León hermana,
+2588
+serlo en Bretaña podía.
+2589
+Respondile de mi amor
+2590
+–de su locura olvidado,
+2591
+perdí la vista y color,
+2592
+porque el color demudado
+2593
+muestra del alma el furor–
+2594
+que era espantosa locura,
+2595
+indigna de su grandeza;
+2596
+ella, encendida cual pura
+2597
+rosa, aumentó su belleza.
+2598
+¿Quién vio furor y hermosura?
+2599
+Y díjome que tenía
+2600
+reino y que gusto quería.
+2601
+Mudé otro nuevo color
+2602
+entonces, que ya mi amor,
+2603
+sueltas las riendas, corría,
+2604
+y respondí que en Bretaña
+2605
+habría mil que impidiesen
+2606
+que nos gobernase España.
+2607
+Dio voces que me prendiesen.
+FELICIANO
+2608
+¿A ti, Conde? Cosa extraña.
+ARNALDO
+2609
+Tiento la espada, enmudezco,
+2610
+calo el sombrero y la guarda; FF
+2611
+si me la dan, yo perezco.
+2612
+Que en punto que me vi
+2613
+echar a la mar la ropa,
+2614
+ser pólvora pretendí,
+2615
+que aunque abrasa a lo que topa,
+2616
+al fin se consume a sí.
+2617
+Nuevo Sansón que contemplo;
+2618
+cayera y cayera el templo
+2619
+en que mi venganza fundo,
+2620
+para dejar en el mundo
+2621
+no menos glorioso ejemplo.
+FELICIANO
+2622
+¡De qué extraña variedad
+2623
+se forma la confusión
+2624
+de la vida en esta edad!
+2625
+Así, cuantas cosas son
+2626
+tienen ser y calidad.
+2627
+De lo que aquel empobrece,
+2628
+este medra y enriquece;
+2629
+aquel enferma, este sana,
+2630
+que para menguar mañana,
+2631
+se hincha el mar, la luna crece.
+2632
+Aquellos van sosegados,
+2633
+los otros vienen quejosos,
+2634
+hay queridos y olvidados,
+2635
+porque no hubiera dichosos
+2636
+si no hubiera desdichados.
+2637
+Conde, de oír tu tormento
+2638
+nace mi gusto y contento;
+2639
+perdonad esta alegría,
+2640
+que yo os juro que en ser mía
+2641
+presto me la lleve el viento.
+2642
+Vos estábades ufano
+2643
+y yo triste, y ya la suerte
+2644
+trocó el azar.
+ARNALDO
+Feliciano,
+2645
+hoy hemos de dar la muerte
+2646
+a aqueste español villano.
+2647
+Conmigo habéis de venir,
+2648
+donde al entrar de la huerta,
+2649
+¡vive Dios, que ha de morir!
+FELICIANO
+2650
+Será cerrar yo la puerta
+2651
+que el amor me quiere abrir.
+2652
+Si él no goza a Doriclea
+2653
+y ella me quiere y desea,
+2654
+dando muerte a este español,
+2655
+¿cómo, Conde, querrá el sol
+2656
+que sus estrellas posea?
+2657
+Ha de ser fuerza ausentarme,
+2658
+ha de ser fuerza perdella;
+2659
+bien podéis, Conde, mandarme
+2660
+lo que no fuere ofendella,
+2661
+que el ofendella es matarme,
+2662
+y el amigo ha de querer
+2663
+lo que es honesto y es justo.
+ARNALDO
+2664
+Así dicen que ha de ser,
+2665
+y de suplicaros gusto
+2666
+cosa que podáis hacer.
+FELICIANO
+2667
+¿Cómo?
+(Al oído.)
+ARNALDO
+Como hoy.
+FELICIANO
+Que me place.
+ARNALDO
+2668
+¿Dais palabra?
+FELICIANO
+Sí doy,
+2669
+que no hace ni deshace
+2670
+que muera o que viva hoy
+2671
+quien ni bien ni mal me hace.
+2672
+Queda con Dios.
+Vase Feliciano.
+ARNALDO
+Él os guarde.
+2673
+y Él vive, que si no fuera
+2674
+porque el vengarme no tarde,
+2675
+que aquí donde estoy le diera
+2676
+muerte a ese infame cobarde.
+2677
+La verdadera amistad
+2678
+no repara en propio bien
+2679
+cuando se trata verdad,
+2680
+pues no ha de faltarme quien
+2681
+muestre a mis cosas lealtad.
+2682
+Hablaré al conde Leonicio,
+2683
+que de su amor tengo indicio,
+2684
+y mataré al español,
+2685
+porque en poniendo su sol,
+2686
+haga la luna su oficio.
+Vase. Y sale Doriclea y Lucinda, villana.
+DORICLEA
+2687
+Tendrás, Lucinda, cuidado,
+2688
+porque ha de venir don Juan,
+2689
+que esté tu esposo acostado.
+LUCINDA
+2690
+Cuantos en la huerta están
+2691
+han ido esta noche al prado,
+2692
+que como víspera es
+2693
+del primero día de mayo,
+2694
+desde las dos a las tres
+2695
+hasta que despierte el rayo
+2696
+del sol las flores que ves
+2697
+con música adornarán
+2698
+cuantas puertas aquí están
+2699
+de todas las hortelanas.
+DORICLEA
+2700
+Eso he visto las mañanas
+2701
+de san Pedro y de san Juan.
+LUCINDA
+2702
+La de mayo es mayor fiesta,
+2703
+porque en mañana como esta
+2704
+casan las mozas baldías
+2705
+de todas las caserías
+2706
+y anda el amor sobre apuesta.
+2707
+Y antes os viene mejor,
+2708
+porque entre tanto ruido
+2709
+de hortelano y labrador
+2710
+no sea don Juan sentido
+2711
+si habéis de hacerle favor.
+2712
+¿A qué hora ha de venir?
+DORICLEA
+2713
+Vendrá a las doce.
+LUCINDA
+Pues entre,
+2714
+que bien os podéis dormir
+2715
+sin que la gente le encuentre,
+2716
+y él, cuando el alba, al salir.
+2717
+Que ya estarán recogidos
+2718
+o por ventura dormidos
+2719
+al pie de los altos olmos
+2720
+o sobre los verdes colmos
+2721
+de mimbre y yerba tejidos.
+DORICLEA
+2722
+Con todo ha de ser azar
+2723
+de mi pretensión.
+LUCINDA
+Yo quiero,
+2724
+aunque no pensé, bailar,
+2725
+ir allá con mi pandero
+2726
+y al regocijo ayudar.
+2727
+Que viniendo yo con ellos
+2728
+más presto haré recogellos,
+2729
+y vos de vuestro español
+2730
+gozaréis hasta que el sol
+2731
+peine sus rubios cabellos.
+DORICLEA
+2732
+Hazlo, mi Lucinda, así;
+2733
+recoge los hortelanos,
+2734
+no haya nadie por aquí
+2735
+cuando el alba de sus manos
+2736
+vierta el clavel y alhelí,
+2737
+que mi palabra te doy
+2738
+de darte una joya.
+LUCINDA
+Espera,
+2739
+que al prado a llamarlos voy.
+Vase.
+DORICLEA
+2740
+¿Quién de mi lealtad creyera
+2741
+que la que esto inventa soy?
+2742
+Tanto Rosaura ha querido
+2743
+que finja que a don Juan quiero,
+2744
+que de verle tan perdido
+2745
+ha parado en verdadero
+2746
+lo que comencé fingido.
+2747
+Quiero a don Juan, y deseo
+2748
+que en esta ocasión que veo
+2749
+gane mi amor por la mano.
+2750
+Perdóname, Feliciano,
+2751
+que en mayor valor me empleo.
+Sale Feliciano.
+FELICIANO
+2752
+Si amando llamarte puedo,
+2753
+noche, fábrica de sombras,
+2754
+manto de cualquier enredo,
+2755
+tú, de cuyas negras sombras,
+2756
+pende la capa del miedo,
+2757
+mis cobardes pasos guía,
+2758
+puesto que te llaman ciega,
+2759
+donde la esperanza mía
+2760
+al dulce puerto navega
+2761
+del bien que gozar solía.
+2762
+Noche de luto cubierta,
+2763
+dame en esta verde huerta,
+2764
+si es que tu poder es cierto,
+2765
+a mis desengaños puerta
+2766
+y a mis esperanzas puerto.
+2767
+No esté, pues, más ofendida
+2768
+la vida, aunque honor se nombre,
+2769
+ser un ángel homicida.
+DORICLEA
+2770
+(¡Ay, Dios, allí he visto un hombre!)
+2771
+¿Sois vos, don Juan de mi vida?
+FELICIANO
+2772
+(La voz es de Doriclea,
+2773
+don Juan dijo, mal responde
+2774
+si a Feliciano desea;
+2775
+celos engañan al Conde.
+2776
+Temo que Rosaura sea,
+2777
+y no lo pudiera hacer
+2778
+en ofensa de su ser;
+2779
+es así que me engañó,
+2780
+pero tratarela yo
+2781
+como a mudable mujer.
+2782
+Hoy se verá que castiga
+2783
+el cielo injustas mudanzas.)
+DORICLEA
+2784
+¿No entráis?
+FELICIANO
+(A venganza obliga
+2785
+su traición; mis esperanzas
+2786
+cumplió amor, dulce enemiga.)
+DORICLEA
+2787
+Entrad pues.
+FELICIANO
+Miro si hay gente.
+DORICLEA
+2788
+No, que estás los hortelanos
+2789
+en el bosque de la fuente.
+FELICIANO
+2790
+Dame, señora, esas manos.
+DORICLEA
+2791
+(Perdona, amor, que esto intente;
+2792
+tú me enseñaste, Rosaura,
+2793
+a amar a don Juan.)
+FELICIANO
+¡Oh, fiera!
+2794
+¡Qué casta Porcia, qué Laura!
+DORICLEA
+2795
+Entra.
+FELICIANO
+¿Quién, noche, creyera
+2796
+lo que tu daño restaura?
+Entre don Juan solo.
+DON JUAN
+2797
+Dulce tormento do el amor se vía,
+2798
+pues camináis al fin de mi esperanza,
+2799
+las alas esforzad, que cuando alcanza,
+2800
+con más aliento el corazón porfía.
+2801
+Sobre los ramos de esta huerta cría
+2802
+pintada pajarilla o semejanza
+2803
+del fénix de la Arabia, sin mudanza;
+2804
+la oscura noche vela y duerme el día.
+2805
+Pues llego cerca de su ilustre nido,
+2806
+y como blanco azor las uñas tiendo;
+2807
+fuentes, no murmuréis ni hagáis ruido,
+2808
+que si callando, a amor sus alas prendo
+2809
+entre su pico de rubíes teñido,
+2810
+dejar el alma por la presa entiendo.
+Suena gran ruido de Hortelanos, con sus instrumentos; canten dentro.
+[HORTELANOS]
+2811
+Las mañanicas de abril
+2812
+dulces eran de dormir.
+DON JUAN
+2813
+Hay notable confusión;
+2814
+estos los villanos son
+2815
+jardineros de esta huerta.
+2816
+Dejarles quiero la puerta
+2817
+si he de perder la ocasión.
+Canten.
+[HORTELANOS]
+2818
+Las mañanicas de abril
+2819
+dulces eran de dormir,
+2820
+y las de mayo mejor
+2821
+si no despertara amor.
+Salen todos con sus ramos e instrumentos.
+BELARDO
+2822
+¿Quién ha de echar los casados?
+TORINDO
+2823
+La música lo diré, FF
+2824
+que ya los traigo estudiados.
+DON JUAN
+2825
+¡Ay, ay, cuán perdida está
+2826
+la ocasión de mis cuidados!
+LUCINDA
+2827
+Cántalos en voz erguida,
+2828
+que todos responderán.
+DON JUAN
+2829
+¡Oh, canalla mal nacida!
+2830
+¡Ved, por quién llora don Juan,
+2831
+tan alta ocasión perdida.
+Canta Torindo solo.
+TORINDO
+2832
+¿Belardo y Lucinda
+2833
+casaranse?
+TODOS
+Sí.
+TORINDO
+2834
+¿Belisa y Castalio?
+TODOS
+2835
+¡Oh qué par gentil!
+TORINDO
+2836
+¿Tirreno y Diana?
+TODOS
+2837
+Sol y serafín.
+TORINDO
+2838
+¿Clarinda y Riselo?
+TODOS
+2839
+Ébano y marfil.
+TORINDO
+2840
+¿Silvano y Belisa?
+TODOS
+2841
+Clavel y jazmín.
+TORINDO
+2842
+¿Toribio y Antonia?
+TODOS
+2843
+Apio y perejil.
+TORINDO
+2844
+¿Riselo y Pascuala?
+TODOS
+2845
+Toronja y cetí.
+TORINDO
+2846
+¿Rebollo y Andrea?
+TODOS
+2847
+Guindas y pernil.
+TORINDO
+2848
+Las mañanicas de abril
+2849
+dulces eran de dormir,
+2850
+y las de mayo mejor,
+2851
+si no despertara amor.
+Asómase la Infanta en lo alto del jardín.
+ROSAURA
+2852
+¿Hay desdicha semejante?
+2853
+Que no supe esta costumbre
+2854
+de aquesta gente ignorante.
+2855
+¡Oh, qué extraña pesadumbre
+2856
+se pone a mi bien delante!
+2857
+Si habrá venido don Juan.
+DON JUAN
+2858
+¿Qué he de hacer, que no se van
+2859
+y allí siento a Doriclea?
+2860
+¿Qué hará quien pierde y desea
+2861
+una ocasión que le dan?
+BELARDO
+2862
+A las damas de palacio,
+2863
+casad también.
+TORINDO
+Pues ya empiezo.
+DON JUAN
+2864
+Ellos lo toman despacio.
+LUCINDA
+2865
+Alargad bien el pescuezo,
+2866
+que es muy largo el cartapacio.
+Torna a cantar, y responde todos.
+TORINDO
+2867
+¿Doriclea y don Juan
+2868
+casaranse?
+TODOS
+Sí.
+DON JUAN
+2869
+Todo os lo perdono
+2870
+si sucede así.
+TORINDO
+2871
+¿Lisarda y Arnaldo?
+TODOS
+2872
+Rosa y Alhelí.
+TORINDO
+2873
+¿Augusta y Leonicio?
+TODOS
+2874
+Jimena y el Cid.
+TORINDO
+2875
+¿Laura y Feliciano?
+TODOS
+2876
+Rosa y toronjil.
+TORINDO
+2877
+¿Pinabelo y Celia?
+TODOS
+2878
+Almendras y anís.
+TORINDO
+2879
+¿El Rey y la Reina?
+TODOS
+2880
+San Juan y san Gil.
+TORINDO
+2881
+¡Tantos años viva...!
+TODOS
+2882
+¡...Como el rey David!
+TORINDO
+2883
+Si ella se empreñare,...
+TODOS
+2884
+...para un paladín.
+TORINDO
+2885
+Tan valiente sea,...
+TODOS
+2886
+como un puercoespín.
+TORINDO
+2887
+Santantón la alumbre,...
+TODOS
+2888
+con el su candil.
+TORINDO
+2889
+Las mañanicas de abril
+2890
+dulces eran de dormir,
+2891
+y las de mayo mejor,
+2892
+si no despertara amor.
+Váyanse con grita. Y entre Honorio y el Rey.
+DON JUAN
+2893
+Gracias a Dios que se han ido;
+2894
+voy a entrar. Mas ¿qué ruido
+2895
+de gente es este? Mejor
+2896
+será esconderme.
+REY
+De amor,
+2897
+victoria y ejemplo he sido.
+2898
+¿Vienes bien puesto?
+HONORIO
+Muy bien.
+REY
+2899
+Conde, los puestos recorre,
+2900
+las sendas, y ve también
+2901
+a ver la guarda en la torre.
+Vase Honorio solo. Y entra el conde Arnaldo y Leonicio.
+ARNALDO
+2902
+Leonicio, el paso detén.
+LEONICIO
+2903
+¿Cómo?
+ARNALDO
+Un hombre he visto allí,
+2904
+y casi a la puerta llega.
+LEONICIO
+2905
+¿Hablarele?
+ARNALDO
+Espera, sí.
+LEONICIO
+2906
+¿Eres español?
+REY
+¿Quién niega
+2907
+que lo soy?
+ARNALDO
+¿Qué haces aquí?
+REY
+2908
+Tomo el fresco.
+DON JUAN
+¡Oh, gran rigor,
+2909
+si es este el embajador
+2910
+y estos le quieren matar!
+ARNALDO
+2911
+¿No hallabas otro lugar
+2912
+para tomarle mejor?
+REY
+2913
+Seguía aquestos hortelanos,
+2914
+que con ramos en las manos
+2915
+iban cantando y tañendo.
+ARNALDO
+2916
+Matadle.
+REY
+Ofendido, ofendo.
+Llega don Juan.
+DON JUAN
+2917
+¿Dos para un hombre, villanos?
+2918
+Mas si español le nombráis,
+2919
+no es mucho le acometáis
+2920
+dos, y dos mil.
+LEONICIO
+¡Tente, fiero!
+REY
+2921
+Ya huyen.
+DON JUAN
+Seguirlos quiero.
+Huyan. Y quédense el Rey y don Juan.
+REY
+2922
+Tened, hidalgo, y no os vais.
+DON JUAN
+2923
+Dejad que los mate.
+REY
+¿Huyendo
+2924
+no van? ¿Qué queréis?
+DON JUAN
+Matallos.
+REY
+2925
+Más conoceros pretendo
+2926
+que seguillos.
+DON JUAN
+En dejallos,
+2927
+que os hago servicio entiendo.
+REY
+2928
+¿Español sois?
+DON JUAN
+Vese claro
+2929
+que vos lo sois.
+REY
+Sí, señor.
+2930
+¿Quién sois?
+DON JUAN
+Lo mismo reparo.
+REY
+2931
+Yo soy el embajador.
+DON JUAN
+2932
+Y yo soy don Juan de Haro.
+REY
+2933
+¿Quién?
+DON JUAN
+Don Juan.
+REY
+¡Válame Dios!
+DON JUAN
+2934
+¿Pues de qué os espantáis vos?
+REY
+2935
+¡Ah, don Juan! ¿Quién os dijera
+2936
+que aquí y de esta manera
+2937
+nos halláramos los dos?
+2938
+El enojo me has quitado
+2939
+que tuve por justa ley,
+2940
+de tu lealtad injuriado.
+DON JUAN
+2941
+¿Pues quién sois vos ?
+REY
+Soy tu Rey.
+2942
+No huyas.
+DON JUAN
+Estoy turbado.
+REY
+2943
+Abrázame.
+DON JUAN
+Con temor
+2944
+parezco ante vos, señor.
+REY
+2945
+Antes yo vergüenza tengo.
+DON JUAN
+2946
+¿Cómo vienes aquí?
+REY
+Vengo
+2947
+forzado de un justo amor.
+2948
+Rosaura me ha conocido,
+2949
+por un papel he venido
+2950
+aquesta noche a gozalla.
+DON JUAN
+2951
+¿Quién pudo desengañalla?
+REY
+2952
+Alguien de mi gente ha sido
+2953
+que ser yo el Rey le diría;
+2954
+y porque tuviese efeto
+2955
+que fuese Bretaña mía,
+2956
+casándonos de secreto
+2957
+le pareció que podría.
+2958
+Y fue verdad con razón,
+2959
+de que hay muchos que aquí tienen
+2960
+esta misma pretensión;
+2961
+que llenos de envidia vienen
+2962
+para matarme a traición.
+DON JUAN
+2963
+A ninguno conocí,
+2964
+pero pues permite el cielo,
+2965
+señor, que llegase aquí,
+2966
+porque conozcáis el celo
+2967
+con que en España os serví;
+2968
+y que allá los envidiosos
+2969
+de mi virtud y valor
+2970
+y de mis hechos famosos,
+2971
+para infamarme, señor,
+2972
+fueron con vos poderosos;
+2973
+entrad donde la gocéis,
+2974
+que mientras con ella estéis
+2975
+quedaré en guarda a la puerta,
+2976
+para vos, Príncipe, abierta,
+2977
+que tan bien la merecéis.
+2978
+Y no digo que Sansón,
+2979
+Héctor, Pirro, Telamón,
+2980
+quedan por vuestro reparo;
+2981
+mas queda don Juan de Haro,
+2982
+sangre del rey de León.
+REY
+2983
+Don Juan, si lo permitiera
+2984
+el tiempo, mucho quisiera
+2985
+hablar mis cosas contigo.
+2986
+Soy tu Rey, eres mi amigo;
+2987
+ya ves que Rosaura espera.
+2988
+No me puedo detener.
+DON JUAN
+2989
+Entrad, que tiempo ha de haber
+2990
+para hablar, que es más razón
+2991
+que no perdáis ocasión
+2992
+en que más podéis perder.
+REY
+2993
+Voy, y tú espérame aquí.
+DON JUAN
+2994
+Sí, haré, señor.
+REY
+¡Ah, mi bien!
+ROSAURA
+2995
+¿Sois vos?
+REY
+Mi señora, sí.
+Lléguese el Rey hacia la puerta, y baje Rosaura.
+ROSAURA
+2996
+Si os habrán visto.
+REY
+No hay quién.
+ROSAURA
+2997
+Paréceme que sentí
+2998
+ruido en la puerta.
+REY
+Sería
+2999
+la guarda.
+ROSAURA
+Los hortelanos,
+3000
+¿no os toparon?
+REY
+No venía,
+3001
+mi bien, por pasos tan llanos.
+3002
+Abridme, Rosaura mía.
+ROSAURA
+3003
+¿Sois mi esposo?
+REY
+Vuestro esclavo.
+ROSAURA
+3004
+Entrad, que con esto acabo
+3005
+de mi amor todas las muestras.
+3006
+Bretaña y yo somos vuestras.
+Entre el Rey con Rosaura.
+DON JUAN
+3007
+La resolución alabo.
+3008
+Entrose; esto sí es llegar
+3009
+a gozar de la ocasión.
+3010
+No hay más bien que desear,
+3011
+que perdella no es razón
+3012
+cuando se puede ganar.
+3013
+Contento estoy en extremo
+3014
+que tal reino el Rey posea.
+Entra Hernandillo, perdido y desalentado.
+HERNANDILLO
+3015
+Que ya no he de hallarle, temo.
+DON JUAN
+3016
+¿Quién va?
+HERNANDILLO
+¿Quién quiere que sea?
+3017
+Quien escapó de horca o remo,
+3018
+quien huyó de la prisión
+3019
+que tuvo por tu ocasión.
+DON JUAN
+3020
+Hernando, ¿dónde has estado?
+HERNANDILLO
+3021
+En una torre encerrado.
+DON JUAN
+3022
+¿Preso?
+HERNANDILLO
+Sí.
+DON JUAN
+¿Por qué razón?
+HERNANDILLO
+3023
+Pues he tenido ventura,
+3024
+oye la tuya, don Juan:
+3025
+Rosaura hacerte procura
+3026
+rey de Bretaña, si dan
+3027
+tiempo lugar y ventura.
+3028
+Con la guarda me llamó,
+3029
+la historia me declaró;
+3030
+su amor es el verdadero,
+3031
+suyo fue el papel primero
+3032
+y las joyas que te dio.
+3033
+Que ella hizo a Doriclea
+3034
+que te escribiese y fingiese
+3035
+que te adora y te desea
+3036
+para que no se entendiese
+3037
+de su valor cosa fea.
+3038
+La que de noche has hablado
+3039
+es la Princesa, señor;
+3040
+y habiéndose ya informado
+3041
+de que te sobra valor
+3042
+para ser de un rey cuñado,
+3043
+te ha escrito un tierno papel,
+3044
+llamándote dueño en él,
+3045
+y diciendo que la puerta
+3046
+tendría esta noche abierta
+3047
+de este amoroso vergel.
+3048
+Solo quería informarse
+3049
+si eras casado en España
+3050
+para contigo casarse;
+3051
+hoy eres rey de Bretaña,
+3052
+que no hay más que aventurarse.
+3053
+Y como dije verdad
+3054
+jurando tu libertad,
+3055
+prometió por tu afición
+3056
+hacerme conde bretón;
+3057
+brindis a tu majestad.
+3058
+Ya eres rey. Esto quería
+3059
+decirte. Habla, responde,
+3060
+mirad a mi señoría;
+3061
+que bien puede un rey a un conde
+3062
+hacer cualquier cortesía.
+3063
+¿Qué te suspendes? ¿Qué quieres?
+3064
+Sabe que nacen mil hombres
+3065
+con tal ventura en mujeres
+3066
+que han tenido reales nombres,
+3067
+y tú, don Juan, de estos eres.
+3068
+Entra, goza la ocasión,
+3069
+si no es que ya la has gozado,
+3070
+sacra majestad bretón,
+3071
+y a este conde alacayado
+3072
+echa tu real bendición.
+DON JUAN
+3073
+Que quiso levantarme la fortuna
+3074
+a tan alto lugar y le he perdido.
+3075
+Quien nació para pobre, ¿qué importuna
+3076
+al cielo de sus quejas ofendido?
+3077
+¿Habrá persona en todo el mundo alguna
+3078
+que a tan alto lugar haya subido
+3079
+y que tan presto dé tan gran caída?
+3080
+Tarde se cobra La ocasión perdida.
+3081
+Que subiesen los Césares romanos
+3082
+a la alta dignidad del cetro augusto
+3083
+después de tantos hechos soberanos,
+3084
+ya, en fin, tuvieron de gozarle gusto.
+3085
+Mas yo, engañado por amores vanos,
+3086
+¿qué consuelo tendré de mi disgusto?
+3087
+Si yerro de un papel erró mi vida,
+3088
+tarde se cobra La ocasión perdida.
+3089
+¡Ay, amigo, que al rey de León han dado
+3090
+ese papel que para mí venía!
+3091
+Que es este embajador que, disfrazado,
+3092
+vino a robarme la ventura mía.
+3093
+Aquí llegó, llamó...
+HERNANDILLO
+¿Y entró?
+DON JUAN
+Ya ha entrado.
+HERNANDILLO
+3094
+¿Luego no hay majestad ni señoría?
+DON JUAN
+3095
+¿Adónde? ¿Cómo?
+HERNANDILLO
+Vive Dios, que ha sido
+3096
+el pobre Hernandillo conde mal parido,
+3097
+que aun título no tuve. ¡Alto! ¡Paciencia!
+3098
+Yo he caído en el limbo de los condes.
+DON JUAN
+3099
+¡Ah, fortuna cruel, con qué violencia
+3100
+me muestras la corona y me la escondes!
+3101
+Conociendo mi habla y mi presencia,
+3102
+Rosaura, a otro hombre desigual respondes.
+3103
+¿Parézcome yo al Rey?
+HERNANDILLO
+De ningún modo.
+DON JUAN
+3104
+Mis desdichas lo pueden hacer todo.
+HERNANDILLO
+3105
+Consuélate, señor, y vuelve a España.
+DON JUAN
+3106
+La puerta le guardaba; caso feo.
+3107
+¡Qué de bajezas hace quien se engaña!
+HERNANDILLO
+3108
+No des voces, señor.
+DON JUAN
+Morir deseo.
+HERNANDILLO
+3109
+Pues no has podido ser rey de Bretaña,
+3110
+serás de aquí adelante rey de anjeo.
+DON JUAN
+3111
+Bien me consuelas.
+HERNANDILLO
+¿Y mi señoría
+3112
+es por ventura alguna niñería?
+3113
+¿Y es barro haber perdido el pobre Hernando
+3114
+este condado por tan linda traza
+3115
+y ver el coronel de oro adornando,
+3116
+la vara del caballo y la almohaza?
+Entra el conde Arnaldo, y el Almirante, Pinabelo y Leonicio, y guarda con alabardas.
+ARNALDO
+3117
+Ninguno dude que la está gozando.
+HERNANDILLO
+3118
+Gran gente suena, la rodela embraza.
+DON JUAN
+3119
+¡Ay, cielos, dos mil hombres juntos vienen!
+HERNANDILLO
+3120
+Huye, señor, ¿qué resistencia tienen?
+DON JUAN
+3121
+Huir no, pero estando aquí a la mira,
+3122
+veré quién es el hombre que han buscado.
+3123
+Hernando, entre estos olmos te retira.
+HERNANDILLO
+3124
+¡Mas que no para en bien este condado!
+ARNALDO
+3125
+Romped las puertas.
+ALMIRANTE
+Sosegad la ira,
+3126
+que ya os mostráis, Arnaldo, apasionado.
+3127
+Tengamos más respeto a la Princesa.
+ARNALDO
+3128
+¡Linda flema, por Dios! ¡Romped apriesa!
+Sale Doriclea a las voces y el ruido.
+DORICLEA
+3129
+¿Qué es aquesto, a quién buscáis
+3130
+con tantas armas y grita?
+ARNALDO
+3131
+A Rosaura, Doriclea,
+3132
+reina de Bretaña indigna,
+3133
+y al traidor que está en sus brazos,
+3134
+que a un español que venía
+3135
+con él ya le habemos muerto
+3136
+al pie de aquestas encinas.
+3137
+Las espaldas le guardaba;
+3138
+y tú, pues lo mismo hacías,
+3139
+hoy morirás, Doriclea.
+DORICLEA
+3140
+Arnaldo, con menos ira;
+3141
+y para que el Almirante
+3142
+y los que a tu lado inclinas
+3143
+conozcan que te ha engañado
+3144
+más envidia que justicia,
+3145
+sal, don Juan, que eres mi esposo;
+3146
+sepan que a mí me servías,
+3147
+que Rosaura está inocente.
+ALMIRANTE
+3148
+¿Veis, Conde, vuestras mentiras?
+HERNANDILLO
+3149
+¿Cómo es aquello, don Juan?
+DON JUAN
+3150
+Esta mujer desatina,
+3151
+si no es que hay dos como yo.
+Sale Feliciano.
+FELICIANO
+3152
+Caballeros, si no admiran
+3153
+las industrias en amor
+3154
+cuando los celos le incitan,
+3155
+sabed que soy Feliciano,
+3156
+y que con la seña misma
+3157
+que pensó venid don Juan
+3158
+hurté la suerte a su dicha.
+3159
+Yo soy, y he de ser su esposo;
+3160
+perdonad, señora mía.
+DORICLEA
+3161
+¡Hay tal maldad!
+FELICIANO
+No es maldad,
+3162
+sino amor.
+DORICLEA
+Estoy corrida.
+ARNALDO
+3163
+Ya habéis visto, caballeros,
+3164
+si dice el Conde mentiras.
+3165
+Todo está bien ocupado,
+3166
+ved qué Porcias, qué Artemisas.
+PINABELO
+3167
+¡Oh, palacio de traiciones!
+3168
+¡Oh, jardín de Falerina!
+3169
+¡Oh, huerta más encantada
+3170
+que la de Jasón vencida!
+3171
+Conde, pasad adelante.
+Sale la Princesa.
+ROSAURA
+3172
+¿Qué es esto? ¿Quién os anima
+3173
+a tan maldad en mi casa,
+3174
+gente infame y mal nacida?
+3175
+Tened las armas, cobardes,
+3176
+llenas de infamia y envidia,
+3177
+pues tantas veces de España
+3178
+las habéis vuelto rompidas.
+3179
+¿Para una mujer, villanos,
+3180
+tantos venablos se limpian,
+3181
+tantas vírgenes espadas,
+3182
+tantas lucientes cuchillas?
+3183
+Allá donde habéis dejado
+3184
+tantas banderas perdidas
+3185
+vendrán mejor esas armas,
+3186
+que no en vuestra Reina misma.
+ARNALDO
+3187
+Señora...
+ROSAURA
+No respondáis,
+3188
+pues ved que Escipión os guía
+3189
+para que el veneno infame
+3190
+no derrame que le incita.
+3191
+Yo me he casado muy bien;
+3192
+España, el mundo lo diga.
+ALMIRANTE
+3193
+¿Con quién?
+ROSAURA
+Con don Juan de Haro,
+3194
+noble sangre vizcaína,
+3195
+hombre que el rey de León
+3196
+le rogó con Armesinda
+3197
+y de quien tiemblan los moros
+3198
+fronterizos de Castilla.
+3199
+Ya es hecho. ¿Qué me queréis?
+ARNALDO
+3200
+Si es hecho, Princesa invicta,
+3201
+Dios es quien le dio a Bretaña,
+3202
+san Pedro se la bendiga.
+HERNANDILLO
+3203
+¿Oyes aquello, señor?
+DON JUAN
+3204
+¿Otro don Juan?
+HERNANDILLO
+Desatinan
+3205
+estas mujeres, por Dios;
+3206
+y es que todas te querían.
+3207
+Y tantas te han de sacar,
+3208
+que alguna vieja maldita
+3209
+habrá de topar contigo.
+ROSAURA
+3210
+Sal, don Juan, porque este día
+3211
+quiero que besen tu mano.
+Sale el Rey.
+REY
+3212
+¿Por qué mi nombre me quitas?
+3213
+¿Desconócesme, señora?
+ROSAURA
+3214
+¿Qué es esto?
+REY
+¿Ya no sabías
+3215
+cuando escribiste el papel
+3216
+quién era?
+ROSAURA
+Yo soy perdida.
+3217
+¿No es don Juan?
+REY
+No, señora.
+ROSAURA
+3218
+¿Pues quién te ha dado osadía
+3219
+para emprender tal maldad?
+REY
+3220
+Tú, señora.
+ROSAURA
+¿Yo?
+REY
+Tú misma.
+ROSAURA
+3221
+Pinabelo, ¿no te di
+3222
+un papel?
+PINABELO
+Sí.
+ROSAURA
+¿Y qué decía?
+PINABELO
+3223
+“Al español”. ¿No es aqueste?
+ROSAURA
+3224
+No, que es don Juan.
+DORICLEA
+¡Qué desdicha!
+PINABELO
+3225
+Señora, la culpa tengo.
+REY
+3226
+Yo pensé que me escribías
+3227
+conociendo mi valor.
+ROSAURA
+3228
+Quitadle luego la vida.
+Llega don Juan.
+DON JUAN
+3229
+Eso no, porque primero
+3230
+me habéis de quitar la mía.
+3231
+Que este es el rey de León,
+3232
+don Alonso de Castilla.
+3233
+Errando, acertaste, Reina.
+ROSAURA
+3234
+Si es verdad, tendrelo a dicha.
+REY
+3235
+Yo soy, que de tu hermosura,
+3236
+cuando a don Juan defendías,
+3237
+me trajo en aqueste traje
+3238
+la fama que la publica.
+3239
+Rey soy en la noble España;
+3240
+para igualarte este día
+3241
+lo quisiera ser del mundo.
+ROSAURA
+3242
+Soy de merecerte indigna.
+DORICLEA
+3243
+Basta, don Juan, que, engañada,
+3244
+soy de Feliciano.
+DON JUAN
+Olvida
+3245
+mis engaños, Doriclea;
+3246
+lo que tienes merecías.
+ROSAURA
+3247
+Conde, no estés descontento.
+3248
+Yo os casaré con mi prima.
+REY
+3249
+Y yo, por mi obligación,
+3250
+a don Juan con Armesinda.
+ARNALDO
+3251
+Digo que lo aceto.
+DON JUAN
+Y yo,
+3252
+que es justo, señor, que os pida
+3253
+perdón y bese esos pies.
+HERNANDILLO
+3254
+Todos de Hernando se olvidan.
+3255
+¿No hay algo que darme a mí
+3256
+sobre aquella señoría?
+3257
+¿No habrá un poco de Bretaña
+3258
+para hacer una camisa?
+ROSAURA
+3259
+Si no fuiste conde, Hernando,
+3260
+serás señor de dos villas.
+HERNANDILLO
+3261
+¡Gran merced!
+DON JUAN
+Y aquí, senado,
+4372
+da fin La ocasión perdida.
