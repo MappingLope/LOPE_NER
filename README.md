@@ -9,9 +9,9 @@ Many thanks to Elina Leblanc and Pauline Jacsont for their help and support!
 The final map is available [here](https://miguelbetti.github.io/Lope_peripleo/#/?/?/?/mode=points)
 
 ## ***Training - Fine-tuning***
-The script we used for the fine-tuning of our model can be found [here](https://github.com/MiguelBetti/Lope_ner/blob/main/NER_LOPE_TRAIN.py).
+The scripts we used for the fine-tuning of our model can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/codes).
 
-The default Spanish NER model of Flair has been [tested](https://github.com/MiguelBetti/Lope_ner/blob/main/NER_LOPE_TEST.py) on 10 [random texts](https://github.com/MiguelBetti/Lope_ner/tree/main/corpus_test). We have then fine-tuned the [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero), to obtein a first model. The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning1).
+The default Spanish NER model of Flair has been [tested](https://github.com/MappingLope/LOPE_NER/blob/main/codes/NER_TEST.py) on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test). We have then fine-tuned the [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero), to obtein a first model. The results are available [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/ner_bertSpanish_fineTuning1).
 
 | LOC (20 epochs) | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
@@ -19,7 +19,7 @@ The default Spanish NER model of Flair has been [tested](https://github.com/Migu
 | Macro avg     | 0.9266    | 0.7372 | 0.8211   |
 | Weighted avg  | 0.9266    | 0.7372 | 0.8211   |
 
-We have also tried the [xml-roberta-large](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, multilingual, and the Spanish version [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish). The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning2) and [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning3).
+We have also tried the [xml-roberta-large](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, multilingual, and the Spanish version [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish), which gave us our best model. The results are available [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/ner_bertSpanish_fineTuning2) and [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/ner_bertSpanish_fineTuning3).
 
 | LOC (20 epochs) | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
@@ -41,7 +41,7 @@ To train the models, we have used the [Baobab HPC cluster](https://www.unige.ch/
 
 ## ***Results***
 
-The texts of our corpus have been annotated with the [BIO format](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging)) using this [script](https://github.com/MiguelBetti/Lope_ner/blob/main/NER_LOPE.py). To develop different maps with the place names, we transformed these results into several CSV files:
+The texts of our corpus have been annotated with the [BIO format](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging)) for the place names using this [script](https://github.com/MiguelBetti/Lope_ner/blob/main/NER_LOPE.py). To develop different maps with the place names, we transformed these results into several CSV files:
 
 - Extraction of the place names, with [ner2csv.py](https://github.com/MiguelBetti/Lope_ner/blob/main/tools/ner2csv.ipynb).
 - Enrichment of the [CSV file]() with information extracted from [Artelope](https://artelope.uv.es/basededatos/index.php) (title of the plays, genre, subgenre, publication date, etc.) and from Wikidata thanks to *Open Refine* (Wikidata identifier, geographical coordinates, type of place, normalised names).
