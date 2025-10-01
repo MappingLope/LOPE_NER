@@ -11,17 +11,30 @@ The final map is available [here](https://miguelbetti.github.io/Lope_peripleo/#/
 ## ***Training - Fine-tuning***
 The script we used for the fine-tuning of our model can be found [here](https://github.com/MiguelBetti/Lope_ner/blob/main/NER_LOPE_TRAIN.py).
 
-The default Spanish NER model of Flair has been [tested](https://github.com/MiguelBetti/Lope_ner/blob/main/NER_LOPE_TEST.py) on 10 [random texts](https://github.com/MiguelBetti/Lope_ner/tree/main/corpus_test). We have then fine-tuned the [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero), to obtein a first model. The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning).
+The default Spanish NER model of Flair has been [tested](https://github.com/MiguelBetti/Lope_ner/blob/main/NER_LOPE_TEST.py) on 10 [random texts](https://github.com/MiguelBetti/Lope_ner/tree/main/corpus_test). We have then fine-tuned the [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero), to obtein a first model. The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning1).
 
-|   | F1-Score  | Precision  | Recall |
-|---|---|---|---|
-| 10 plays, 20 epochs | 88,64%  | 91,76% | 85,71% |
+| LOC (20 epochs) | Precision | Recall | F1-score |
+|---------------|-----------|--------|----------|
+| Micro avg     | 0.9266    | 0.7372 | 0.8211   |
+| Macro avg     | 0.9266    | 0.7372 | 0.8211   |
+| Weighted avg  | 0.9266    | 0.7372 | 0.8211   |
 
-We have tried also the [xml-roberta-large](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model to obtained our best model. The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning2).
+We have tried also the [xml-roberta-large](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, multilingual, and the spanish version [xlm-roberta-large-ner-spanish] (https://huggingface.co/MMG/xlm-roberta-large-ner-spanish). The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning2) and [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning3).
 
-|   | F1-Score  | Precision  | Recall |
-|---|---|---|---|
-| 10 plays, 20 epochs | 91,71%  | 92,22% | 91,21% |
+| LOC (20 epochs) | Precision | Recall | F1-score |
+|---------------|-----------|--------|----------|
+| Micro avg     | 0.9533    | 0.7445 | 0.8361   |
+| Macro avg     | 0.9533    | 0.7445 | 0.8361   |
+| Weighted avg  | 0.9533    | 0.7445 | 0.8361   |
+
+
+| LOC (20 epochs) | Precision | Recall | F1-score |
+|--------------|-----------|--------|----------|
+| Micro avg    | 0.9380    | 0.8832 | 0.9098   |
+| Macro avg    | 0.9380    | 0.8832 | 0.9098   |
+| Weighted avg | 0.9380    | 0.8832 | 0.9098   |
+
+
 
 To train the models, we have used the [Baobab HPC cluster](https://www.unige.ch/eresearch/en/services/hpc/) of the University of Geneva.
 
