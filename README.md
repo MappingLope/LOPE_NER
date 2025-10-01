@@ -19,7 +19,7 @@ The default Spanish NER model of Flair has been [tested](https://github.com/Migu
 | Macro avg     | 0.9266    | 0.7372 | 0.8211   |
 | Weighted avg  | 0.9266    | 0.7372 | 0.8211   |
 
-We have tried also the [xml-roberta-large](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, multilingual, and the spanish version [xlm-roberta-large-ner-spanish] (https://huggingface.co/MMG/xlm-roberta-large-ner-spanish). The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning2) and [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning3).
+We have also tried the [xml-roberta-large](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, multilingual, and the Spanish version [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish). The results are available [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning2) and [here](https://github.com/MiguelBetti/Lope_ner/tree/main/ner_bertSpanish_fineTuning3).
 
 | LOC (20 epochs) | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
