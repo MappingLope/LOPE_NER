@@ -11,24 +11,28 @@ The final map is available [here](https://miguelbetti.github.io/Lope_peripleo/#/
 ## ***Training - Fine-tuning***
 The scripts we used for the fine-tuning of our model can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/codes).
 
-The default Spanish NER model of Flair has been [tested](https://github.com/MappingLope/LOPE_NER/blob/main/codes/NER_TEST.py) on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test). We have then fine-tuned the [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero), to obtein a first model. The results are available [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/ner_bertSpanish_fineTuning1).
+The default Spanish NER model of Flair has been [tested](https://github.com/MappingLope/LOPE_NER/blob/main/codes/NER_TEST.py) on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test). We then fine-tuned several models. The detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
+
+1. The[bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero):
 
 | 20 epochs     | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
-| LOC           | 0.9266    | 0.7372 | 0.8211   |
+| LOC           | 0.9710    | 0.9437 | 0.9571   |
 
-We have also tried the [xml-roberta-large](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, multilingual, and the Spanish version [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish), which gave us our best model. The results are available [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/ner_bertSpanish_fineTuning2) and [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/ner_bertSpanish_fineTuning3).
+2. The [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model:
 
 | 20 epochs     | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
 | LOC           | 0.9533    | 0.7445 | 0.8361   |
 
+3. And the [mlm-spanish-roberta-base](https://huggingface.co/MMG/mlm-spanish-roberta-base) model:
+
 
 | 20 epochs    | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
-| LOC          | 0.9380    | 0.8832 | 0.9098   |
+| LOC          | 0.9577    | 0.9577 | 0.9577   |
 
-We also trained the NER models on a version of the corpus annotated with both location and person entities. However, this led to a decrease in performance. The example below shows the output produced by Flair’s default NER model in this setting:
+We also trained the NER models on a version of the corpus annotated with both location and person entities. However, this led to a light decrease in performance. The example below shows the output produced by ... model in this setting:
 
 | 20 epochs	   | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
