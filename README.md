@@ -2,13 +2,13 @@
 
 _Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025–2027) is a Swiss National Science Fund (SNSF) project, in collaboration with PROLOPE (Unversitat Autònoma de Barcelona), that uses Digital Humanities tools to analyze the use of place names (toponyms) in Lope de Vega’s plays. Combining Philology, Literary Geography, and machine learning, it aims to reassess the link between theater genres and geography, and to explore how toponyms reflect the political and cultural context of Lope’s time. Through automated extraction of place names, interactive maps, graphs, and statistics, the project offers new insights into the role of space in Spanish Golden Age drama.
 
-This repository contains the datasets and the scripts we have used to train our NER model with the [Flair](https://github.com/flairNLP/flair) framework, as well as the results. This model is based on the one developed by the members of the project [Desenrollando el cordel](https://github.com/DesenrollandoElCordel/pliegos-ner), and has been applied to detect the toponyms in the corpus of the _Comedia Nueva_, by Lope de Vega (359 plays). Many thanks to Elina Leblanc and Pauline Jacsont for their help and support!
+This repository contains the datasets and the scripts we have used to train our NER model with the [Flair](https://github.com/flairNLP/flair) framework, as well as the results. This model is based on the one developed by the members of the project [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/exist/apps/projet-cordel/inicio.html), and has been applied to detect the toponyms in the corpus of the _Comedia Nueva_, by Lope de Vega (359 plays). Many thanks to Elina Leblanc and Pauline Jacsont for their help and support!
 
 
 ## ***Training - Fine-tuning***
 The scripts we used for the fine-tuning of our model can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/codes).
 
-The default Spanish NER model of Flair has been tested on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test). We then fine-tuned several open source models. The detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
+The default Spanish NER model of Flair has been tested on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test).  We then fine-tuned several open source models, with an extract of 7300 annotated sentences (719 LOC). The detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
 
 1. The [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model:
 
@@ -29,7 +29,7 @@ The default Spanish NER model of Flair has been tested on 10 [random texts](http
 |--------------|-----------|--------|----------|
 | LOC          | 0.9577    | 0.9577 | 0.9577   |
 
-We also trained the NER models on a version of the corpus annotated with both location (LOC) and person (PER) entities. However, this led to a slight decrease in performance, primarily due to the increased complexity of the task, the semantic ambiguity of certain entities, and the imbalance between classes—specifically, the dominance of PER over LOC. The results below, obtained using the xlm-roberta-large-ner-spanish model, illustrate the performance in this multi-entity setting:
+We also trained the NER models on a subset of the corpus annotated with both location (LOC) and person (PER) entities (7300 sentences, 4326 PER and 841 LOC). However, this multi-entity setting resulted in a slight decline in performance. This reduction is primarily attributed to the increased complexity of the task, semantic ambiguity in some entities, and class imbalance, particularly the predominance of PER over LOC, which also characterizes the full corpus. The results below, obtained using the xlm-roberta-large-ner-spanish model, reflect performance under these conditions:
 
 | 20 epochs	   | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
