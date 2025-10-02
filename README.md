@@ -11,7 +11,7 @@ The final map is available [here](https://miguelbetti.github.io/Lope_peripleo/#/
 ## ***Training - Fine-tuning***
 The scripts we used for the fine-tuning of our model can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/codes).
 
-The default Spanish NER model of Flair has been [tested](https://github.com/MappingLope/LOPE_NER/blob/main/codes/NER_TEST.py) on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test). We then fine-tuned several models. The detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
+The default Spanish NER model of Flair has been tested on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test). We then fine-tuned several open source models. The detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
 
 1. The[bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero):
 
