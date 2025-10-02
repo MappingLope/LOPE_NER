@@ -13,13 +13,13 @@ The scripts we used for the fine-tuning of our model can be found [here](https:/
 
 The default Spanish NER model of Flair has been tested on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test). We then fine-tuned several open source models. The detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
 
-1. The[bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model (developped by Manuel Romero):
+1. The [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model:
 
 | 20 epochs     | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
 | LOC           | 0.9710    | 0.9437 | 0.9571   |
 
-2. The [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish), which gave us our best model:
+2. The [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, which gave us our best model:
 
 | 20 epochs     | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
@@ -32,12 +32,12 @@ The default Spanish NER model of Flair has been tested on 10 [random texts](http
 |--------------|-----------|--------|----------|
 | LOC          | 0.9577    | 0.9577 | 0.9577   |
 
-We also trained the NER models on a version of the corpus annotated with both location and person entities. However, this led to a light decrease in performance. The example below shows the output produced by ... model in this setting:
+We also trained the NER models on a version of the corpus annotated with both location (LOC) and person (PER) entities. However, this led to a slight decrease in performance, primarily due to the increased complexity of the task, the semantic ambiguity of certain entities, and the imbalance between classes—specifically, the dominance of PER over LOC. The results below, obtained using the xlm-roberta-large-ner-spanish model, illustrate the performance in this multi-entity setting:
 
 | 20 epochs	   | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
-| PER          |  0.8424   | 0.8634 | 0.8528   |
-| LOC          |  0.8929   | 0.8446 | 0.8681   |
+| PER          |  0.8812   | 0.9067 | 0.8938   | 
+| LOC          |  0.8000   | 0.8235 | 0.8116   |
 
 
 To train the models, we have used the [Baobab HPC cluster](https://www.unige.ch/eresearch/en/services/hpc/) of the University of Geneva.
