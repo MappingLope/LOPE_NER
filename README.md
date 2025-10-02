@@ -19,11 +19,11 @@ The default Spanish NER model of Flair has been tested on 10 [random texts](http
 |---------------|-----------|--------|----------|
 | LOC           | 0.9710    | 0.9437 | 0.9571   |
 
-2. The [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model:
+2. The [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish), which gave us our best model:
 
 | 20 epochs     | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
-| LOC           | 0.9533    | 0.7445 | 0.8361   |
+| LOC           | 0.9718    | 0.9718 | 0.9718   |
 
 3. And the [mlm-spanish-roberta-base](https://huggingface.co/MMG/mlm-spanish-roberta-base) model:
 
