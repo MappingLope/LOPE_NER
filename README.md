@@ -34,6 +34,12 @@ We have also tried the [xml-roberta-large](https://huggingface.co/MMG/xlm-robert
 | Macro avg    | 0.9380    | 0.8832 | 0.9098   |
 | Weighted avg | 0.9380    | 0.8832 | 0.9098   |
 
+We also trained the NER models on a version of the corpus annotated with both location and person entities. However, this led to a decrease in performance. The example below shows the output produced by Flair’s default NER model in this setting:
+
+|			   | Precision | Recall | F1-score |
+|--------------|-----------|--------|----------|
+| PER          |  0.8424   | 0.8634 | 0.8528   |
+| LOC          |  0.8929   | 0.8446 | 0.8681   |
 
 
 To train the models, we have used the [Baobab HPC cluster](https://www.unige.ch/eresearch/en/services/hpc/) of the University of Geneva.
