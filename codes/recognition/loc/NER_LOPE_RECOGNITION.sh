@@ -13,4 +13,4 @@ module load Python/3.9.6
 
 source /home/users/b/betti/LOPE_ENV/bin/activate
 
-/home/users/b/betti/LOPE_ENV/bin/python /home/users/b/betti/MappingLope/LOPE_NER/NER_LOPE_FINAL.py
+/home/users/b/betti/LOPE_ENV/bin/python /home/users/b/betti/MappingLope/LOPE_NER/NER_LOPE_RECOGNITION.py

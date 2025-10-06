@@ -3,21 +3,19 @@
 
 from flair.data import Sentence 
 from flair.models import SequenceTagger
-tagger = SequenceTagger.load("ner_bertSpanish_fineTuning3/final-model.pt")
+tagger = SequenceTagger.load("ner_fineTuning_5/final-model.pt")
 import re
 import os
 
 clean_unicode = {
     "B-ORG": "O",
     "B-MISC": "O",
-    "B-PER": "O",
     "I-ORG": "O",
-    "I-MISC": "O",
-    "I-PER": "O"  
+    "I-MISC": "O"
 }
 
 
-folder = 'corpus/corpus_full_clean'
+folder = 'corpus/corpus_full/corpus_full_clean/'
 
 for f in os.listdir(folder):
     if f.endswith('.txt'):
@@ -40,6 +38,6 @@ for f in os.listdir(folder):
             result = re.sub(r"([A-Z]\w+\[[0-9]+\]:\s\")([A-Z a-z 0-9 .,?!:¿¡…\'\*´ `’‘℣Đ=æǝ°>\—\-\_–\(\)\¬\«\»;~óòáàâíìñéèúüùäëïöÀÁÉÈÊËÍÌÎÏÑÓÒÔÖÚÙÛÜ\"\"]+)(\"\s→\s)([A-Z-]*)(\s\([0-9 .]*\))", r"\2 \4", output)
             for c in clean_unicode:
                 result = re.sub(c, clean_unicode[c], result)
-            with open ('corpus/corpus_full_out/' + label + '.txt', 'w', encoding='utf-8') as x:
+            with open ('corpus/corpus_full/corpus_full_out_loc_per/' + label + '.txt', 'w', encoding='utf-8') as x:
                 x.write(result)
 
