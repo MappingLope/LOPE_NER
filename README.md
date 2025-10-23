@@ -1,35 +1,39 @@
 # Mapping Lope: A Cartographic Exploration of the Comedia Nueva (NER) 🌍
 
-_Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025–2027) is a Swiss National Science Fund (SNSF) project, in collaboration with PROLOPE (Unversitat Autònoma de Barcelona), that uses Digital Humanities tools to analyze the use of place names (toponyms) in Lope de Vega’s plays. Combining Philology, Literary Geography, and machine learning, it aims to reassess the link between theater genres and geography, and to explore how toponyms reflect the political and cultural context of Lope’s time. Through automated extraction of place names, interactive maps, graphs, and statistics, the project offers new insights into the role of space in Spanish Golden Age drama.
+_Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025–2027) is a project funded by the Swiss National Science Foundation (SNSF), developed by Miguel Betti in collaboration with PROLOPE (Unversitat Autònoma de Barcelona) and supervised by Sònia Boadas.
 
-This repository contains the datasets and the scripts we have used to train our NER model with the [Flair](https://github.com/flairNLP/flair) framework, as well as the results. This model is based on the one developed by the members of the project [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/exist/apps/projet-cordel/inicio.html), and has been applied to detect the toponyms in the corpus of the _Comedia Nueva_, by Lope de Vega (359 plays). Many thanks to Elina Leblanc and Pauline Jacsont for their help and support!
+Combining Philology, Literary Geography, and machine learning, the project uses Digital Humanities tools to analyze the use of place names (toponyms) in Lope de Vega’s plays. It aims to reassess the link between theater genres and geography, and to explore how toponyms reflect the political and cultural context of Lope’s time. Through the automated extraction of place names, as well as the creation of interactive maps, graphs, and statistical analyses, the project offers new insights into the role of space in Spanish Golden Age drama.
+
+This repository contains the datasets and the scripts we have used to train our NER model with the [Flair](https://github.com/flairNLP/flair) framework, as well as the results. This model is based on the one developed by the members of the project [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/exist/apps/projet-cordel/inicio.html), directed by Constance Carta, and has been applied to detect the toponyms in the corpus of the _Comedia Nueva_, by Lope de Vega (359 plays). Many thanks to Elina Leblanc and Pauline Jacsont for their help and support!
 
 
 ## ***Training - Fine-tuning***
 The scripts we used for the fine-tuning of our model can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/codes).
 
-The default Spanish NER model of Flair has been tested on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test).  We then fine-tuned several open source models, with an extract of 7300 annotated sentences (719 LOC). The detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
+The default Spanish NER model of Flair has been tested on 10 [random texts](https://github.com/MappingLope/LOPE_NER/tree/main/corpus/corpus_test).  We then fine-tuned several open-source models using a dataset of 7,300 annotated sentences, including 719 location entities (LOC). Detailed results can be found [here](https://github.com/MappingLope/LOPE_NER/tree/main/results/).
 
-1. The [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model:
+1. [bert-spanish-cased-finetuned-ner](https://huggingface.co/mrm8488/bert-spanish-cased-finetuned-ner) model:
 
 | 20 epochs     | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
 | LOC           | 0.9710    | 0.9437 | 0.9571   |
 
-2. The [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, which gave us our best model:
+2. [xlm-roberta-large-ner-spanish](https://huggingface.co/MMG/xlm-roberta-large-ner-spanish) model, our best-performing model:
 
 | 20 epochs     | Precision | Recall | F1-score |
 |---------------|-----------|--------|----------|
 | LOC           | 0.9718    | 0.9718 | 0.9718   |
 
-3. And the [mlm-spanish-roberta-base](https://huggingface.co/MMG/mlm-spanish-roberta-base) model:
+3. [mlm-spanish-roberta-base](https://huggingface.co/MMG/mlm-spanish-roberta-base) model:
 
 
 | 20 epochs    | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
 | LOC          | 0.9577    | 0.9577 | 0.9577   |
 
-We also trained the NER models on a subset of the corpus annotated with both location (LOC) and person (PER) entities (7300 sentences, 4326 PER and 841 LOC). However, this multi-entity setting resulted in a slight decline in performance. This reduction is primarily attributed to the increased complexity of the task, semantic ambiguity in some entities, and class imbalance, particularly the predominance of PER over LOC, which also characterizes the full corpus. The results below, obtained using the xlm-roberta-large-ner-spanish model, reflect performance under these conditions:
+We also trained the NER models on a subset of the corpus annotated with both location (LOC) and person (PER) entities (7,300 sentences, including 4,326 PER and 841 LOC). However, this multi-entity setting led to a slight decline in performance. This reduction can be attributed mainly to the increased complexity of the task, semantic ambiguity in some entities, and class imbalance—particularly the predominance of PER over LOC, which also characterizes the full corpus.
+
+The results below, obtained using the xlm-roberta-large-ner-spanish model, reflect performance under these conditions:
 
 | 20 epochs	   | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
@@ -37,7 +41,7 @@ We also trained the NER models on a subset of the corpus annotated with both loc
 | LOC          |  0.8000   | 0.8235 | 0.8116   |
 
 
-To train the models, we have used the [Baobab HPC cluster](https://www.unige.ch/eresearch/en/services/hpc/) of the University of Geneva.
+Model training was performed on the [Baobab HPC cluster](https://www.unige.ch/eresearch/en/services/hpc/) of the University of Geneva.
 
 
 ## ***Results***
