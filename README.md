@@ -1,10 +1,10 @@
 # Mapping Lope: A Cartographic Exploration of the Comedia Nueva (NER) 🌍
 
-_Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025–2027) is a project funded by the Swiss National Science Foundation (SNSF), developed by Miguel Betti in collaboration with PROLOPE (Unversitat Autònoma de Barcelona) and supervised by Sònia Boadas.
+_Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025-2027) is a post-doctoral research project supported by a [Postdoc.Mobility grant](https://data.snf.ch/grants/grant/235122) from the Swiss National Science Foundation (SNSF). It is being carried out by Miguel Betti at the PROLOPE Group (Universitat Autònoma de Barcelona) under the supervision of Prof. Sònia Boadas (Thal-IA - UAB).
 
 Combining Philology, Literary Geography, and machine learning, the project uses Digital Humanities tools to analyze the use of place names (toponyms) in Lope de Vega’s plays. It aims to reassess the link between theater genres and geography, and to explore how toponyms reflect the political and cultural context of Lope’s time. Through the automated extraction of place names, as well as the creation of interactive maps, graphs, and statistical analyses, the project offers new insights into the role of space in Spanish Golden Age drama.
 
-This repository contains the datasets and the scripts we have used to train our NER model with the [Flair](https://github.com/flairNLP/flair) framework, as well as the results. This model is based on the one developed by the members of the project [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/exist/apps/projet-cordel/inicio.html), directed by Constance Carta, and has been applied to detect the toponyms in the corpus of the _Comedia Nueva_, by Lope de Vega (359 plays). Many thanks to Elina Leblanc and Pauline Jacsont for their help and support!
+This repository contains the datasets and the scripts we have used to train our NER model with the [Flair](https://github.com/flairNLP/flair) framework, as well as the results. This model is based on the one developed by the members of the project [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/exist/apps/projet-cordel/inicio.html), directed by Prof. Constance Carta, and has been applied to detect the toponyms in the corpus of the _Comedia Nueva_, by Lope de Vega (359 plays). Many thanks to Elina Leblanc and Pauline Jacsont for their help and support!
 
 
 ## ***Training - Fine-tuning***
