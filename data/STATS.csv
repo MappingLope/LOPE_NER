@@ -1,1637 +1,1707 @@
 Place_name_normalised,Occurrences_plays,Total_Occurrences
-España,270,2593
-Castilla,155,1169
-Francia,170,1018
-Roma,203,1008
-Madrid,107,843
-Toledo,129,817
-Sevilla,105,706
-Italia,189,672
-Granada,85,599
-Aragón,98,595
-Nápoles,79,444
-León,59,422
-Valencia,72,380
-París,54,360
-Flandes,110,356
-Troya,178,322
-Argel,77,306
-Milán,56,288
-Hungría,38,272
-Portugal,76,271
-Navarra,50,261
-África,94,245
-Barcelona,62,239
-Córdoba,71,220
-Sicilia,50,206
-Inglaterra,53,204
-Grecia,114,202
-Zaragoza,43,194
-Florencia,27,179
-Oriente,104,176
-Asia,61,169
-Tajo,63,165
-Alemania,71,162
-Indias occidentales,57,161
-Jerusalén,53,146
-Libia,73,127
-Orán,39,125
-Burgos,23,123
-Europa,79,119
-Bretaña,14,118
-Prado,29,116
-Salamanca,38,113
-Venecia,40,112
-Génova,24,108
-Albania,30,100
-Galicia,36,96
-Persia,37,95
-Egipto,58,90
-Valladolid,35,88
-Malta,16,86
-Atenas,33,84
-Zamora,29,82
-Murcia,9,81
-Túnez,29,77
-Arabia,57,77
-Mantua,14,72
-Lisboa,24,72
-Escocia,15,72
-Andalucía,43,69
-Asturias,20,68
-Alba,16,68
-Polonia,12,67
-Jaén,19,67
-Israel,31,67
-Manzanares,23,66
-Londres,12,66
-Ferrara,11,66
-Alhambra,21,66
-Betis,41,65
-Irlanda,11,64
-Chipre,31,62
-Bohemia,15,62
-Toro,3,61
-Cleves,7,61
-Arcadia,17,61
-Illescas,16,60
-Constantinopla,33,60
-Fez,19,58
-China,49,58
-Plasencia,11,57
-Cartago,19,57
-India,34,54
-Alcalá de Henares,19,53
-Marruecos,27,51
-Etiopía,35,48
-Dalmacia,12,48
-Lima,13,47
-Cádiz,28,47
-Babilonia,35,46
-Alba (Italia),1,46
-Escitia,40,45
-Bruselas,9,45
-Austria,25,45
-Vizcaya,25,44
-Gibraltar,16,44
-Tremecén,9,42
-Jerez,15,42
-Chile,6,42
-Cerdeña,13,42
-Indias orientales,33,41
-Cartama,3,41
-Cartagena,19,40
-Medina del Campo,8,38
-Biserta,15,38
-Belén,16,38
-Holanda,10,37
-Urbino,1,36
-Lerma,5,36
-Fuenteovejuna,1,36
-Berbería,26,36
-Ávila,17,35
-México,9,34
-Creta,14,34
-Triana,13,33
-Soto de Madrid,6,33
-Membrilla,1,33
-Denia,19,33
-Calabria,7,33
-Brasil,4,32
-Belflor,6,32
-Santiago de Compostela,19,31
-Frisia,6,31
-Pamplona,13,30
-Tebas,22,29
-Ocaña,3,29
-Calle Mayor,15,29
-Barajas,2,29
-Arauco,1,29
-Sanlúcar,16,28
-Oviedo,12,28
-Macedonia,9,28
-Lorca,4,28
-La Meca,19,28
-Écija,13,28
-Benavides,1,28
-Tenerife,4,27
-Santa Cruz,13,26
-Parma,5,26
-Marsella,19,26
-Guadarrama,19,26
-Coín,1,26
-Canarias,6,26
-Talavera,13,25
-Bengala,3,25
-Sierra Morena,17,24
-Occidente,18,24
-Moncada,4,24
-Jarama,11,24
-Dinamarca,8,24
-Cataluña,17,24
-Berganza,2,24
-Alora,1,24
-Palencia,7,23
-Norte,23,23
-Alejandría,10,23
-Bolonia,12,22
-Padilla,2,21
-Ciudad Real,7,21
-Belgrado,5,21
-Alicante,16,21
-Segovia,15,20
-Perpiñán,7,20
-Panamá,1,20
-Palermo,8,20
-Huesca,1,20
-Guadalquivir,16,20
-Ceuta,13,20
-Tánger,12,19
-Siria,13,19
-Pirineos,15,19
-La Vera,1,19
-Atocha,7,19
-Armenia,10,19
-Viena,8,18
-Verona,1,18
-Tartaria,7,18
-Montalbán,2,18
-Jaca,8,18
-El Cairo,10,18
-Casa de Campo,6,18
-Borgoña,8,18
-Benavente,5,18
-Barleta,1,18
-Alcázar de Sevilla,3,18
-Sión,7,17
-Rosellón,5,17
-Moscovia,2,17
-Mesina,8,17
-Fuentes,2,17
-Córcega,5,17
-Alhama,5,17
-Olmedo,2,16
-Mastrique,1,16
-Ibernia,1,16
-Alcázar de Toledo,10,16
-Siena,1,15
-Saboya,9,15
-Nilo,15,15
-Málaga,11,15
-Judea,10,15
-Ganges,10,15
-Villena,7,14
-Turquía,13,14
-Transilvania,8,14
-Santa Fe,3,14
-Potosí,10,14
-Pavía,5,14
-Palestina,10,14
-Mallorca,12,14
-Las Batuecas,1,14
-Gran Canaria,2,14
-Astorga,10,14
-Villalba,4,13
-Tudela,4,13
-San Martín,7,13
-San Dionís,9,13
-Nazaret,7,13
-Lusitania,8,13
-Lepanto,7,13
-Estela,5,13
-Corinto,7,13
-Aranjuez,6,13
-Alcázar de Madrid,8,13
-Vivar,5,12
-Vega de Toledo,5,12
-Tormes,5,12
-Poniente,12,12
-Numancia,9,12
-Namur,5,12
-Medina Sidonia,6,12
-Martos,5,12
-Lombardía,7,12
-La Mancha,11,12
-Jordán,10,12
-Cuenca,12,12
-Calahorra,3,12
-Bibarrambla,7,12
-Antequera,8,12
-Albaicín,7,12
-Vitoria,10,11
-Suecia,4,11
-San Juan,8,11
-Salas,1,11
-Roncesvalles,3,11
-Palma,3,11
-Noruega,9,11
-Líbano,11,11
-Guinea,8,11
-Ferrol,4,11
-Fenicia,9,11
-Duero,9,11
-Danubio,8,11
-Ciudad Rodrigo,6,11
-Castellón,1,11
-Cambrai,4,11
-Calatrava,3,11
-Viseo,2,10
-Villaverde,1,10
-Tiro,4,10
-Tarudante,5,10
-San Sebastián,6,10
-San Felipe,4,10
-Levante,10,10
-Laberinto,1,10
-Iznatorafe,1,10
-Guadalajara,8,10
-Gelanda,4,10
-Fraga,1,10
-Extremadura,8,10
-Etna,10,10
-Chincoya,1,10
-Chatelete,1,10
-Catania,1,10
-Castilla y León,9,10
-Campos Elíseos,10,10
-Baza,5,10
-Arles,2,10
-Andújar,4,10
-Amalfi,1,10
-Alpes,9,10
-Almería,10,10
-Algarve,7,10
-Vélez de la Gomera,1,9
-Vega de Granada,5,9
-Trasilvanía,1,9
-Tesalia,8,9
-Sur,9,9
-San Nicolás,2,9
-Ronda,5,9
-Rodas,5,9
-Nínive,1,9
-Moncayo,6,9
-Lieja,3,9
-Lesbos,1,9
-Lérida,2,9
-Las Navas,1,9
-La Rochela,6,9
-La Habana,9,9
-Gante,6,9
-Fuenterrabía,5,9
-Epiro,4,9
-Coimbra,5,9
-Cáucaso,9,9
-Alba Real,2,9
-Trípoli,6,8
-Sidonia,1,8
-Sarria,2,8
-San Juan de Aznalfarache,5,8
-Sagunto,7,8
-Provenza,4,8
-Monasterio de Monserrat,5,8
-Melilla,7,8
-Media,3,8
-Leganés,3,8
-Indias,2,8
-Haití,1,8
-Getafe,7,8
-Genil,4,8
-Ebro,7,8
-Dacia,3,8
-Calle de los Gomeles,4,8
-Budapest,4,8
-Bibataubín,4,8
-Antártico,5,8
-Amberes,4,8
-Alpujarras,6,8
-Alcalá,3,8
-Adamuz,4,8
-Tracia,4,7
-Tolosa,5,7
-Teruel,2,7
-Templo de Vesta,4,7
-Sierra Nevada,6,7
-Santángel,6,7
-San Miguel el Alto,4,7
-San Geán,1,7
-San Antón,5,7
-Sajonia,4,7
-Rusia,3,7
-Rin,6,7
-Pescara,2,7
-Palma del Río,2,7
-Ostia,5,7
-Olías,2,7
-Miraflor,2,7
-Loreto,7,7
-Japón,7,7
-Iberia,2,7
-Hircania,7,7
-Galilea,5,7
-Farsalia,7,7
-Famagusta,2,7
-Dueñas,3,7
-Dinadamar,5,7
-Damasco,7,7
-Castillo de San Cervantes,4,7
-Carmona,6,7
-Cabildo de Sevilla,1,7
-Brandenburgo,5,7
-Baeza,5,7
-Argolán,1,7
-Ancona,2,7
-Vinaròs,5,6
-Vera,2,6
-Turia,4,6
-Trujillo,3,6
-Torres Bermejas,3,6
-Torre del Oro,5,6
-Torre de Comares,4,6
-Tetuán,3,6
-Tarifa,5,6
-Santillana,5,6
-Sansueña,4,6
-Sangüesa,1,6
-San Francisco,5,6
-San Andrés,2,6
-Roremonda,1,6
-Plaza de Zocodover,6,6
-Plaza de San Marcos,3,6
-Otero,1,6
-Numidia,3,6
-Nueva España,4,6
-Móstoles,2,6
-Mesopotamia,3,6
-Mazagán,3,6
-La Coruña,6,6
-Ginebra,6,6
-Galia,5,6
-Gaeta,5,6
-Coria,4,6
-Convento de Santa María de Jesús,2,6
-Colonia,4,6
-Colibre,5,6
-Ceilán,6,6
-Bélmez,1,6
-Bayona,3,6
-Barbadillo,1,6
-Bahamas,6,6
-Ayamonte,4,6
-Atlántico,5,6
-Asiria,1,6
-Ardea,1,6
-Arcila,4,6
-América,5,6
-Algeciras,5,6
-Alcántara,6,6
-Villarreal,1,5
-Villafranca,5,5
-Urgel,3,5
-Torrejón de Ardoz,1,5
-Torino,2,5
-San Salvador,4,5
-San Ponce de Tomaras,1,5
-Samaria,4,5
-Ribadeo,2,5
-Ragés,1,5
-Peñalén,1,5
-Osuna,3,5
-Narbona,4,5
-Monviedro,3,5
-Montilla,3,5
-Monte Parnaso,5,5
-Monte Látmo,5,5
-Mediterráneo,5,5
-Mar del Sur,5,5
-Lerín,3,5
-Lemos,5,5
-La Sagra de Toledo,2,5
-Iglesia de la Magdalena,5,5
-Grao,2,5
-Fráncfort,1,5
-Dobla,1,5
-Corfú,3,5
-Concepción,3,5
-Cilia,1,5
-Cesaraugusta,4,5
-Cathay,1,5
-Carmen,3,5
-Bura,1,5
-Béjar,4,5
-Arlanza,3,5
-Arjona,3,5
-Ardenia,2,5
-Aranda,3,5
-Anglante,2,5
-Almenar,1,5
-Zacatín,2,4
-Villaflor,1,4
-Vega de Fabros,1,4
-Valcázar,1,4
-Valaquia,2,4
-Trapobana,4,4
-Torre de Babel,4,4
-Toros de Guisando,1,4
-Tolentino,1,4
-Tabor,3,4
-Tablada,1,4
-Susa,2,4
-Segorbe,4,4
-Santa María,2,4
-Santa Leocadia,1,4
-San Roque,1,4
-San Germán,3,4
-Sahagún,4,4
-Río de la Plata,3,4
-Ribadavia,3,4
-Requena,3,4
-Purén,1,4
-Plaza Mayor,2,4
-Piamonte,3,4
-Perú,4,4
-Otranto,2,4
-Orgaz,2,4
-Ocaso,4,4
-Nitria,1,4
-Nisa,1,4
-Navas,3,4
-Motril,2,4
-Morón,1,4
-Monforte,3,4
-Mirabel,3,4
-Miño,3,4
-Mar Bermejo,4,4
-Lucemburque,2,4
-Lacedemonia,4,4
-Java,4,4
-Irún,3,4
-Iglesia de San Román,1,4
-Hipona,2,4
-Guyana,1,4
-Guanahami,1,4
-Guadiana,3,4
-Guadalupe,4,4
-Guadalete,4,4
-Gelves,4,4
-Gaza,4,4
-Garganta la Olla,1,4
-Gandía,3,4
-Escalona,3,4
-El Escorial,3,4
-Dauro,2,4
-Cólquida,3,4
-Catay,3,4
-Castilnovo,3,4
-Cardona,2,4
-Candia,3,4
-Campo de Tablada,4,4
-Cabra,3,4
-Belmirar,2,4
-Barucoa,1,4
-Bahía,1,4
-Azamor,4,4
-Austro,4,4
-Asti,2,4
-Argos,4,4
-Antioquía,4,4
-Almonte,3,4
-Alcorcón,4,4
-Alcolea,4,4
-Alcaraz,2,4
-Alcalá la Real,1,4
-Zarza,2,3
-Zánfara,1,3
-Viterbo,1,3
-Vasto,1,3
-Valdecorneja,2,3
-Úbeda,3,3
-Trastámara,1,3
-Tortosa,3,3
-Terranova,3,3
-Tarragona,3,3
-Tambico,3,3
-Tafilete,3,3
-Soria,2,3
-Somosierra,3,3
-Sogorbe,1,3
-Septentrión,3,3
-Sena,3,3
-Santo Domingo,3,3
-Santarén,2,3
-San Miguel,3,3
-San Luis,2,3
-San Juan de Luz,3,3
-San Jerónimo,3,3
-San Cristóbal,3,3
-Saba,3,3
-Ribagorza,3,3
-Puzol,3,3
-Puerta del Sol,3,3
-Puerta de Guadalajara,3,3
-Plemúa,2,3
-Plaza de la Olivera,3,3
-Peñaranda,2,3
-Osorno,2,3
-Orléans,2,3
-Oliva,2,3
-Nájera,3,3
-Mora,3,3
-Montes Claros,2,3
-Montefrascón,1,3
-Monte Carmelo,3,3
-Moab,3,3
-Misa,1,3
-Menfis,3,3
-Melfi,2,3
-Medinaceli,3,3
-Mauritania,3,3
-Masalanca,3,3
-Mar Tonta,1,3
-Maqueda,3,3
-Manzofa,1,3
-Manresa,1,3
-Malaca,2,3
-Maguncia,2,3
-Lugo,3,3
-Loja,2,3
-Livonia,1,3
-Leteo,3,3
-la Sambra,2,3
-Índico,3,3
-Idumea,2,3
-Ibiza,3,3
-Guipúzcoa,2,3
-Guadix,3,3
-Gradas,2,3
-Gibraleón,3,3
-Generalife,1,3
-Gange,1,3
-Gales,1,3
-Fuente Castellana,1,3
-Formentera,3,3
-Fontanablec,1,3
-Faura,2,3
-Faro,2,3
-Estremoz,3,3
-Esparta,3,3
-Erimanto,3,3
-Éfeso,3,3
-Cracovia,3,3
-Congo,3,3
-Cholula,1,3
-Castillo de Consuegra,1,3
-Castelvines,1,3
-Casa San Severina,1,3
-Carrión,2,3
-Caramania,3,3
-Carabanchel,3,3
-Capua,3,3
-Calle del Prado,2,3
-Calais,3,3
-Bujía,1,3
-Briviesca,1,3
-Britania,3,3
-Brañigal,1,3
-Bibalmazán,3,3
-Biarne,3,3
-Bermudas,3,3
-Beamonte,1,3
-Basílica de Nuestra Señora del Pilar,2,3
-Bartola,1,3
-Barracas,1,3
-Bari,1,3
-Asís,1,3
-Aseo,3,3
-Archidona,3,3
-Aqueronte,3,3
-Andrada,2,3
-Anatolia,3,3
-Almodóvar,3,3
-Almansa,3,3
-Alfaques,2,3
-Alcázar,2,3
-Alburquerque,3,3
-Zelanda,2,2
-Yepes,2,2
-Villahermosa,2,2
-Victoria,2,2
-Vélez,2,2
-Velada,2,2
-Vandalia,2,2
-Valle de Engol,1,2
-Valle de Carriedo,2,2
-Valdemoro,2,2
-Vaciamadrid,1,2
-Turcis,1,2
-Trinidad,1,2
-Trasilvania,1,2
-Trapisonda,2,2
-Toscana,1,2
-Torre de Nembrot,2,2
-Tierra Santa,2,2
-Temiscira,1,2
-Tejares,1,2
-Távora,1,2
-Tarso,2,2
-Tarraconense,1,2
-Tarazona,1,2
-Tanais,2,2
-Tafalla,2,2
-Tabladillo,2,2
-Tabarca,2,2
-Suría,1,2
-Sil,1,2
-Senir,2,2
-Sañuela,1,2
-Santander,2,2
-San Telmo,2,2
-San Quintín,2,2
-San Lucas,2,2
-San Juan de la Palma,1,2
-san Juan,1,2
-San Jorge,1,2
-San Ginés,2,2
-San Bento,1,2
-Saluces,1,2
-Salerno,1,2
-Saldaña,2,2
-Rovigo,1,2
-Rosas,1,2
-Río Paraná,1,2
-Rialto,1,2
-Quivira,2,2
-Punta Delgada,1,2
-Puertocarrero,1,2
-Puerto Rico,2,2
-Puerta Real,2,2
-Puerta de la Vega,1,2
-Puerta Cerrada,2,2
-Praga,1,2
-Ponto,2,2
-Po,2,2
-Platería,2,2
-Pisa,2,2
-Pinto,2,2
-Piñarolo,1,2
-Petrijón,1,2
-Peñanegra,1,2
-Peñaflor,2,2
-Peñafiel,2,2
-Pausílipo,2,2
-Pastrana,2,2
-Parténope,2,2
-Paris,2,2
-Paraíso,2,2
-Pancaya,2,2
-Palenzuela,2,2
-Palacios de Galiana,1,2
-Oropesa,2,2
-Orihuela,2,2
-Orange,2,2
-Ofir,2,2
-Ocidente,2,2
-Nordobico,1,2
-Niza,2,2
-Nicosia,1,2
-Mozambique,2,2
-Morata,2,2
-Montiel,1,2
-Montes Rifeos,2,2
-Monte Tauro,2,2
-Monte Partenio,2,2
-monte Parnaso,2,2
-Monte Olimpo,2,2
-Monte Helicón,2,2
-Monte de Toledo,1,2
-Monte de Murabel,1,2
-Monte Celio,2,2
-monte Celio,2,2
-Monte Calvario,1,2
-Monte Atlante,2,2
-Monasterio de San Benito,1,2
-Modon,1,2
-Miraflores,1,2
-Mesón de Atalante,2,2
-Mérida,1,2
-Melinde,2,2
-Medos,2,2
-Medo,2,2
-Medellín,2,2
-Mazalquivir,2,2
-marruecos,2,2
-Mar de Tile,1,2
-Mansilla,2,2
-Maluco,1,2
-Lorena,1,2
-Liceo,2,2
-las Yeguas,2,2
-Las Palmas,1,2
-Laredo,2,2
-Lanzarote,2,2
-Lango,1,2
-Laguna,2,2
-La Torre,2,2
-La Seo,1,2
-La Montaña,2,2
-La Guardia,1,2
-Jatelete,1,2
-Jaragui,1,2
-Indo,2,2
-Huete,2,2
-Huerta del Rey,2,2
-Huelva,2,2
-Henares,2,2
-Guimarães,1,2
-Guelves,1,2
-Goleta,1,2
-Girona,1,2
-Germania,2,2
-Genel,2,2
-Funes,1,2
-Fuerte de Penco,1,2
-Fuente del Saúco,2,2
-Fox,1,2
-Flor,1,2
-Finisterre,2,2
-Eufrates,2,2
-Estridón,1,2
-Esgueva,2,2
-Eritrea,2,2
-Durlán,1,2
-Denadámar,1,2
-Delfos,2,2
-Cubagua,2,2
-Cremona,2,2
-Covadonga,2,2
-Convento de san Francisco,1,2
-Convento de los Agustinos Recoletos,1,2
-Ciudad,2,2
-Cirueña,1,2
-Chirinola,2,2
-Chacona,2,2
-Cerro de Andalicán,1,2
-Cerralbo,2,2
-Cedrón,2,2
-Cea,2,2
-Catedral Primada de Toledo,2,2
-Castro de Santángel,1,2
-Castillo de Emaús,1,2
-Castilleja,2,2
-Castillanzul,2,2
-Castildavid,1,2
-Castañar,1,2
-Caria,2,2
-Capitolio,1,2
-Cantillana,2,2
-Cañete,2,2
-Campos,2,2
-Calle de Santiago,2,2
-Calle de Pompolio,1,2
-Calle de los Jardines,1,2
-Calle de la Mar,1,2
-Calle de Getafe,2,2
-Calle de Francos,1,2
-Calatayud,2,2
-Cal de Francos,2,2
-Cabo de Gata,2,2
-Cabo de Buena Esperanza,2,2
-Cabañas,1,2
-Burguillos,1,2
-Bugía,2,2
-Bouges,2,2
-Bética,1,2
-Betel,2,2
-Baviera,2,2
-Basilicata,1,2
-Baños de la Reina Mora,2,2
-Badajoz,2,2
-Aste,1,2
-Ártico,2,2
-Arenal,2,2
-Aquisgrana,1,2
-Antípodas,2,2
-Angla,1,2
-Andaya,2,2
-Ancud,1,2
-Amiens,1,2
-Altozana,1,2
-Altamira,2,2
-Almenara,2,2
-Almazán,2,2
-Almanzor,2,2
-Almagro,1,2
-Aljafería,2,2
-Algaba,2,2
-Alcaudete,2,2
-Alarache,2,2
+Abarima,1,1
 Abenamar,1,2
-Zofala,1,1
-Zeibán,1,1
-Zarzuela,1,1
-Zahara,1,1
-Yuste,1,1
-Yucatán,1,1
-Yelbes,1,1
-Xirofe,1,1
-Wamba,1,1
-Vulcano,1,1
-Vivares,1,1
-Vistillas,1,1
-Viso,1,1
-Visiniano,1,1
-Villapalacios,1,1
-Villanueva,1,1
-Villana,1,1
-Villamor,1,1
-Villamartín,1,1
-Villalonso,1,1
-Villalón,1,1
-Villacayana,1,1
-Villacastín,1,1
-Villacanes,1,1
-Villa Alonso,1,1
-Viarne,1,1
-Viara,1,1
-Vesubio,1,1
-Vercelli,1,1
-Veragua,1,1
-Vera de Plasencia,1,1
-Ventillas,1,1
-Valparaíso,1,1
-Valle de Toranzo,1,1
-Valle de Sagó,1,1
-Valle de Mambré,1,1
-Valle de Corneja,1,1
-Valle,1,1
-Valenzuela,1,1
-Valencina,1,1
-valencia,1,1
-Valdemorillo,1,1
-Valdecalderas,1,1
-Val de Narciso,1,1
-Utiel,1,1
-Urueña,1,1
-Urdemalas,1,1
-Ungaro,1,1
-Ulma,1,1
-Uceda,1,1
-Tusón,1,1
-Turquestán,1,1
-Turín,1,1
-Troyas,1,1
-Triberio,1,1
-Treviño,1,1
-Trastamara,1,1
-Tospia,1,1
-Torres de Cañete,1,1
-Torrejón,1,1
-Torre Tarpeya,1,1
-Torre del Águila,1,1
-Torre de Sesto,1,1
-Torre de Mormojón,1,1
-Torre de Hércules,1,1
-Torre de David,1,1
-Torre de Ader,1,1
-Torlgui,1,1
-Tordelaguna,1,1
-Toral,1,1
-Tondaya,1,1
-Tolemaida,1,1
-Tirreno,1,1
-Tiria,1,1
-Tiraza,1,1
-Timbuctú,1,1
-Tigris,1,1
-Tifis,1,1
-Tierra del Fuego,1,1
-Tíber,1,1
-Tíbar,1,1
-Tibar,1,1
-Tiano,1,1
-Terracina,1,1
-Tepecas,1,1
-Tenez,1,1
-Templo de Marte,1,1
-Tempe,1,1
-Temisnam,1,1
-Temetinda,1,1
-Tejo,1,1
-Tauro,1,1
-Tarsis,1,1
-Tarpeya,1,1
-Targelia,1,1
-Taranto,1,1
-Taprobana,1,1
-Tangut,1,1
-Talcahuano,1,1
-Talavera de la Reina,1,1
-Tagarete,1,1
-Tábora,1,1
-Tabernas de san Martín,1,1
-Soyta,1,1
-Sorrento,1,1
-Sopoto,1,1
-Sofala,1,1
-Sodoma,1,1
-Socot,1,1
-Sobrarbe,1,1
-Sisla,1,1
-Sirena,1,1
-Siracusa,1,1
-Simancas,1,1
-Sigüenza,1,1
-Sietevillas,1,1
-Sierras Bermejas,1,1
-Sierra Elvira,1,1
-Sierra de las Monas,1,1
-Sierra de Elvira,1,1
-Sierra de Capira,1,1
-Sierra Bullones,1,1
-Sierra Bermeja,1,1
-Sierra,1,1
-Sidón,1,1
-Siciliano,1,1
-Sevillla,1,1
-Seveto,1,1
-Setubal,1,1
-Sesarte,1,1
-Sesa,1,1
-Serbia,1,1
-Sephor,1,1
-Senaar,1,1
-Selín,1,1
-Seir,1,1
-Segra,1,1
-Secuana,1,1
-Sarepta,1,1
-Santo Tomé y Príncipe,1,1
-Santiliprisco,1,1
-Santiago,1,1
-Santaclara,1,1
-Santa Susana,1,1
-Santa Olalla,1,1
-Santa Marta,1,1
-Santa María la Blanca,1,1
-Santa Gadea,1,1
-Santa Fe de Bogotá,1,1
-Santa Engracia del Puerto,1,1
-Santa Elena,1,1
-Sanderson,1,1
-San Vicente,1,1
-San Salvador de Oviedo,1,1
-San Román,1,1
-San Polo,1,1
-San Pelayo de Samos,1,1
-San Pedro Mártir,1,1
-San Pedro,1,1
-San Miguel de los Reyes,1,1
-San Martín de la Vega,1,1
-San Marcos,1,1
-San Leonardo de Alba,1,1
-San Juan de Patmos,1,1
-San Jerónimo del Prado,1,1
-San Isidro,1,1
-San Esteban,1,1
-San Damián,1,1
-San Clemente,1,1
-San Blas,1,1
-san Andrés,1,1
-San Agustín,1,1
-Salvatierra,1,1
-Salmacia,1,1
-Salinas,1,1
-Salazar,1,1
-Salado,1,1
-Sala de Vermón,1,1
-Saguntos,1,1
-Sagra de Toledo,1,1
-Saelices,1,1
-Rubicón,1,1
-Roseto,1,1
-Ródano,1,1
-Rodamonte,1,1
-río Mármol,1,1
-Rijoles,1,1
-Ribadeneira,1,1
-Retiro,1,1
-Renty,1,1
-Rentería,1,1
-Rennes,1,1
-Reino de Toledo,1,1
-Rebelí,1,1
-Ravena,1,1
-Rapariego,1,1
-Rambra,1,1
-Rafidín,1,1
-Quintanapalla,1,1
-Quiloa,1,1
-Pulla,1,1
-Pulán,1,1
-Pujarra,1,1
-Puigcerdà,1,1
-Puerto de Santa María,1,1
-Puerto de Sanlúcar,1,1
-Puerta del Perdón,1,1
-Puerta de la Bisagra,1,1
-Puerta de Cuarte,1,1
-Puerta de Bisagra,1,1
-Puerta de Alvega,1,1
-Puentes de Eume,1,1
-Puentefusco,1,1
-Puente de Segovia,1,1
-Puente de San Angelo,1,1
-Puche,1,1
-Prisión del Huerto,1,1
-Prado de Miraflor,1,1
-Prada,1,1
-Poza,1,1
-Povera,1,1
-Portohércules,1,1
-Pontevedra,1,1
-Pondelóu,1,1
-Pomas,1,1
-Polo,1,1
-Pliego,1,1
-Plaza Nueva,1,1
-Plaza del Rocío,1,1
-Plaza del Capitolio,1,1
-Plaza del Ángel,1,1
-Plaza de Sanlúcar,1,1
-Plaza de San Francisco,1,1
-Plaza de Palacio,1,1
-Plaza de Orán,1,1
-Plaza de León,1,1
-Plaza de Antón Martín,1,1
-Pisuerga,1,1
-Pirú,1,1
-Pinabel,1,1
-Piedrahita,1,1
-Piedragruta,1,1
-Pie de Gruta,1,1
-Picardía,1,1
-Pícala,1,1
-Pernambuco,1,1
-Peñón,1,1
-Peneo,1,1
-Peloro,1,1
-Peloponeso,1,1
-Pelanda,1,1
-Pegú,1,1
-Pecis,1,1
-Paypurti,1,1
-Patmos,1,1
-Partos,1,1
-Parto,1,1
-Partaria,1,1
-Paro,1,1
-Paredes,1,1
-Pardo,1,1
-Parda,1,1
-Paradas,1,1
-Panonia,1,1
-Palmira,1,1
-Palma de Sol,1,1
-Palamós,1,1
-Palacio Real,1,1
-Palacio de Creso,1,1
-Palacio,1,1
-Ormuz,1,1
-Orión,1,1
-Oria,1,1
-Órgiva,1,1
-Órbigo,1,1
-Oporto,1,1
-Oñate,1,1
-Olivos del Prado,1,1
-Olivares,1,1
-Olibia,1,1
-Oceso,1,1
-Nules,1,1
-Novara,1,1
-Noroña,1,1
-Normandía,1,1
-Nieva,1,1
-Nevo,1,1
-Nervi,1,1
-Nebo,1,1
-Navas de Tolosa,1,1
-Navarrete,1,1
-Navarino,1,1
-Navamuel,1,1
-Navalcarnero,1,1
-Naumaquia,1,1
-Nantes,1,1
-Nandoralba,1,1
-Nájara,1,1
-Mutaceno,1,1
-Muro de Tolemón,1,1
-Mulvia,1,1
-Mulacén,1,1
-Mostagán,1,1
-Mosela,1,1
-Mosa,1,1
-Morea,1,1
-Moravia,1,1
-Moratalla,1,1
-Montpellier,1,1
-montes Riseos,1,1
-Montes Pesulanos,1,1
-Montes de Toledo,1,1
-Montes de Pas,1,1
-Montes de la Luna,1,1
-Montes de La Bureba,1,1
-Monterrey,1,1
-Montemedoro,1,1
-Monteflor,1,1
-Monte Sinaí,1,1
-Monte Riselo,1,1
-monte Pangeo,1,1
-Monte Palatino,1,1
-monte Otón,1,1
-Monte Olivete,1,1
-monte Olimpo,1,1
-monte Mongibelo,1,1
-Monte Líbano,1,1
-Monte Indiano,1,1
-Monte Imán,1,1
-monte Ida,1,1
-Monte Galaad,1,1
-Monte Falcano,1,1
-Monte Esquilino,1,1
-Monte de Venus,1,1
-Monte de Tesalia,1,1
-monte de Sanlúcar,1,1
-monte de las Olivas,1,1
-Monte de la Luna,1,1
-Monte de Jubalda,1,1
-Monte de Colinia,1,1
-Monte de Burgos,1,1
-Monte Cisalpino,1,1
-Monte Casino,1,1
-Monte Betel,1,1
-Monte Atón,1,1
-Monte Atlas,1,1
-Monte Aragón,1,1
-Montaña de Carza y Argelina,1,1
-montaña Corza,1,1
-Montalvo,1,1
-Montalto,1,1
-Mondoñedo,1,1
-Moncolibre,1,1
-Monasterio de San Payo,1,1
-Monasterio de San Bruno,1,1
-Mista,1,1
-Misia,1,1
-Miranda,1,1
-Minas,1,1
-Minaroz,1,1
-Milano,1,1
-Micalete,1,1
-Mequinez,1,1
-Mendoza,1,1
-Meliona,1,1
-Mediodía,1,1
-Medina de Rioseco,1,1
-Medina,1,1
-Mecinan,1,1
-Mazara,1,1
-Mazapanes,1,1
-Mayorga,1,1
-Maya,1,1
-Marsilio,1,1
-Marne,1,1
-Marchena,1,1
-Marbella,1,1
-Marañón,1,1
-Mar Partenopeo,1,1
-Mar Hircano,1,1
-Mar Grande,1,1
-Mar Fenicio,1,1
-Mar Español,1,1
-Mar Caspio,1,1
-Mar Caribe,1,1
-Mar Andrómedas,1,1
-Mantua Carpetánea,1,1
-Manto,1,1
-Manicongo,1,1
-Mangi,1,1
-Manfelta,1,1
-Malinas,1,1
-Malagón,1,1
-Malafa,1,1
-Magedo,1,1
-Magallanes,1,1
-Madríd,1,1
-Madeira,1,1
-Macedón,1,1
-Luxemburque,1,1
-Luque,1,1
-Lucena,1,1
-Lovaina,1,1
-Los Vélez,1,1
-Los Remedios,1,1
-Los Donceles,1,1
-Loriana,1,1
-Lora,1,1
-Lomelín,1,1
-Lista,1,1
-Lipari,1,1
-Lipa de Mel,1,1
-Limbo,1,1
-Lida,1,1
-Libonia,1,1
-Liberia,1,1
-Lesbia,1,1
-Lepe,1,1
-León de San Marcos,1,1
-Lenguadoc,1,1
-Legerda,1,1
-Lebis,1,1
-Lavapiés,1,1
-Lara,1,1
-Languedoc,1,1
-Lagos,1,1
-Lago Estix,1,1
-Lago de Alfaquite,1,1
-Labor,1,1
-Laberinto de Creta,1,1
-La torre de Serranos,1,1
-La Serena,1,1
-La Salceda,1,1
-La Rota,1,1
-La Roda,1,1
-La Roca,1,1
-la Mosa,1,1
-La Merced,1,1
-La Graciosa,1,1
-La Goleta,1,1
-La Florida,1,1
-La Fert,1,1
-La Cueva,1,1
-La Comedia,1,1
-La Alegranza,1,1
-Jubenamarín,1,1
-Jope,1,1
-Jericó,1,1
-Jerez de la Frontera,1,1
-Játiva,1,1
-Jaspe,1,1
-Jarana,1,1
-Jabea,1,1
-Islas Terceras,1,1
-Islas Escorzolares,1,1
-Islandia,1,1
-Isla de Hieros,1,1
-Indias de Marte,1,1
-Iglesia de Santa Trinidad,1,1
-Iglesia de Santa María,1,1
-Iglesia de San Justo,1,1
-Iglesia de la Pasión,1,1
-Idumeos,1,1
-Iberio,1,1
-Huerta Totipela,1,1
-Huerta,1,1
-Hostilia,1,1
-Hornachuelos,1,1
-Hiza,1,1
-Hita,1,1
-Hierro,1,1
-Hidaspes,1,1
-Hidaspe,1,1
-Hazinas,1,1
-Han,1,1
-Habor,1,1
-Guisando,1,1
-Guelgas,1,1
-Guaira,1,1
-Guadeana,1,1
-Guadaleste,1,1
-Guadalcázar,1,1
-Guadalcazar,1,1
-Guadaíra,1,1
-Gozán,1,1
-Gost,1,1
-Gomera,1,1
-Golfo de Narbona,1,1
-Golfo de Monicongo,1,1
-Geldres,1,1
-Gedrosía,1,1
-Gavia,1,1
-Gascuña,1,1
-Gascueña,1,1
-Garza,1,1
-Garrovillas,1,1
-Garillano,1,1
-Garaguí,1,1
-Gandelo,1,1
-Ganada,1,1
-Galve,1,1
-Gabaón,1,1
-Fuerteventura,1,1
-Fuentidueña,1,1
-Fuente Zumel,1,1
-Fuente Imán,1,1
-Fuente Flor,1,1
-Fuente del Olvido,1,1
-Fuente Aguinaldo,1,1
-Fuensalida,1,1
-Fuenlabrada,1,1
-Fuenfrida,1,1
-Frigia,1,1
-Florida,1,1
-Flómista,1,1
-Flegra,1,1
-Finmarquia,1,1
-File,1,1
-Filabres,1,1
-Feria,1,1
-Ferezca,1,1
-Fenez,1,1
-Fenecén,1,1
-Farses,1,1
-Euripos,1,1
-Etruria,1,1
-Estremadura,1,1
-Estepa,1,1
-Este,1,1
-Esquivias,1,1
-Espinosa de los Monteros,1,1
-Espínola,1,1
-Esperanza,1,1
-Esitia,1,1
-Escueto,1,1
-Escarpanto,1,1
-Erbasia,1,1
-Engaddí,1,1
-Encenias,1,1
-Elche,1,1
-El prado de la Santa,1,1
-El Pardo,1,1
-El Hierro,1,1
-Efesia,1,1
-Durindana,1,1
-Dunel,1,1
-Douai,1,1
-Demiata,1,1
-Daroca,1,1
-Darién,1,1
-Daranisa,1,1
-Damiatan,1,1
-Dalmacio,1,1
-Daimiel,1,1
-Dafnes,1,1
-Cuzco,1,1
-Cumana,1,1
-Cueva,1,1
-Crevillén,1,1
-Costantinopla,1,1
-Costanilla,1,1
-Cortona,1,1
-Corón,1,1
-Corella,1,1
-Convento de Firmo,1,1
-Conchinchina,1,1
-Compostela,1,1
-Colombres,1,1
-Coll de Balaguer,1,1
-Colchis,1,1
-Coca,1,1
-Clari,1,1
-Ciudad del Embuste,1,1
-Citra,1,1
-Cinto,1,1
-Cilicia,1,1
-Cidno,1,1
-Chinchón,1,1
-Chinchina,1,1
-Chapela,1,1
-Chafalonia,1,1
-Cervera,1,1
-Cerro de San Salvador,1,1
-Celesiria,1,1
-Cayocupil,1,1
-Caúcaso,1,1
-Cataro,1,1
-Castroviejo,1,1
-Castromocho,1,1
-Castillos del Tajo,1,1
-Castillo de Zurita,1,1
-Castillo de San Servando,1,1
-Castillo de San Juan,1,1
-Castillo de Oro,1,1
-Castillo de Monroy,1,1
-Castillo de Luna,1,1
-Castillo de Fos,1,1
-Castillo de Altariva,1,1
-Castilguillermo,1,1
-Castellar,1,1
-Castelflorido,1,1
-Caspio,1,1
-Casarrubios,1,1
-Casa de la Luna,1,1
-Carpio,1,1
-Carpacio,1,1
-Carmania,1,1
-Caramanchel,1,1
-Caracena,1,1
-Capira,1,1
-Capadocia,1,1
-Canuza,1,1
-Canosa,1,1
-Cannas,1,1
-Canillejas,1,1
-Cangas,1,1
-Canaria,1,1
-Canaán,1,1
-Campos de Amalec,1,1
-Campos Abarimos,1,1
-Campoflor,1,1
-Campo Viminal,1,1
-Campo de Senar,1,1
-Campo de Marte,1,1
-Campo de Dura,1,1
-Campeche,1,1
-Camino Real,1,1
-Cambaya,1,1
-Cálquidos,1,1
-Calpuri,1,1
-Callejón de la Platería,1,1
-calle Mayor,1,1
-Calle del Pez,1,1
-Calle del Coso,1,1
-Calle del Arenal,1,1
-Calle del Amor,1,1
-Calle de Toledo,1,1
-calle de Toledo,1,1
-Calle de San Luis,1,1
-Calle de San Francisco,1,1
-Calle de Marcela,1,1
-Calle de las Armas,1,1
-calle de la Oliva,1,1
-Calle de la Niña,1,1
-Calle de la Flor,1,1
-Calle de la Espada,1,1
-Calle de la Cabeza,1,1
-Calle de Cleves,1,1
-Calle de Carriedo,1,1
-Calle de Alcalá,1,1
-Calidonia,1,1
-Calambuco,1,1
-Cafarnaú,1,1
-Cabo Verde,1,1
-Cabo de San Vicente,1,1
-Cabo de San Martín,1,1
-Cabo de Paraguay,1,1
-Burueba,1,1
-Buniol,1,1
-Buen Retiro,1,1
-Buen Andron,1,1
-Brest,1,1
-Brava,1,1
-Brañigales,1,1
-Bragandavene,1,1
-Braga,1,1
-Bracamana,1,1
-Brabante,1,1
-Bozmar,1,1
-Bosque del Simbés,1,1
-Bosna,1,1
-Borja,1,1
-Bona,1,1
-Bolduque,1,1
-Bohorques,1,1
-Boemia,1,1
-Bleda,1,1
-Bizanzón,1,1
-Bizancio,1,1
-Bistricia,1,1
-Bisiñano,1,1
-Biafara,1,1
-Biafar,1,1
-Betulia,1,1
-Betfagé,1,1
-Betancor,1,1
-Berlanga,1,1
-Berga,1,1
-Beocia,1,1
-Beobia,1,1
-Benifayón,1,1
-Benavento,1,1
-Benamarín,1,1
-Benaljofar,1,1
-Belorado,1,1
-Bélmuz,1,1
-Belmonte,1,1
-Belfor,1,1
-Belda,1,1
-Belarmón,1,1
-Bebamejí,1,1
-Batro,1,1
-Basílica de San Pedro,1,1
-Basílica de la Macarena,1,1
-Basilene,1,1
-Basilea,1,1
-Barra de Sanlúcar,1,1
-Barfol,1,1
-Barco de Ávila,1,1
-Barcelos,1,1
-Barcarrota,1,1
-Bamot,1,1
-Baltera,1,1
-Baleares,1,1
-Baena,1,1
-Babel,1,1
-Azucamil,1,1
-Axarquía,1,1
-Avirón,1,1
-Averno,1,1
-Audiencias de Corte,1,1
-Atienza,1,1
-Ática,1,1
-Atarazana,1,1
-Arsamosata,1,1
-Arlanzón,1,1
-Arlaja,1,1
-Aripa,1,1
-Arimatía,1,1
-Arica,1,1
-Argote,1,1
-Arganda,1,1
-Arfil,1,1
-Arévalo,1,1
-Arellano,1,1
-Araje,1,1
-Aracena,1,1
-Aquisgrán,1,1
-Apeninos,1,1
-Anzeta,1,1
-Antioquia,1,1
-Antiopía,1,1
-Anguitola,1,1
-Anguisola,1,1
-Angra,1,1
-Anglisea,1,1
-Andes,1,1
-Ancitene,1,1
-Anauro,1,1
-Ampudia,1,1
-Altaflor,1,1
-Almodóvar del Campo,1,1
-Almina,1,1
-Almarcha,1,1
-Almada,1,1
-Aljarafe,1,1
-Algalia,1,1
-Alentejo,1,1
-Aldeas del Valle,1,1
-Alcocer,1,1
-Alcira,1,1
-Alcides,1,1
-Alcázares,1,1
-Alcázar de León,1,1
-Alcásova,1,1
-Alcasarquivir,1,1
-Alcarria,1,1
-Alcantarilla,1,1
-Alcañizas,1,1
-Alcañiz,1,1
-Alcaná,1,1
-Alcalá del Río,1,1
-Alcaicería,1,1
-Albacarín,1,1
-Alarcos,1,1
-Alarcón,1,1
-Alarbe,1,1
-Alamillo,1,1
-Alameda,1,1
-Alaejos,1,1
-Ajarquía,1,1
-Aibar,1,1
-Aguas Muertas,1,1
-Agramonte,1,1
-Aduana de Sevilla,1,1
-Abroza,1,1
 Abenzaide,1,1
 Abenámar,1,1
-Abarima,1,1
+Abroza,1,1
+Adamuz,4,8
+Aduana de Sevilla,1,1
+Advares,1,1
+Agramonte,1,1
+Aguas Muertas,2,2
+Aibar,1,1
+Ajarquía,1,1
+Alaejos,2,2
+Alameda,1,1
+Alamillo,1,1
+Alarache,2,2
+Alarbe,1,1
+Alarcos,1,1
+Alarcón,1,1
+Alba,16,68
+Alba (Italia),1,46
+Alba Real,3,10
+Albacarín,1,1
+Albaicín,7,12
+Albania,33,121
+Albufera,1,1
+Alburquerque,3,3
+Alcaicería,1,1
+Alcalá,3,8
+Alcalá de Henares,20,56
+Alcalá del Río,1,1
+Alcalá la Real,1,4
+Alcantarilla,1,1
+Alcaná,1,1
+Alcaraz,2,4
+Alcarria,1,1
+Alcasarquivir,1,1
+Alcaudete,2,2
+Alcañiz,1,1
+Alcañizas,1,1
+Alcides,1,1
+Alcira,1,1
+Alcocer,1,1
+Alcolea,4,4
+Alcorcón,4,4
+Alcumena,1,1
+Alcántara,6,6
+Alcásova,1,1
+Alcázar,2,3
+Alcázar de León,1,1
+Alcázar de Madrid,9,14
+Alcázar de Sevilla,3,18
+Alcázar de Toledo,11,18
+Aldeas del Valle,1,1
+Alejandría,10,23
+Alemana,1,1
+Alemania,78,184
+Alemaña,1,1
+Alentejo,1,1
+Alfaques,2,3
+Algaba,2,2
+Algalia,1,1
+Algarve,7,10
+Algeciras,5,6
+Alhama,5,17
+Alhambra,21,66
+Alicante,17,22
+Aljafería,2,2
+Aljarafe,1,1
+Almada,1,1
+Almagro,2,5
+Almansa,3,3
+Almanzor,2,2
+Almarcha,1,1
+Almazán,2,2
+Almenar,1,5
+Almenara,2,2
+Almería,11,11
+Almina,1,1
+Almodóvar,3,3
+Almodóvar del Campo,1,1
+Almonte,3,4
+Alora,1,24
+Alpes,11,13
+Alpujarras,7,9
+Altaflor,1,1
+Altamira,2,2
+Altozana,1,2
+Amalfi,1,10
+Amberes,4,8
+Amiens,1,2
+Ampudia,1,1
+América,5,6
+Anatolia,3,3
+Anauro,1,1
+Ancitene,1,1
+Ancona,2,7
+Ancud,1,2
+Andalucía,46,72
+Andaya,2,2
+Andes,1,1
+Andrada,2,3
+Andújar,4,10
+Angla,1,2
+Anglante,2,5
+Anglisea,1,1
+Angra,1,1
+Anguisola,1,1
+Anguitola,1,1
+Antequera,8,12
+Antiopía,1,1
+Antioquia,1,1
+Antioquía,4,4
+Antártico,5,8
+Antípodas,2,2
+Anzeta,1,1
+Apeninos,2,2
+Aqueronte,3,3
+Aquisgrana,2,3
+Aquisgrán,1,1
+Arabia,63,86
+Aracena,1,1
+Aragón,106,793
+Araje,1,1
+Aranda,3,5
+Aranjuez,6,13
+Arauco,1,29
+Arcadia,18,63
+Arcelia,1,1
+Archidona,3,3
+Arcila,4,6
+Ardea,1,6
+Ardenia,2,5
+Arellano,1,1
+Arenal,2,2
+Arfil,1,1
+Arganda,1,1
+Argel,83,331
+Argentina,2,2
+Argolán,1,7
+Argos,5,5
+Argote,1,1
+Arica,1,1
+Arimatía,1,1
+Aripa,1,1
+Ariza,1,1
+Arjona,3,5
+Arlaja,1,1
+Arlanza,3,5
+Arlanzón,1,1
+Arles,2,10
+Arlés,1,1
+Armenia,10,19
+Arsamosata,1,1
+Arévalo,1,1
+Aseo,3,3
+Asia,63,172
+Asiria,1,6
+Aste,1,2
+Asti,2,4
+Astorga,11,15
+Asturias,26,85
+Asís,1,3
+Atarazana,1,1
+Atelia,1,2
+Atenas,33,84
+Atienza,1,1
+Atlántico,7,9
+Atocha,9,21
+Audiencias de Corte,1,1
+Austria,27,47
+Austro,4,4
+Aveiro,1,6
+Averno,1,1
+Avirón,1,1
+Axarquía,1,1
+Ayamonte,4,6
+Azamor,5,5
+Azucamil,1,1
+Babel,1,1
+Babilonia,37,48
+Badajoz,2,2
+Baena,1,1
+Baeza,5,7
+Bahamas,6,6
+Bahía,1,4
+Baleares,1,1
+Baltera,1,1
+Bamot,1,1
+Barajas,2,29
+Barbadillo,1,6
+Barcarrota,1,1
+Barcelona,66,250
+Barcelos,1,1
+Barco de Ávila,1,1
+Barfol,1,1
+Bari,1,3
+Barleta,1,18
+Barra de Sanlúcar,1,1
+Barracas,1,3
+Bartola,1,3
+Barucoa,1,4
+Basilea,1,1
+Basilene,1,1
+Basilicata,1,2
+Basílica de Nuestra Señora del Pilar,2,3
+Basílica de San Pedro,3,3
+Basílica de la Macarena,1,1
+Batro,1,1
+Baviera,3,3
+Bayona,5,8
+Baza,5,10
+Baños de la Reina Mora,2,2
+Beamonte,1,3
+Bebamejí,1,1
+Belarmón,1,1
+Belda,1,1
+Belflor,7,33
+Belfor,1,1
+Belgrado,6,31
+Belmirar,2,4
+Belmonte,1,1
+Belorado,1,1
+Belén,16,38
+Benaljofar,1,1
+Benamarín,1,1
+Benavente,5,18
+Benavento,1,1
+Benavides,1,28
+Bengala,3,25
+Benifayón,1,1
+Beobia,1,1
+Beocia,1,1
+Berbería,28,40
+Berga,1,1
+Berganza,2,24
+Berlanga,1,1
+Bermudas,4,4
+Betancor,1,1
+Betel,2,2
+Betfagé,1,1
+Betis,46,73
+Betulia,1,1
+Biafar,1,1
+Biafara,1,1
+Biarne,3,3
+Bibalmazán,3,3
+Bibarrambla,7,12
+Bibataubín,5,9
+Bilbao,1,1
+Bisela,1,2
+Biserta,16,43
+Bisiñano,1,1
+Bistricia,1,1
+Bizancio,1,1
+Bizanzón,1,1
+Bleda,1,1
+Boemia,1,1
+Bohemia,16,63
+Bohorques,1,1
+Bolduque,1,1
+Bolonia,14,24
+Bona,1,1
+Borgoña,9,19
+Borja,1,1
+Bosna,1,1
+Bosque del Simbés,1,1
+Bouges,2,2
+Bozmar,1,1
+Brabante,2,2
+Bracamana,1,1
+Braga,1,1
+Bragandavene,1,1
+Brandenburgo,5,7
+Brasil,5,33
+Brava,1,1
+Brañigal,1,3
+Brañigales,1,1
+Brest,1,1
+Bretaña,17,121
+Britania,3,3
+Briviesca,1,3
+Bruselas,10,46
+Budapest,4,8
+Buen Andron,1,1
+Buen Retiro,1,1
+Bugia,1,2
+Bugía,2,2
+Bujía,2,4
+Buniol,1,1
+Bura,1,5
+Burgos,23,123
+Burguillos,1,2
+Burueba,1,1
+Béjar,5,6
+Bélmez,1,6
+Bélmuz,1,1
+Bética,1,2
+Cabañas,1,2
+Cabildo de Sevilla,1,7
+Cabo Verde,1,1
+Cabo de Buena Esperanza,2,2
+Cabo de Gata,2,2
+Cabo de Paraguay,1,1
+Cabo de San Martín,1,1
+Cabo de San Vicente,2,2
+Cabra,3,4
+Cadiz,1,2
+Cafarnaú,1,1
+Cafi,1,1
+Cal de Francos,2,2
+Calabria,7,33
+Calahorra,3,12
+Calais,3,3
+Calambuco,1,1
+Calatayud,2,2
+Calatrava,3,11
+Calidonia,1,1
+Calle Mayor,16,30
+Calle de Alcalá,1,1
+Calle de Carriedo,1,1
+Calle de Cleves,1,1
+Calle de Francos,1,2
+Calle de Getafe,2,2
+Calle de Marcela,1,1
+Calle de Pompolio,1,2
+Calle de San Francisco,1,1
+Calle de San Luis,1,1
+Calle de Santiago,2,2
+Calle de Toledo,1,1
+Calle de la Cabeza,1,1
+Calle de la Espada,1,1
+Calle de la Flor,1,1
+Calle de la Mar,1,2
+Calle de la Niña,1,1
+Calle de las Armas,1,1
+Calle de los Gomeles,4,8
+Calle de los Jardines,1,2
+Calle de los Mascones,1,1
+Calle del Amor,1,1
+Calle del Arenal,1,1
+Calle del Coso,1,1
+Calle del Pez,1,1
+Calle del Prado,2,3
+Callejón de la Platería,1,1
+Caller,1,1
+Calpuri,1,1
+Cambaya,1,1
+Cambrai,4,11
+Camino Real,1,1
+Campania,1,1
+Campeche,1,1
+Campo Viminal,1,1
+Campo de Dura,1,1
+Campo de Marte,1,1
+Campo de Senar,1,1
+Campo de Tablada,4,4
+Campoflor,1,1
+Campos,2,2
+Campos Abarimos,1,1
+Campos Elíseos,10,10
+Campos de Amalec,1,1
+Canaria,1,1
+Canarias,6,26
+Canas,1,1
+Canaán,2,6
+Candia,3,4
+Cangas,1,1
+Canillejas,1,1
+Cannas,1,1
+Canosa,1,1
+Cantillana,2,2
+Canuza,1,1
+Capadocia,1,1
+Capalona,1,1
+Capira,1,1
+Capitolio,1,2
+Capua,3,3
+Carabanchel,2,2
+Caracena,1,1
+Caramanchel,2,2
+Caramania,3,3
+Cardona,2,4
+Caria,2,2
+Carmania,1,1
+Carmen,3,5
+Carmona,6,7
+Carpacio,1,1
+Carpio,1,1
+Carrión,2,3
+Cartagena,20,41
+Cartago,20,58
+Cartama,3,41
+Casa San Severina,1,3
+Casa de Campo,6,18
+Casa de la Luna,1,1
+Casarrubios,1,1
+Caspio,1,1
+Castañar,1,2
+Castelflorido,1,1
+Castellar,1,1
+Castellón,1,11
+Castelvines,1,3
+Castildavid,1,2
+Castilguillermo,1,1
+Castilla,167,1313
+Castilla y León,9,10
+Castillanzul,2,2
+Castilleja,2,2
+Castillo de Altariva,1,1
+Castillo de Consuegra,1,3
+Castillo de Emaús,1,2
+Castillo de Fos,1,1
+Castillo de Luna,1,1
+Castillo de Monroy,1,1
+Castillo de Oro,1,1
+Castillo de San Cervantes,4,7
+Castillo de San Juan,1,1
+Castillo de San Servando,1,1
+Castillo de Zurita,1,1
+Castillos del Tajo,1,1
+Castilnovo,3,4
+Castro de Santángel,1,2
+Castromocho,1,1
+Castroviejo,1,1
+Cataluña,20,28
+Catania,1,10
+Cataro,1,1
+Catarrocha,1,1
+Catay,3,4
+Catedral Primada de Toledo,2,2
+Cathay,1,5
+Cayocupil,1,1
+Cañete,2,2
+Caúcaso,1,1
+Cea,2,2
+Cedrón,2,2
+Ceilán,7,8
+Celesiria,1,1
+Cerdeña,14,49
+Cerralbo,2,2
+Cerro de Andalicán,1,2
+Cerro de San Salvador,1,1
+Cervera,1,1
+Cesaraugusta,4,5
+Ceuta,13,20
+Chacona,2,2
+Chafalonia,1,1
+Chapela,1,1
+Chatelete,1,10
+Chile,7,43
+China,52,62
+Chinchina,1,1
+Chinchón,1,1
+Chincoya,1,10
+Chipre,31,62
+Chirinola,2,2
+Cholula,1,3
+Cidno,1,1
+Cilia,1,5
+Cilicia,1,1
+Cinto,1,1
+Cirueña,1,2
+Citra,1,1
+Ciudad,2,2
+Ciudad Real,8,33
+Ciudad Rodrigo,6,11
+Ciudad del Embuste,1,1
+Clari,1,1
+Cleves,9,63
+Coca,1,1
+Coimbra,5,9
+Colchis,1,1
+Colibre,6,7
+Coll de Balaguer,1,1
+Colombres,1,1
+Colona,1,1
+Colonia,5,8
+Compostela,1,1
+Concepción,3,5
+Conchinchina,1,1
+Congo,3,3
+Constantinopla,36,64
+Convento de Firmo,1,1
+Convento de Santa María de Jesús,2,6
+Convento de los Agustinos Recoletos,1,2
+Convento de san Francisco,1,2
+Corella,1,1
+Corfú,3,5
+Coria,5,7
+Corinto,7,13
+Corpo Santo,1,1
+Cortona,1,1
+Corón,1,1
+Costanilla,1,1
+Costantinopla,1,1
+Covadonga,2,2
+Coín,1,26
+Cracovia,3,3
+Cremona,2,2
+Creta,14,34
+Crevillén,1,1
+Cubagua,3,3
+Cuenca,13,15
+Cueva,1,1
+Cumana,1,1
+Cuzco,1,1
+Cádiz,31,50
+Cálquidos,1,1
+Cáucaso,12,12
+Cólquida,4,7
+Córcega,6,18
+Córdoba,78,228
+Dacia,3,8
+Dafnes,1,1
+Daimiel,1,1
+Dalmacia,13,49
+Dalmacio,1,1
+Damasco,8,8
+Damiatan,1,1
+Danubio,8,11
+Daranisa,1,1
+Darién,1,1
+Daroca,1,1
+Dauro,2,4
+Delfos,2,2
+Demiata,1,1
+Denadámar,1,2
+Denia,20,34
+Dinadamar,5,7
+Dinamarca,9,25
+Dobla,1,5
+Dotaín,1,1
+Douai,1,1
+Duero,10,12
+Dueñas,3,7
+Dunel,1,1
+Dunquerque,1,1
+Durindana,1,1
+Durlán,1,2
+Ebro,9,13
+Efesia,1,1
+Egipcio,1,1
+Egipto,63,114
+El Cairo,10,18
+El Escorial,3,4
+El Hierro,1,1
+El Pardo,2,2
+El prado de la Santa,1,1
+Elche,1,1
+Encenias,1,1
+Enchusén,1,1
+Engaddí,1,1
+Epiro,5,10
+Erbasia,1,1
+Erimanto,3,3
+Eritrea,2,2
+Escalona,3,4
+Escarpanto,1,1
+Escitia,43,48
+Escocia,16,73
+Escueto,1,1
+Esgueva,2,2
+Esguízaros,1,1
+Esitia,1,1
+Esparta,3,3
+España,292,2769
+Esperanza,1,1
+Espinosa de los Monteros,1,1
+Espínola,1,1
+Esquivias,1,1
+Este,1,1
+Estela,5,13
+Estepa,1,1
+Estrecho de Gibraltar,1,1
+Estremadura,1,1
+Estremoz,3,3
+Estridón,1,2
+Etiopía,37,50
+Etna,10,10
+Etruria,1,1
+Eufrates,2,2
+Euripos,1,1
+Europa,86,126
+Extremadura,8,10
+Famagusta,2,7
+Faro,2,3
+Farsalia,8,8
+Farses,1,1
+Faura,2,3
+Fenecén,1,1
+Fenez,1,1
+Fenicia,11,14
+Ferezca,1,1
+Feria,1,1
+Ferrara,12,68
+Ferrol,4,11
+Fez,21,62
+Filabres,1,1
+File,1,1
+Finisterre,2,2
+Finmarquia,1,1
+Flandes,122,385
+Flegra,1,1
+Flor,1,2
+Florencia,28,180
+Florida,1,1
+Flómista,1,1
+Fontanablec,1,3
+Formentera,4,4
+Fox,1,2
+Fraga,1,10
+Francia,184,1083
+Frigia,1,1
+Frisia,6,31
+Fráncfort,1,5
+Fuenfrida,1,1
+Fuenlabrada,1,1
+Fuensalida,1,1
+Fuente Aguinaldo,1,1
+Fuente Castellana,1,3
+Fuente Flor,1,1
+Fuente Imán,1,1
+Fuente Zumel,1,1
+Fuente del Olvido,1,1
+Fuente del Saúco,2,2
+Fuenteovejuna,1,36
+Fuenterrabía,6,10
+Fuentes,2,17
+Fuentidueña,1,1
+Fuerte de Penco,1,2
+Fuerteventura,1,1
+Funes,1,2
+Fátima,1,1
+Gabaón,1,1
+Gaeta,5,6
+Galaad,1,1
+Gales,1,3
+Galia,5,6
+Galicia,40,105
+Galilea,5,7
+Galve,1,1
+Ganada,1,1
+Gandelo,1,1
+Gandía,3,4
+Gange,1,3
+Ganges,10,15
+Gante,6,9
+Garaguí,1,1
+Garganta la Olla,1,4
+Garillano,1,1
+Garrovillas,1,1
+Garza,1,1
+Gascueña,1,1
+Gascuña,2,2
+Gavia,1,1
+Gaza,4,4
+Gedrosía,1,1
+Gelanda,4,10
+Geldres,2,2
+Gelves,4,4
+Genel,2,2
+Generalife,1,3
+Genil,5,9
+Germania,3,3
+Getafe,9,24
+Gibraleón,3,3
+Gibraltar,16,44
+Ginebra,6,6
+Girona,2,3
+Goleta,1,2
+Golfo de Monicongo,1,1
+Golfo de Narbona,1,1
+Gomera,2,2
+Gost,1,1
+Gozán,1,1
+Gradas,3,4
+Gran Bretaña,1,1
+Gran Canaria,2,14
+Granada,89,613
+Grao,2,5
+Grecia,125,227
+Guadalajara,8,10
+Guadalcazar,1,1
+Guadalcázar,1,1
+Guadaleste,1,1
+Guadalete,5,5
+Guadalquivir,17,21
+Guadalupe,5,5
+Guadarrama,22,31
+Guadaíra,1,1
+Guadeana,1,1
+Guadiana,4,5
+Guadix,3,3
+Guaira,1,1
+Guanahami,1,4
+Guelgas,1,1
+Guelves,1,2
+Guimarães,1,2
+Guinea,9,12
+Guipúzcoa,2,3
+Guisando,1,1
+Guyana,1,4
+Génova,24,108
+Habor,1,1
+Haití,1,8
+Han,1,1
+Harán,1,2
+Hazinas,1,1
+Henares,2,2
+Hidaspe,1,1
+Hidaspes,1,1
+Hierro,1,1
+Hipona,2,4
+Hircania,8,8
+Hita,1,1
+Hiza,1,1
+Holanda,10,37
+Hornachuelos,1,1
+Hostilia,1,1
+Huelva,2,2
+Huerta,1,1
+Huerta Totipela,1,1
+Huerta del Rey,2,2
+Huesca,2,21
+Huete,2,2
+Hungría,45,299
+Iberia,2,7
+Iberio,1,1
+Ibernia,1,16
+Ibiza,4,4
+Idumea,2,3
+Idumeos,1,1
+Iglesia de San Justo,1,1
+Iglesia de San Román,1,4
+Iglesia de Santa María,1,1
+Iglesia de Santa Trinidad,1,1
+Iglesia de la Magdalena,5,5
+Iglesia de la Pasión,1,1
+Illescas,17,61
+India,37,58
+Indias,2,8
+Indias de Marte,1,1
+Indias occidentales,60,173
+Indias orientales,35,43
+Indo,2,2
+Inglaterra,55,209
+Irlanda,12,66
+Irún,3,4
+Isla de Hieros,1,1
+Islandia,1,1
+Islas Escorzolares,1,1
+Islas Terceras,1,1
+Israel,33,69
+Italia,202,712
+Iznatorafe,1,10
+Jabea,1,1
+Jaca,9,19
+Japón,7,7
+Jaragui,1,2
+Jarama,12,26
+Jarana,1,1
+Jaspe,1,1
+Jatelete,1,2
+Java,4,4
+Jaén,19,67
+Jerez,16,43
+Jerez de la Frontera,1,1
+Jericó,2,2
+Jerusalén,54,147
+Jope,1,1
+Jordán,10,12
+Jubenamarín,1,1
+Judea,10,15
+Játiva,1,1
+La Alegranza,1,1
+La Comedia,1,1
+La Coruña,6,6
+La Cueva,1,1
+La Fert,1,1
+La Florida,1,1
+La Goleta,1,1
+La Graciosa,1,1
+La Guardia,1,2
+La Habana,10,10
+La Mancha,13,14
+La Meca,20,29
+La Merced,1,1
+La Montaña,2,2
+La Roca,1,1
+La Rochela,8,11
+La Roda,2,2
+La Rota,1,1
+La Sagra de Toledo,2,5
+La Salceda,1,1
+La Seo,1,2
+La Serena,1,1
+La Torre,2,2
+La Vera,1,19
+La torre de Serranos,1,1
+Laberinto,1,10
+Laberinto de Creta,1,1
+Labor,1,1
+Lacedemonia,5,5
+Lago Estix,1,1
+Lago de Alfaquite,1,1
+Lagos,1,1
+Laguna,2,2
+Lango,1,2
+Languedoc,2,2
+Lanzarote,2,2
+Lara,1,1
+Laredo,2,2
+Las Batuecas,1,14
+Las Navas,1,9
+Las Palmas,1,2
+Las Ventas,1,2
+Lavapiés,2,2
+Lebis,1,1
+Leganés,3,8
+Legerda,1,1
+Lemos,5,5
+Lenguadoc,1,1
+Lepanto,7,13
+Lepe,1,1
+Lerma,5,36
+Lerín,3,5
+Lesbia,1,1
+Lesbos,1,9
+Leteo,4,4
+Levante,10,10
+León,64,485
+León de San Marcos,1,1
+Liberia,1,1
+Libia,77,132
+Libonia,1,1
+Liceo,2,2
+Lida,1,1
+Lieja,3,9
+Lima,14,49
+Limbo,1,1
+Lipa de Mel,1,1
+Lipari,1,1
+Lisboa,27,82
+Lista,1,1
+Livonia,1,3
+Loja,2,3
+Lombardía,9,16
+Lomelín,1,1
+Londres,14,68
+Lora,1,1
+Lorca,4,28
+Lorena,2,3
+Loreto,9,9
+Loriana,1,1
+Los Alfaques,1,1
+Los Donceles,1,1
+Los Remedios,1,1
+Los Vélez,1,1
+Lovaina,1,1
+Lozoya,1,1
+Lucemburque,2,4
+Lucena,1,1
+Lugo,4,4
+Luque,1,1
+Lusitania,10,15
+Luxemburque,1,1
+Lérida,2,9
+Líbano,12,13
+Macedonia,11,38
+Macedón,1,1
+Madeira,1,1
+Madrid,113,893
+Madríd,1,1
+Magallanes,1,1
+Magedo,1,1
+Maguncia,2,3
+Malaca,2,3
+Malafa,1,1
+Malagón,2,2
+Malinas,1,1
+Mallorca,14,20
+Malta,16,86
+Maluco,1,2
+Manfelta,1,1
+Mangi,1,1
+Manicongo,1,1
+Manresa,1,3
+Mansilla,2,2
+Manto,1,1
+Mantua,15,73
+Mantua Carpetánea,1,1
+Manzanares,25,69
+Manzofa,1,3
+Maqueda,3,3
+Mar Andrómedas,1,1
+Mar Bermejo,4,4
+Mar Caribe,1,1
+Mar Caspio,1,1
+Mar Español,1,1
+Mar Fenicio,1,1
+Mar Grande,1,1
+Mar Hircano,1,1
+Mar Negro,1,1
+Mar Partenopeo,1,1
+Mar Rojo,1,1
+Mar Tonta,1,3
+Mar de Tile,1,2
+Mar del Sur,5,5
+Marañón,1,1
+Marbella,2,2
+Marchena,1,1
+Marle,1,1
+Marne,3,3
+Marruecos,32,57
+Marsella,21,28
+Marsilio,1,1
+Martos,5,12
+Masalanca,3,3
+Mastrique,1,16
+Mauritania,3,3
+Mayorga,1,1
+Mazagán,3,6
+Mazalquivir,2,2
+Mazapanes,1,1
+Mazara,1,1
+Mecinan,1,1
+Medellín,2,2
+Media,3,8
+Medina,1,1
+Medina Sidonia,6,12
+Medina de Rioseco,1,1
+Medina del Campo,8,38
+Medinaceli,3,3
+Mediodía,1,1
+Mediterráneo,5,5
+Medo,2,2
+Medos,2,2
+Melfi,2,3
+Melilla,8,9
+Melinde,2,2
+Meliona,1,1
+Membrilla,1,33
+Mendoza,1,1
+Menfis,5,5
+Menorca,1,1
+Mequinez,1,1
+Mesina,8,17
+Mesopotamia,3,6
+Mesuar,1,1
+Mesón de Atalante,2,2
+Metz,1,1
+Micalete,1,1
+Milagro,1,1
+Milano,1,1
+Milburgo,1,2
+Milán,57,290
+Minaroz,1,1
+Minas,1,1
+Mirabel,3,4
+Miraflor,3,10
+Miraflores,1,2
+Miralba,1,1
+Miranda,1,1
+Misa,1,3
+Misia,1,1
+Mista,1,1
+Miño,4,5
+Moab,3,3
+Modon,1,2
+Monasterio de Monserrat,5,8
+Monasterio de San Benito,1,2
+Monasterio de San Bruno,1,1
+Monasterio de San Payo,1,1
+Moncada,4,24
+Moncayo,8,11
+Moncolibre,1,1
+Mondoñedo,1,1
+Monforte,3,4
+Monrolobre,1,1
+Montalbán,2,18
+Montalto,1,1
+Montalvo,1,1
+Montaña de Carza y Argelina,1,1
+Monte Aragón,1,1
+Monte Atlante,3,3
+Monte Atlas,1,1
+Monte Atón,1,1
+Monte Betel,1,1
+Monte Calvario,1,2
+Monte Carmelo,3,3
+Monte Casino,1,1
+Monte Celio,2,2
+Monte Cisalpino,1,1
+Monte Esquilino,1,1
+Monte Falcano,1,1
+Monte Galaad,1,1
+Monte Helicón,2,2
+Monte Imán,1,1
+Monte Indiano,1,1
+Monte Látmo,5,5
+Monte Líbano,1,1
+Monte Olimpo,2,2
+Monte Olivete,1,1
+Monte Palatino,1,1
+Monte Parnaso,5,5
+Monte Partenio,2,2
+Monte Riselo,1,1
+Monte Sinaí,1,1
+Monte Tauro,2,2
+Monte de Burgos,1,1
+Monte de Colinia,1,1
+Monte de Jubalda,1,1
+Monte de Murabel,1,2
+Monte de Tesalia,1,1
+Monte de Toledo,1,2
+Monte de Venus,1,1
+Monte de la Luna,2,2
+Monteflor,1,1
+Montefrascón,1,3
+Montemedoro,1,1
+Monterrey,1,1
+Montes Claros,2,3
+Montes Pesulanos,1,1
+Montes Rifeos,2,2
+Montes de La Bureba,1,1
+Montes de Numidia,1,1
+Montes de Pas,1,1
+Montes de Pelayo,1,1
+Montes de Toledo,1,1
+Montes de la Luna,1,1
+Montiel,1,2
+Montilla,3,5
+Montpellier,1,1
+Monviedro,3,5
+Mora,3,3
+Morata,2,2
+Moratalla,1,1
+Moravia,1,1
+Moraña,1,13
+Morea,1,1
+Morón,1,4
+Mosa,1,1
+Moscovia,2,17
+Mosela,2,2
+Mostagán,1,1
+Motril,2,4
+Mozambique,2,2
+Mulacén,1,1
+Mulvia,1,1
+Murcia,9,81
+Muro de Tolemón,1,1
+Mutaceno,1,1
+Málaga,12,17
+Mérida,1,2
+México,9,34
+Móstoles,2,6
+Namur,6,13
+Nandoralba,1,1
+Nantes,1,1
+Narbona,7,9
+Naumaquia,1,1
+Navalcarnero,1,1
+Navamuel,1,1
+Navarino,1,1
+Navarra,56,297
+Navarrete,1,1
+Navas,3,4
+Navas de Tolosa,1,1
+Nazaret,7,13
+Nebo,1,1
+Nervi,1,1
+Nevo,1,1
+Nicosia,1,2
+Nieva,1,1
+Nilo,16,16
+Nisa,1,4
+Nitria,1,4
+Niza,2,2
+Nordobico,1,2
+Normandía,2,2
+Noroña,1,1
+Norte,23,23
+Noruega,9,11
+Novara,1,1
+Nueva España,4,6
+Nules,1,1
+Numancia,9,12
+Numidia,3,6
+Nájara,1,1
+Nájera,3,3
+Nápoles,83,475
+Nínive,1,9
+Ocaso,4,4
+Ocaña,4,30
+Occidente,19,25
+Oceso,1,1
+Ocidente,2,2
+Ofir,3,3
+Olibia,1,1
+Oliva,3,4
+Olivares,1,1
+Olivos del Prado,1,1
+Olmedo,2,16
+Olías,3,8
+Oporto,1,1
+Orange,2,2
+Orbea,1,1
+Orgaz,2,4
+Oria,1,1
+Oriente,110,185
+Orihuela,2,2
+Orión,1,1
+Orléans,2,3
+Ormuz,1,1
+Oropesa,3,3
+Orán,41,132
+Osorno,2,3
+Ostia,5,7
+Osuna,3,5
+Otero,1,6
+Otranto,2,4
+Oviedo,15,31
+Oñate,1,1
+Padilla,2,21
+Palacio,2,4
+Palacio Real,1,1
+Palacio de Creso,1,1
+Palacios de Galiana,1,2
+Palamós,2,2
+Palas,1,1
+Palencia,7,23
+Palenzuela,2,2
+Palermo,8,20
+Palestina,10,14
+Palma,3,11
+Palma de Sol,1,1
+Palma del Río,2,7
+Palmira,1,1
+Pamplona,15,36
+Panamá,1,20
+Pancaya,2,2
+Panonia,1,1
+Paradas,1,1
+Paraíso,2,2
+Parda,1,1
+Pardo,1,1
+Paredes,1,1
+Paris,2,2
+Parma,5,26
+Paro,2,2
+Partaria,1,1
+Parto,1,1
+Partos,1,1
+Parténope,2,2
+París,58,392
+Pastrana,2,2
+Patmos,1,1
+Pausílipo,2,2
+Pavía,5,14
+Paypurti,1,1
+Pecis,1,1
+Pegú,1,1
+Pelanda,1,1
+Peloponeso,1,1
+Peloro,1,1
+Peneo,1,1
+Pernambuco,1,1
+Perpiñán,8,21
+Persia,42,108
+Perú,4,4
+Pescara,2,7
+Petrijón,1,2
+Peñafiel,2,2
+Peñaflor,2,2
+Peñalén,1,5
+Peñanegra,1,2
+Peñaranda,2,3
+Peñón,2,2
+Piamonte,3,4
+Picardía,3,3
+Pie de Gruta,1,1
+Piedragruta,1,1
+Piedrahita,1,1
+Pinabel,1,1
+Pinto,2,2
+Pirineos,18,22
+Pirú,1,1
+Pisa,2,2
+Pisuerga,1,1
+Piñarolo,1,2
+Plasencia,11,57
+Platería,2,2
+Plaza Mayor,2,4
+Plaza Nueva,1,1
+Plaza de Antón Martín,1,1
+Plaza de León,1,1
+Plaza de Orán,1,1
+Plaza de Palacio,1,1
+Plaza de San Francisco,1,1
+Plaza de San Marcos,3,6
+Plaza de Sanlúcar,1,1
+Plaza de Zocodover,8,8
+Plaza de la Olivera,3,3
+Plaza del Capitolio,1,1
+Plaza del Rocío,1,1
+Plaza del Ángel,1,1
+Plemúa,2,3
+Pliego,1,1
+Po,2,2
+Polo,1,1
+Polonia,14,76
+Pomas,1,1
+Pondelóu,1,1
+Poniente,14,14
+Pontevedra,1,1
+Ponto,2,2
+Portohércules,1,1
+Portugal,83,300
+Potosí,10,14
+Povera,1,1
+Poza,1,1
+Prada,1,1
+Prado,30,117
+Prado de Miraflor,1,1
+Praga,1,2
+Prisión del Huerto,1,1
+Provenza,6,12
+Puche,1,1
+Puente de San Angelo,1,1
+Puente de Segovia,1,1
+Puente del Real,1,1
+Puentefusco,1,1
+Puentes de Eume,1,1
+Puerta Cerrada,2,2
+Puerta Real,2,2
+Puerta de Alvega,1,1
+Puerta de Bebeceba,1,1
+Puerta de Bisagra,1,1
+Puerta de Cuarte,1,1
+Puerta de Guadalajara,3,3
+Puerta de la Bisagra,1,1
+Puerta de la Vega,1,2
+Puerta del Cambrón,1,1
+Puerta del Perdón,1,1
+Puerta del Sol,3,3
+Puerto Rico,2,2
+Puerto de Sanlúcar,1,1
+Puerto de Santa María,1,1
+Puertocarrero,1,2
+Puigcerdà,1,1
+Pujarra,1,1
+Pulla,1,1
+Pulán,1,1
+Punta Delgada,1,2
+Purén,1,4
+Puzol,3,3
+Pícala,1,1
+Quiloa,1,1
+Quintanapalla,1,1
+Quivira,2,2
+Rafidín,1,1
+Ragés,1,5
+Rambra,1,1
+Rapariego,1,1
+Ratisbona,1,2
+Ravena,1,1
+Rebelí,1,1
+Reino de Toledo,1,1
+Rennes,1,1
+Rentería,1,1
+Renty,1,1
+Requena,3,4
+Retiro,1,1
+Rialto,1,2
+Ribadavia,3,4
+Ribadeneira,1,1
+Ribadeo,2,5
+Ribagorza,3,3
+Rijoles,1,1
+Rin,6,7
+Rodamonte,1,1
+Rodas,6,10
+Roma,221,1055
+Roncesvalles,3,11
+Ronda,5,9
+Roremonda,1,6
+Rosas,1,2
+Rosellón,5,17
+Roseto,1,1
+Rovigo,1,2
+Rubicón,1,1
+Rusia,3,7
+Río Paraná,1,2
+Río de la Plata,3,4
+Ródano,1,1
+Saba,3,3
+Saboya,10,16
+Saelices,1,1
+Sagra de Toledo,1,1
+Sagunto,7,8
+Saguntos,1,1
+Sahagún,4,4
+Sajonia,5,9
+Sala de Vermón,1,1
+Salado,1,1
+Salamanca,41,118
+Salas,1,11
+Salazar,1,1
+Saldaña,2,2
+Salerno,1,2
+Salinas,1,1
+Salmacia,1,1
+Salsas,1,1
+Saluces,1,2
+Salvatierra,1,1
+Samaria,5,6
+San Agustín,1,1
+San Andrés,2,6
+San Antón,5,7
+San Bento,1,2
+San Clemente,2,2
+San Cristóbal,2,2
+San Damián,1,1
+San Dionís,11,16
+San Esteban,1,1
+San Felipe,4,10
+San Francisco,4,5
+San Germán,3,4
+San Geán,1,7
+San Ginés,2,2
+San Isidro,1,1
+San Jerónimo,3,3
+San Jerónimo del Prado,1,1
+San Jorge,1,2
+San Juan,10,14
+San Juan de Aznalfarache,5,8
+San Juan de Luz,3,3
+San Juan de Patmos,1,1
+San Juan de la Palma,1,2
+San Leonardo de Alba,1,1
+San Lucas,2,2
+San Luis,2,3
+San Marcos,1,1
+San Martín,7,13
+San Martín de la Vega,1,1
+San Miguel,3,3
+San Miguel de los Reyes,1,1
+San Miguel el Alto,4,7
+San Nicolás,2,9
+San Pedro de Cardeña,1,1
+San Pelayo de Samos,1,1
+San Petronio,1,1
+San Polo,1,1
+San Ponce de Tomaras,1,5
+San Quintín,2,2
+San Román,1,1
+San Salvador,4,5
+San Salvador de Oviedo,1,1
+San Sebastián,6,10
+San Telmo,2,2
+San Vicente,1,1
+Sanderson,1,1
+Sangüesa,1,6
+Sanlúcar,16,28
+Sansueña,4,6
+Santa Cruz,13,26
+Santa Elena,1,1
+Santa Engracia del Puerto,1,1
+Santa Fe,3,14
+Santa Fe de Bogotá,1,1
+Santa Gadea,1,1
+Santa Leocadia,1,4
+Santa Marta,1,1
+Santa María,2,4
+Santa María la Blanca,1,1
+Santa Olalla,1,1
+Santa Susana,1,1
+Santaclara,1,1
+Santander,2,2
+Santarén,2,3
+Santiago,1,1
+Santiago de Compostela,20,33
+Santiliprisco,1,1
+Santillana,5,6
+Santo Domingo,3,3
+Santo Tomé y Príncipe,1,1
+Santángel,6,7
+Saona,1,1
+Sarepta,1,1
+Sarria,2,8
+Sayago,1,1
+Sañuela,1,2
+Secuana,1,1
+Segorbe,4,4
+Segovia,16,21
+Segra,1,1
+Seir,2,2
+Selaya,2,2
+Selín,1,1
+Sena,4,4
+Senaar,1,1
+Senir,2,2
+Sephor,1,1
+Septentrión,3,3
+Serbia,1,1
+Sesa,1,1
+Sesarte,1,1
+Setubal,1,1
+Seveto,1,1
+Sevilla,111,781
+Sevillla,1,1
+Sicilia,54,210
+Siciliano,1,1
+Sidonia,1,8
+Sidón,1,1
+Siena,1,15
+Sierra,1,1
+Sierra Bermeja,1,1
+Sierra Bullones,1,1
+Sierra Elvira,1,1
+Sierra Morena,18,25
+Sierra Nevada,7,8
+Sierra de Capira,1,1
+Sierra de Elvira,1,1
+Sierra de las Monas,1,1
+Sierras Bermejas,1,1
+Sietevillas,1,1
+Sigüenza,2,2
+Sil,1,2
+Simancas,1,1
+Siquen,1,2
+Siracusa,1,1
+Sirena,1,1
+Siria,13,19
+Sisla,1,1
+Sión,7,17
+Sobrarbe,1,1
+Socot,1,1
+Sodoma,1,1
+Sofala,1,1
+Sogorbe,1,3
+Somosierra,3,3
+Sopoto,1,1
+Soria,2,3
+Sorrento,1,1
+Soto de Madrid,6,33
+Soyta,1,1
+Suecia,4,11
+Sur,11,11
+Suría,1,2
+Sus,1,1
+Susa,2,4
+Tabarca,2,2
+Tabernas de san Martín,1,1
+Tablada,1,4
+Tabladillo,2,2
+Tabor,3,4
+Tafalla,2,2
+Tafilete,4,4
+Tagarete,1,1
+Tahona,1,1
+Tajo,69,180
+Talavera,14,26
+Talavera de la Reina,1,1
+Talcahuano,1,1
+Tambico,3,3
+Tanais,2,2
+Tangut,1,1
+Taprobana,1,1
+Taranto,1,1
+Tarazona,1,2
+Targelia,1,1
+Tarifa,5,6
+Tarpeya,1,1
+Tarraconense,1,2
+Tarragona,4,4
+Tarsis,1,1
+Tarso,2,2
+Tartaria,7,18
+Tarudante,6,11
+Tauro,1,1
+Tebas,23,30
+Tejares,1,2
+Tejo,1,1
+Temetinda,1,1
+Temiscira,1,2
+Temisnam,1,1
+Tempe,1,1
+Templo de Marte,1,1
+Templo de Vesta,4,7
+Tenerife,4,27
+Tenez,1,1
+Tepecas,1,1
+Terracina,1,1
+Terranova,3,3
+Teruel,2,7
+Tesalia,8,9
+Tetuán,4,7
+Tiano,1,1
+Tibar,1,1
+Tibre,1,1
+Tierra Santa,2,2
+Tierra del Fuego,1,1
+Tifis,1,1
+Tigris,1,1
+Timbuctú,1,1
+Tiraza,1,1
+Tiria,1,1
+Tiro,4,10
+Tirreno,1,1
+Toledo,137,875
+Tolemaida,1,1
+Tolentino,1,4
+Tolosa,6,8
+Tondaya,1,1
+Toral,1,1
+Tordelaguna,1,1
+Torino,2,5
+Torlgui,1,1
+Tormes,7,14
+Toro,3,61
+Toros de Guisando,1,4
+Torre Tarpeya,1,1
+Torre de Ader,1,1
+Torre de Babel,4,4
+Torre de Comares,4,6
+Torre de David,1,1
+Torre de Hércules,1,1
+Torre de Mormojón,1,1
+Torre de Nembrot,2,2
+Torre de Sesto,1,1
+Torre del Oro,5,6
+Torre del Águila,1,1
+Torrejón,1,1
+Torrejón de Ardoz,1,5
+Torres Bermejas,3,6
+Torres de Cañete,1,1
+Tortosa,4,4
+Toscana,1,2
+Tospia,1,1
+Tracia,4,7
+Transilvania,10,19
+Trapisonda,4,4
+Trapobana,4,4
+Trasilvania,1,2
+Trasilvanía,1,9
+Trastamara,1,1
+Trastámara,1,3
+Tremecén,11,58
+Trento,1,1
+Treviño,1,1
+Triana,14,34
+Triberio,1,1
+Trinidad,1,2
+Troya,190,344
+Troyas,1,1
+Trujillo,3,6
+Trípoli,6,8
+Trópicos,1,1
+Tudela,5,17
+Turcis,1,2
+Turia,5,8
+Turquestán,1,1
+Turquía,13,14
+Turín,1,1
+Tusón,1,1
+Tábora,1,1
+Tánger,13,20
+Távora,1,2
+Tíbar,1,1
+Tíber,1,1
+Túnez,31,79
+Uceda,1,1
+Ulete,1,1
+Ulma,2,2
+Ungaro,1,1
+Urbino,1,36
+Urdemalas,1,1
+Urgel,3,5
+Urueña,1,1
+Utiel,1,1
+Vaciamadrid,1,2
+Val de Narciso,1,1
+Valaquia,2,4
+Valcázar,1,4
+Valdecalderas,1,1
+Valdecorneja,2,3
+Valdemorillo,1,1
+Valdemoro,2,2
+Valencia,79,424
+Valencina,1,1
+Valenzuela,1,1
+Valladolid,36,89
+Valle,1,1
+Valle de Carriedo,4,4
+Valle de Corneja,1,1
+Valle de Ebrón,1,1
+Valle de Engol,1,2
+Valle de Jesén,1,1
+Valle de Mambré,2,4
+Valle de Sagó,1,1
+Valle de Toranzo,1,1
+Valle de la Montaña,1,3
+Valle del Lozoya,1,1
+Valparaíso,1,1
+Vandalia,2,2
+Vasto,1,3
+Vega,1,2
+Vega de Fabros,1,4
+Vega de Granada,5,9
+Vega de Toledo,5,12
+Velada,2,2
+Venecia,42,114
+Ventillas,1,1
+Vera,2,6
+Vera de Plasencia,1,1
+Veragua,1,1
+Vercelli,1,1
+Verona,1,18
+Vesubio,2,2
+Viara,1,1
+Viarne,1,1
+Victoria,2,2
+Viena,8,18
+Villa Alonso,1,1
+Villacanes,1,1
+Villacastín,2,2
+Villacayana,1,1
+Villaflor,1,4
+Villafranca,5,5
+Villahermosa,2,2
+Villalar,1,1
+Villalba,4,13
+Villalonso,1,1
+Villalón,1,1
+Villamartín,1,1
+Villamor,1,1
+Villana,1,1
+Villanueva,1,1
+Villapalacios,1,1
+Villarreal,1,5
+Villaverde,1,10
+Villañame,1,1
+Villañane,1,1
+Villena,7,14
+Vinaròs,5,6
+Viseo,2,10
+Visiniano,1,1
+Viso,1,1
+Vistillas,1,1
+Viterbo,1,3
+Vitoria,10,11
+Vivar,5,12
+Vivares,1,1
+Vizcaya,30,50
+Vulcano,1,1
+Vélez,2,2
+Vélez de la Gomera,1,9
+Wamba,1,1
+Xirofe,1,1
+Yelbes,1,1
+Yepes,2,2
+Yucatán,1,1
+Yuste,1,1
+Zacatín,2,4
+Zahara,1,1
+Zaidía,1,1
+Zamora,32,85
+Zaragoza,50,211
+Zarza,2,3
+Zarzuela,1,1
+Zeibán,1,1
+Zelanda,2,2
+Zofala,1,1
+Zánfara,1,3
+calle de Toledo,2,2
+calle de la Oliva,1,1
+la Mosa,1,1
+la Sambra,2,3
+las Yeguas,2,2
+marruecos,2,2
+montaña Corza,1,1
+monte Celio,2,2
+monte Ida,1,1
+monte Mongibelo,1,1
+monte Olimpo,1,1
+monte Otón,1,1
+monte Pangeo,1,1
+monte Parnaso,2,2
+monte de Sanlúcar,1,1
+monte de las Olivas,1,1
+montes Riseos,1,1
+río Mármol,1,1
+san Andrés,1,1
+valencia,1,1
+África,98,254
+Ártico,2,2
+Ática,1,1
+Ávila,18,46
+Écija,13,28
+Éfeso,3,3
+Índico,3,3
+Órbigo,1,1
+Órgiva,1,1
+Úbeda,3,3
