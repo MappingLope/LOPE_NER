@@ -55,4 +55,4 @@ The texts of our corpus have been annotated with the [BIO format](https://en.wik
 
 Statistics showing the number of works in which each (standardised) place name is mentioned, and the total number of occurrences in the whole corpus, can be found [here](https://github.com/MappingLope/LOPE_NER/blob/main/data/STATS.csv).
 
-Please explore our [map](https://mappinglope.github.io/peripleo-lope)! (old version: 330 plays; currently working on the new one with 364 plays)
+Please explore our [map](https://mappinglope.github.io/peripleo-lope)!
