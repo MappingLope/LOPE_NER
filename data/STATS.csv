@@ -1,42 +1,42 @@
 Place_name_normalised,Occurrences_plays,Total_Occurrences
-España,292,2769
-Castilla,166,1311
-Francia,184,1083
-Roma,221,1055
-Madrid,113,894
+España,294,2815
+Castilla,168,1318
+Francia,186,1096
+Roma,223,1059
+Madrid,114,895
 Toledo,137,870
-Aragón,106,793
-Sevilla,111,781
-Italia,203,712
+Aragón,107,794
+Sevilla,113,783
+Italia,204,715
 Granada,89,613
 León,64,485
-Nápoles,84,477
-Valencia,78,422
-París,60,393
-Flandes,123,385
-Troya,190,344
-Argel,83,331
-Hungría,46,300
-Portugal,83,300
-Navarra,56,297
+Nápoles,85,478
+Valencia,78,423
+París,61,403
+Flandes,124,386
+Argel,84,363
+Troya,194,352
+Portugal,84,307
+Hungría,47,302
+Navarra,57,300
 Milán,57,290
-África,98,254
+África,99,255
 Barcelona,66,250
-Grecia,125,225
+Grecia,128,230
 Córdoba,77,223
-Zaragoza,50,211
-Sicilia,54,210
-Inglaterra,55,209
-Oriente,110,185
+Inglaterra,57,217
+Zaragoza,51,212
+Sicilia,55,211
+Oriente,111,187
 Alemania,78,184
 Florencia,28,180
-Tajo,68,175
+Tajo,69,176
+Asia,65,175
 Indias occidentales,60,173
-Asia,63,172
 Jerusalén,54,147
-Libia,77,132
+Libia,79,135
 Orán,41,132
-Europa,86,126
+Europa,88,128
 Burgos,23,123
 Albania,33,121
 Bretaña,17,121
@@ -44,24 +44,25 @@ Salamanca,41,118
 Prado,30,117
 Egipto,63,114
 Venecia,42,114
+Persia,44,110
 Génova,24,108
-Persia,42,108
 Galicia,40,105
+Arabia,65,90
 Valladolid,36,89
+Lisboa,28,89
 Malta,16,87
-Arabia,63,86
+Polonia,15,86
 Asturias,26,85
 Zamora,32,85
 Atenas,33,84
-Lisboa,27,82
 Murcia,9,81
 Túnez,31,79
-Polonia,14,76
+Andalucía,47,74
 Betis,46,73
 Escocia,16,73
 Mantua,15,73
-Andalucía,46,72
 Israel,33,69
+Constantinopla,39,69
 Ferrara,12,68
 Londres,14,68
 Jaén,19,67
@@ -69,23 +70,22 @@ Alba,15,66
 Alhambra,21,66
 Irlanda,12,66
 Manzanares,24,66
-Constantinopla,37,65
-Bohemia,16,64
+Bohemia,17,65
 Cleves,10,64
-Arcadia,18,63
-China,52,62
+Arcadia,19,64
+China,54,64
 Chipre,31,62
 Fez,21,62
+Marruecos,33,62
 Illescas,17,61
 Toro,3,61
+India,38,59
 Cartago,20,58
-India,37,58
 Tremecén,11,58
-Marruecos,32,57
 Plasencia,11,57
 Alcalá de Henares,20,56
-Cádiz,31,50
-Etiopía,37,50
+Cádiz,32,54
+Etiopía,39,52
 Vizcaya,30,50
 Dalmacia,13,49
 Escitia,44,49
@@ -97,15 +97,15 @@ Bruselas,10,46
 Ávila,18,46
 Cerdeña,13,45
 Gibraltar,16,44
+Indias orientales,36,44
 Biserta,16,43
 Chile,7,43
-Indias orientales,35,43
+Berbería,29,43
+Macedonia,12,43
 Jerez,15,42
 Cartagena,20,41
 Cartama,3,41
-Berbería,28,40
 Belén,16,38
-Macedonia,11,38
 Holanda,10,37
 Medina del Campo,7,37
 Fuenteovejuna,1,36
@@ -117,6 +117,7 @@ Creta,14,34
 Denia,20,34
 México,9,34
 Triana,14,34
+Sanlúcar,17,34
 Brasil,5,33
 Calabria,7,33
 Ciudad Real,8,33
@@ -131,13 +132,12 @@ Calle Mayor,16,30
 Ocaña,4,30
 Tebas,23,30
 Transilvania,11,30
-La Meca,20,29
+La Meca,21,30
 Barajas,1,28
 Benavides,1,28
 Cataluña,20,28
 Lorca,4,28
 Marsella,21,28
-Sanlúcar,16,28
 Écija,13,28
 Jarama,12,27
 Tenerife,4,27
@@ -154,7 +154,7 @@ Bolonia,14,24
 Getafe,9,24
 Moncada,4,24
 Norte,24,24
-Alejandría,10,23
+Alejandría,11,24
 Palencia,7,23
 Alicante,17,22
 Pirineos,18,22
@@ -174,24 +174,24 @@ Benavente,6,19
 Borgoña,9,19
 Jaca,9,19
 La Vera,1,19
+El Cairo,11,19
 Alcázar de Sevilla,3,18
 Alcázar de Toledo,11,18
 Barleta,1,18
 Casa de Campo,6,18
 Córcega,6,18
-El Cairo,10,18
 Montalbán,2,18
 Sión,8,18
 Tartaria,7,18
 Verona,1,18
-Viena,8,18
+Moscovia,3,18
 Alhama,5,17
 Fuentes,2,17
 Mesina,8,17
-Moscovia,2,17
 Málaga,12,17
 Rosellón,5,17
 Tudela,5,17
+Algarve,8,17
 Ibernia,1,16
 Lombardía,9,16
 Mastrique,1,16
@@ -199,23 +199,24 @@ Nilo,16,16
 Olmedo,2,16
 Saboya,10,16
 San Dionís,11,16
+Turquía,14,16
 Astorga,11,15
 Cuenca,13,15
 Ganges,10,15
 Judea,10,15
 Lusitania,10,15
 Siena,1,15
+Palestina,11,15
+Viena,7,14
 Alcázar de Madrid,9,14
 Fenicia,11,14
 Gran Canaria,2,14
 La Mancha,13,14
 Las Batuecas,1,14
-Palestina,10,14
 Pavía,5,14
 Poniente,14,14
 Potosí,10,14
 Santa Fe,3,14
-Turquía,13,14
 Villena,7,14
 Alpes,11,13
 Aranjuez,6,13
@@ -244,6 +245,8 @@ Numancia,9,12
 Provenza,6,12
 Vega de Toledo,5,12
 Vivar,5,12
+Tarudante,7,12
+Fuenteflor,1,12
 Almería,11,11
 Calatrava,3,11
 Cambrai,4,11
@@ -259,16 +262,14 @@ Roncesvalles,3,11
 Salas,1,11
 Suecia,4,11
 Sur,11,11
-Tarudante,6,11
 Viseo,3,11
 Vitoria,10,11
+Campos Elíseos,11,11
 Alba Real,3,10
-Algarve,7,10
 Amalfi,1,10
 Andújar,4,10
 Arles,2,10
 Baza,5,10
-Campos Elíseos,10,10
 Castilla y León,9,10
 Catania,1,10
 Chatelete,1,10
@@ -289,11 +290,13 @@ San Sebastián,6,10
 Santángel,7,10
 Tiro,4,10
 Villaverde,1,10
+Coimbra,6,10
+Media,5,10
+La Mamora,1,10
 Alcalá,4,9
 Alpujarras,7,9
 Atlántico,7,9
 Bibataubín,5,9
-Coimbra,5,9
 Colonia,6,9
 Gante,6,9
 Genil,5,9
@@ -312,6 +315,8 @@ San Nicolás,2,9
 Tesalia,8,9
 Vega de Granada,5,9
 Vélez de la Gomera,1,9
+Damasco,9,9
+Tracia,5,9
 Adamuz,4,8
 Amberes,4,8
 Antártico,5,8
@@ -320,14 +325,12 @@ Budapest,4,8
 Calle de los Gomeles,4,8
 Ceilán,7,8
 Dacia,3,8
-Damasco,8,8
 Dinádamar,6,8
 Farsalia,8,8
 Haití,1,8
 Hircania,8,8
 Indias,2,8
 Leganés,3,8
-Media,3,8
 Monasterio de Monserrat,5,8
 Olías,3,8
 Ostia,5,8
@@ -365,7 +368,6 @@ San Miguel el Alto,4,7
 Templo de Vesta,4,7
 Teruel,2,7
 Tetuán,4,7
-Tracia,4,7
 Vinaròs,6,7
 Alcántara,6,6
 Algeciras,5,6
@@ -406,6 +408,7 @@ Torre del Oro,5,6
 Torres Bermejas,3,6
 Trujillo,3,6
 Vera,2,6
+Viana,2,5
 Almagro,2,5
 Almenar,1,5
 Anglante,2,5
@@ -454,6 +457,7 @@ Torrejón de Ardoz,1,5
 Trapobana,5,5
 Urgel,3,5
 Villarreal,1,5
+Tafilete,5,5
 Alcalá la Real,1,4
 Alcaraz,2,4
 Alcolea,4,4
@@ -476,7 +480,7 @@ Gandía,3,4
 Garganta la Olla,1,4
 Gaza,4,4
 Gelves,4,4
-Gradas,3,4
+Gradas,2,3
 Guanahami,1,4
 Guyana,1,4
 Hipona,2,4
@@ -509,9 +513,8 @@ Sahagún,4,4
 Santa Leocadia,1,4
 Santa María,2,4
 Sena,4,4
-Susa,2,4
+Susa,3,7
 Tabor,3,4
-Tafilete,4,4
 Tarragona,4,4
 Tolentino,1,4
 Toros de Guisando,1,4
@@ -525,6 +528,8 @@ Vega de Fabros,1,4
 Villaflor,1,4
 Villafranca,4,4
 Zacatín,2,4
+Britania,4,4
+Índico,4,4
 Alfaques,2,3
 Almansa,3,3
 Almodóvar,3,3
@@ -542,7 +547,6 @@ Baviera,3,3
 Beamonte,1,3
 Bibalmazán,3,3
 Brañigal,1,3
-Britania,3,3
 Briviesca,1,3
 Calais,3,3
 Calle del Prado,2,3
@@ -629,7 +633,6 @@ Zarza,2,3
 Zánfara,1,3
 la Sambra,2,3
 Éfeso,3,3
-Índico,3,3
 Úbeda,3,3
 Abenamar,1,2
 Aguas Muertas,2,2
@@ -826,7 +829,7 @@ San Clemente,2,2
 San Ginés,2,2
 San Jorge,1,2
 San Juan de la Palma,1,2
-San Miguel,2,2
+San Miguel,3,3
 San Quintín,2,2
 Santander,2,2
 Sañuela,1,2
@@ -867,10 +870,11 @@ Yepes,2,2
 Zelanda,2,2
 calle de Toledo,2,2
 las Yeguas,2,2
-marruecos,2,2
 monte Celio,2,2
 monte Parnaso,2,2
 Ártico,2,2
+Plaza de Sanlúcar,2,2
+Torre de los Espejos,1,2
 Abarima,1,1
 Abroza,1,1
 Aduana de Sevilla,1,1
@@ -1340,7 +1344,6 @@ Plaza de León,1,1
 Plaza de Orán,1,1
 Plaza de Palacio,1,1
 Plaza de San Francisco,1,1
-Plaza de Sanlúcar,1,1
 Plaza del Capitolio,1,1
 Plaza del Rocío,1,1
 Plaza del Ángel,1,1
@@ -1504,7 +1507,6 @@ Trastamara,1,1
 Trento,1,1
 Treviño,1,1
 Triberio,1,1
-Troyas,1,1
 Trópicos,1,1
 Turquestán,1,1
 Turín,1,1
@@ -1563,7 +1565,9 @@ monte de Sanlúcar,1,1
 monte de las Olivas,1,1
 río Mármol,1,1
 san Andrés,1,1
-valencia,1,1
 Ática,1,1
 Órbigo,1,1
 Órgiva,1,1
+Calen,1,1
+Calidonia,1,1
+Villaflor,1,1
