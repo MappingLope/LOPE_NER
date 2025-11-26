@@ -31,9 +31,7 @@ The default Spanish NER model of Flair has been tested on 10 [random texts](http
 |--------------|-----------|--------|----------|
 | LOC          | 0.9577    | 0.9577 | 0.9577   |
 
-We also trained the NER models on a subset of the corpus annotated with both location (LOC) and person (PER) entities (7,300 sentences, including 4,326 PER and 841 LOC). However, this multi-entity setting led to a slight decline in performance. This reduction can be attributed mainly to the increased complexity of the task, semantic ambiguity in some entities, and class imbalance—particularly the predominance of PER over LOC, which also characterizes the full corpus.
-
-The results below, obtained using the xlm-roberta-large-ner-spanish model, reflect performance under these conditions:
+We also trained the models in a multi-entity setting, annotating both location (LOC) and person (PER) entities (7,300 sentences, including 4,326 PER and 841 LOC). As expected, this more complex scenario led to a slight drop in performance for LOC due to semantic ambiguity and class imbalance (PER entities outnumber LOC entities). Results for the xlm-roberta-large-ner-spanish model in this setting were:
 
 | 20 epochs	   | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
