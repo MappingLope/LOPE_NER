@@ -33,7 +33,7 @@ The default Spanish NER model of Flair has been tested on 10 [random texts](http
 
 After applying our best-performing model (xlm-roberta-large-ner-spanish) to the 364 plays and manually correcting its outputs, we fine-tuned the model again using an expanded training set of 49,092 sentences containing 9,026 location entities (LOC). This yielded our final NER model, which we used for the full named-entity recognition task. The resulting performance was:
 
-| 20 epochs    | Precision | Recall | F1-score |
+| 10 epochs    | Precision | Recall | F1-score |
 |--------------|-----------|--------|----------|
 | LOC          | 0.9409    | 0.9595 | 0.9501   |
 
