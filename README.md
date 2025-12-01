@@ -31,6 +31,13 @@ The default Spanish NER model of Flair has been tested on 10 [random texts](http
 |--------------|-----------|--------|----------|
 | LOC          | 0.9577    | 0.9577 | 0.9577   |
 
+After applying our best-performing model (xlm-roberta-large-ner-spanish) to the 364 plays and manually correcting its outputs, we fine-tuned the model again using an expanded training set of 49,092 sentences containing 9,026 location entities (LOC). This yielded our final NER model, which we used for the full named-entity recognition task. The resulting performance was:
+
+| 20 epochs    | Precision | Recall | F1-score |
+|--------------|-----------|--------|----------|
+| LOC          | 0.9409    | 0.9595 | 0.9595   |
+
+
 We also trained the models in a multi-entity setting, annotating both location (LOC) and person (PER) entities (7,300 sentences, including 4,326 PER and 841 LOC). As expected, this more complex scenario led to a slight drop in performance for LOC due to semantic ambiguity and class imbalance (PER entities outnumber LOC entities). Results for the xlm-roberta-large-ner-spanish model in this setting were:
 
 | 20 epochs	   | Precision | Recall | F1-score |
