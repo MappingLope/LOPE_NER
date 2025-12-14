@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[Teixeira's Map of Madrid- 1656 (uncolored)]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>40.4315523</north>
+          <south>40.4017711</south>
+          <east>-3.6720286</east>
+          <west>-3.7384992</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>https://mapwarper.net/maps/31601.kml?DBOX=-3.7384992,40.4017711,-3.6720286,40.4315523,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
